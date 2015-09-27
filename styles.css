@@ -1,0 +1,26 @@
+div.outer {
+  /* This sets a 'box' in the screen to take up the whole screen which the map can fill */
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+#controls {
+  /* Appearance of the Control Box */
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.65;
+  zoom: 0.9;
+  transition: opacity 500ms 1s;
+}
+#controls:hover {
+  /* Fade in while hovering over control box */
+  opacity: 0.95;
+  transition-delay: 0;
+}
