@@ -6,7 +6,8 @@ library(RColorBrewer)
 #### prepare tool data ####
 
 # read in full data for input tool, map won't run with any missing values
-location_data <- read.csv("locations with GORS regions.csv")
+location_data <- read.csv("Corrected Location Code Data.csv")
+table_data <- location_data
 location_data <- location_data[complete.cases(location_data),]
 
 # items for drop down menus used later
@@ -81,14 +82,14 @@ shinyServer(function(input, output) {
   
 #### Data Table Code ####  
   output$Location_Table <- renderDataTable({
-    datatable(location_data)
+    datatable(table_data)
   })
 
 #### Download Button Code ####  
   output$downloadData <- downloadHandler(
     filename = 'Location Code Data.csv',
     content = function(file) {
-      write.csv(location_data, file)
+      write.csv(table_data, file)
       }
     )
   

@@ -1,0 +1,2559 @@
+Code,Location,lon,lat,Constituency,region_name
+111,Ashington,-1.5659829,55.182978,Wansbeck,North East
+111,BEDLINGTON,-1.599454,55.131664,Wansbeck,North East
+111,BEDLINGTONSHIRE,-1.5991494,55.1322724,Wansbeck,North East
+111,BLYTH - NTHMB,-1.8858873,55.1134685,Berwick-upon-Tweed,North East
+111,CRAMLINGTON,-1.5808,55.086136,Blyth Valley,North East
+111,NEWBIGGIN-BY-THE-SEA,-1.513952,55.185467,Wansbeck,North East
+111,SEATON DELAVAL,-1.5276765,55.0711452,Blyth Valley,North East
+111,SEATON VALLEY,-1.5300297,55.0728289,Blyth Valley,North East
+111,SHIREMOOR,-1.510266,55.037226,Tynemouth,North East
+112,NORTH SHIELDS,-1.449138,55.010762,Tynemouth,North East
+112,TYNEMOUTH,-1.4255819,55.0175869,Tynemouth,North East
+112,WALLSEND,-1.529375,54.991512,North Tyneside,North East
+112,WHITLEY BAY,-1.4512989,55.046389,Tynemouth,North East
+112,WILLINGTON QUAY,-1.49658,54.990152,North Tyneside,North East
+113,ELSWICK,-1.648392,54.968284,Newcastle upon Tyne Central,North East
+113,GOSFORTH,-1.6197315,55.0072676,Newcastle upon Tyne Central,North East
+113,HEATON,-1.583544,54.984077,Newcastle upon Tyne East,North East
+113,LONGBENTON,-1.590343,55.0119467,North Tyneside,North East
+113,NEWBORN,NA,NA,NA,NA
+113,NEWCASTLE-ON-TYNE,-1.553356,54.974614,Newcastle upon Tyne East,North East
+113,WALKER,-1.553356,54.974614,Newcastle upon Tyne East,North East
+113,WEST MOOR,-1.5821764,55.027902,North Tyneside,North East
+114,BOLDON,-1.436787,54.949386,Jarrow,North East
+114,EAST BOLDON,-1.422718,54.943156,Jarrow,North East
+114,HEBBURN,-1.52199,54.972283,Jarrow,North East
+114,JARROW,-1.482757,54.980297,Jarrow,North East
+114,SOUTH SHIELDS,-1.427406,54.999424,South Shields,North East
+115,BLAYDON,-1.7181963,54.9612234,Blaydon,North East
+115,DUNSTON,-1.639,54.952,Gateshead,North East
+115,FELLING,-1.564331,54.950298,Gateshead,North East
+115,GATESHEAD,-1.603411,54.95268,Gateshead,North East
+115,PELAW NR GATESHEAD,-1.603411,54.95268,Gateshead,North East
+115,ROWLANDS GILL,-1.74265,54.924707,Blaydon,North East
+115,RYTON,-1.7629735,54.9728909,Blaydon,North East
+115,TEAMS TYNE & WEAR,-1.6184577,54.9598286,Gateshead,North East
+115,WHICKHAM,-1.674552,54.944116,Blaydon,North East
+116,PALLION,-1.416872,54.9102762,Sunderland Central,North East
+116,PETERLEE DURHAM,-1.32895,54.762441,Easington,North East
+116,SEAHAM,-1.337517,54.840346,Easington,North East
+116,SOUTHWICK - D~HAM,NA,NA,NA,NA
+116,SUNDERLAND,-1.383801,54.906869,Sunderland Central,North East
+116,WEARSIDE,-1.369063,54.888244,Sunderland Central,North East
+117,CONSETT,-1.833026,54.851797,North West Durham,North East
+117,LANCHESTER,-1.740305,54.82232,North West Durham,North East
+117,STANLEY - DURHAM,-1.698841,54.868948,North Durham,North East
+118,BIRTLEY,-1.5774599,54.8980589,Blaydon,North East
+118,CHESTER-LE-STREET,-1.5740888,54.8591161,North Durham,North East
+118,HETTON,NA,NA,NA,NA
+118,WASHINGTON,-1.517366,54.897432,Washington and Sunderland West,North East
+119,CASTLE EDEN,-1.3509303,54.7360617,Easington,North East
+119,EASINGTON,-1.3516487,54.783504,Easington,North East
+119,HASWELL,-1.418679,54.784856,Easington,North East
+119,HORDEN,-1.3135167,54.7633041,Easington,North East
+119,TRIMDON STATION,-1.4213633,54.7054325,Sedgefield,North East
+119,WINGATE,-1.382083,54.735421,Sedgefield,North East
+121,BISHOP AUCKLAND,-1.678788,54.663822,Bishop Auckland,North East
+121,CROOK,-1.743545,54.715131,North West Durham,North East
+121,FERRY HILL,-1.553164,54.688034,Sedgefield,North East
+121,SEDGEFIELD,-1.4516577,54.6594559,Sedgefield,North East
+121,SHILDON,-1.654915,54.633417,Bishop Auckland,North East
+121,SPENNYMOOR,-1.58552,54.697721,Bishop Auckland,North East
+121,STILLINGTON DURHAM,-1.4214866,54.6049111,Stockton North,North East
+121,TOW LAW,-1.811502,54.74285,North West Durham,North East
+121,UPHOLLAND,NA,NA,NA,NA
+121,WEARDALE,NA,NA,NA,NA
+121,WILLINGTON,NA,NA,NA,NA
+122,HARTLEPOOL,-1.212926,54.691745,Hartlepool,North East
+122,WEST HARTLEPOOL,-1.212926,54.691745,Hartlepool,North East
+123,BILLINGHAM,-1.290961,54.612537,Stockton North,North East
+123,ESTON,-1.144621,54.560936,Redcar,North East
+123,HAVERTON HILL,-1.2487801,54.5957351,Stockton North,North East
+123,MIDDLESBROUGH,-1.234956,54.574227,Middlesbrough,North East
+123,REDCAR,-1.0779515,54.5974636,Redcar,North East
+123,STOCKTON-ON-TEES,-1.3289821,54.5704551,Stockton North,North East
+123,THORNABY-ON-TEES,-1.2936359,54.5403076,Stockton South,North East
+124,BROTTON,-0.937091,54.568162,Middlesbrough South and East Cleveland,North East
+124,CLEVELAND,NA,NA,NA,NA
+124,GUISBOROUGH,-1.049544,54.536241,Middlesbrough South and East Cleveland,North East
+124,LOFTUS,-0.889884,54.553041,Middlesbrough South and East Cleveland,North East
+124,MARSKE-BY-THE-SEA,-1.019708,54.591928,Redcar,North East
+124,SALTBURN,NA,NA,NA,NA
+124,SKELTON,-0.98951,54.561954,Middlesbrough South and East Cleveland,North East
+125,CROFT,NA,NA,NA,NA
+125,DARLINGTON,-1.559458,54.52361,Darlington,North East
+125,NEWTON AYCLIFFE DURHAM,-1.575577,54.615988,Sedgefield,North East
+126,BRANDON AND BYSHOTTLES,-1.6212267,54.7633539,City of Durham,North East
+126,DURHAM,-1.584852,54.77525,City of Durham,North East
+127,Barnard Castle,-1.923741,54.545284,Bishop Auckland,North East
+127,MIDDLETON-IN-TEESDALE,-2.085454,54.626508,Bishop Auckland,North East
+127,STARTFORTH,-1.942108,54.539702,Bishop Auckland,North East
+127,WOLSINGHAM,-1.88394,54.73256,North West Durham,North East
+131,Aspatria,-3.333129,54.763442,Workington,North West
+131,BECXERMET,-3.516837,54.447505,Copeland,North West
+131,BOOTLE STATION,-3.3999005,54.2961479,Copeland,North West
+131,CLEATOR MOOR,-3.517168,54.521906,Copeland,North West
+131,COCKERMOUTH,-3.367985,54.663261,Workington,North West
+131,EGREMONT,-3.528926,54.480973,Copeland,North West
+131,ENNERDALE,-3.438319,54.529171,Copeland,North West
+131,FRIZINGTON,-3.495363,54.540489,Copeland,North West
+131,HOLMROOK,-3.420524,54.383676,Copeland,North West
+131,MARYPORT,-3.49494,54.714441,Workington,North West
+131,MILLOM,-3.272847,54.212073,Copeland,North West
+131,MOOR ROW,-3.536742,54.515736,Copeland,North West
+131,RAVENGLASS,-3.40582,54.356268,Copeland,North West
+131,SEASCALE,-3.481608,54.396774,Copeland,North West
+131,ST BEES,-3.5895867,54.4905516,Copeland,North West
+131,WIGTON,-3.161231,54.825544,Penrith and The Border,North West
+131,WORKINGTON,-3.542752,54.643569,Workington,North West
+141,EASINGWOLD,-1.191874,54.1214408,Thirsk and Malton,Yorkshire and The Humber
+141,HELMSLEY,-1.054344,54.246572,Thirsk and Malton,Yorkshire and The Humber
+141,KIRKBY MOORSIDE,-0.93125,54.2695646,Thirsk and Malton,Yorkshire and The Humber
+141,MALTON,-0.797897,54.136836,Thirsk and Malton,Yorkshire and The Humber
+141,NORTON,-0.783321,54.132775,Thirsk and Malton,Yorkshire and The Humber
+141,PICKERING,-0.777553,54.243925,Thirsk and Malton,Yorkshire and The Humber
+141,SCALBY,-0.450643,54.298911,Scarborough and Whitby,Yorkshire and The Humber
+141,SCARBOROUGH,-0.399752,54.283113,Scarborough and Whitby,Yorkshire and The Humber
+141,STOKESLEY,-1.18531,54.471908,Richmond (Yorks),Yorkshire and The Humber
+141,WHITBY,-0.613347,54.486335,Scarborough and Whitby,Yorkshire and The Humber
+142,Aysgarth,-1.9967434,54.2915895,Richmond (Yorks),Yorkshire and The Humber
+142,BEDALE,-1.5933179,54.2887008,Richmond (Yorks),Yorkshire and The Humber
+142,CATTERICK CAMP,-1.721519,54.374081,Richmond (Yorks),Yorkshire and The Humber
+142,HAWKS,-1.5331074,53.9031539,Elmet and Rothwell,Yorkshire and The Humber
+142,LEYBURN,-1.826792,54.309591,Richmond (Yorks),Yorkshire and The Humber
+142,MASHAM,-1.655749,54.22334,Skipton and Ripon,Yorkshire and The Humber
+142,NORTHALLERTON,-1.429959,54.337961,Richmond (Yorks),Yorkshire and The Humber
+142,REETH,-1.9428115,54.3894619,Richmond (Yorks),Yorkshire and The Humber
+142,THIRSK,-1.341377,54.233849,Thirsk and Malton,Yorkshire and The Humber
+142,WATH N.YORKS,-1.758943,54.0852715,Skipton and Ripon,Yorkshire and The Humber
+142,YARM,-1.354759,54.504523,Stockton South,North East
+151,Alnwick,-1.706299,55.412744,Berwick-upon-Tweed,North East
+151,Amble,-1.585261,55.331461,Berwick-upon-Tweed,North East
+151,BELFORD,-1.828824,55.599331,Berwick-upon-Tweed,North East
+151,CHATHILL,-1.707851,55.533635,Berwick-upon-Tweed,North East
+151,CHOPPINGTON,-1.598327,55.146861,Wansbeck,North East
+151,CORNHILL-ON-TWEED,-2.223397,55.647035,Berwick-upon-Tweed,North East
+151,GLENDALE,NA,NA,NA,NA
+151,MINDRUM,-2.2531301,55.5886986,Berwick-upon-Tweed,North East
+151,MORPETH,-1.687493,55.16875,Wansbeck,North East
+151,ROTHBURY,-1.909547,55.310464,Berwick-upon-Tweed,North East
+151,SEAHOUSES,-1.651159,55.581148,Berwick-upon-Tweed,North East
+151,WOOLER,-2.012239,55.54684,Berwick-upon-Tweed,North East
+152,Alson with Garrigill,-2.4354798,54.80891,Penrith and The Border,North West
+152,Alston,-2.438685,54.812167,Penrith and The Border,North West
+152,BELLINGHAM,-2.254156,55.14578,Hexham,North East
+152,CORBRIDGE,-2.017505,54.974046,Hexham,North East
+152,GARRIGILL,-2.3978959,54.767818,Penrith and The Border,North West
+152,HALTWHISTLE,-2.460856,54.972237,Hexham,North East
+152,HEXHAM,-2.1121439,54.972665,Hexham,North East
+152,PRUDHOE,-1.84723,54.962199,Hexham,North East
+152,RIDING MILL,-1.972495,54.94938,Hexham,North East
+152,STOCKSFIELD,-1.906376,54.947653,Hexham,North East
+152,WYLAM,-1.827212,54.97812,Hexham,North East
+161,BORDER,NA,NA,NA,NA
+161,BRAMPTON,-2.736329,54.942631,Penrith and The Border,North West
+161,CARLISLE,-2.932931,54.892473,Carlisle,North West
+161,LONGTOWN,-2.971888,55.009299,Penrith and The Border,North West
+162,Ambleside,-2.961333,54.428736,Westmorland and Lonsdale,North West
+162,Appleby,NA,NA,NA,NA
+162,KENDAL,-2.74629,54.328006,Westmorland and Lonsdale,North West
+162,KESWICK,-3.134706,54.601276,Copeland,North West
+162,KIRKBY STEPHEN,-2.348925,54.474279,Penrith and The Border,North West
+162,KRIKBY STEPHEN,-2.348925,54.474279,Penrith and The Border,North West
+162,MILNTHORPE,-2.773161,54.226867,Westmorland and Lonsdale,North West
+162,PENRITH,-2.752708,54.664097,Penrith and The Border,North West
+162,SEDBERGH,-2.528174,54.323629,Westmorland and Lonsdale,North West
+162,WINDERMERE,-2.906785,54.380685,Westmorland and Lonsdale,North West
+211,Baildon,-1.768142,53.852716,Shipley,Yorkshire and The Humber
+211,BRADFORD YORKSHIRE,-1.759398,53.795984,Bradford West,Yorkshire and The Humber
+211,QUEENSBURY,-1.842575,53.76988,Bradford South,Yorkshire and The Humber
+211,SHELF,-1.812844,53.756918,Halifax,Yorkshire and The Humber
+211,SHIPLEY,-1.776978,53.835927,Shipley,Yorkshire and The Humber
+212,ELLAND,-1.844929,53.683503,Calder Valley,Yorkshire and The Humber
+212,HALIFAX,-1.85754,53.72702,Halifax,Yorkshire and The Humber
+212,HEBDEN BRIDGE,-2.013021,53.743304,Calder Valley,Yorkshire and The Humber
+212,HEBDEN ROYD,-2.0060665,53.7093134,Calder Valley,Yorkshire and The Humber
+212,HEPTON,NA,NA,NA,NA
+212,RIPPONDEN,-1.939549,53.675254,Calder Valley,Yorkshire and The Humber
+212,SOWERBY BRIDGE,-1.913411,53.706709,Halifax,Yorkshire and The Humber
+212,TODMORDEN,-2.0987969,53.716344,Calder Valley,Yorkshire and The Humber
+213,Batley,-1.635083,53.717028,Batley and Spen,Yorkshire and The Humber
+213,CLECKHEATON,-1.707525,53.723048,Batley and Spen,Yorkshire and The Humber
+213,DEWSBURY,-1.6296949,53.689833,Dewsbury,Yorkshire and The Humber
+213,HECKMONDWIKE,-1.670679,53.706976,Batley and Spen,Yorkshire and The Humber
+213,LIVERSEDGE,-1.697018,53.709984,Batley and Spen,Yorkshire and The Humber
+213,MIRFIELD,-1.696713,53.680122,Dewsbury,Yorkshire and The Humber
+213,MORLEY,-1.598045,53.744513,Morley and Outwood,Yorkshire and The Humber
+213,OSSETT,-1.578877,53.681091,Wakefield,Yorkshire and The Humber
+213,SPEN VALLEY,-1.68897,53.7355296,Batley and Spen,Yorkshire and The Humber
+213,SPENBOROUGH,NA,NA,NA,NA
+214,BRIGHOUSE,-1.782501,53.699729,Calder Valley,Yorkshire and The Humber
+214,DENBY DALE,-1.6529609,53.574585,Dewsbury,Yorkshire and The Humber
+214,HOLMFIRTH,-1.786292,53.571744,Colne Valley,Yorkshire and The Humber
+214,HUDDERSFIELD,-1.785035,53.645792,Huddersfield,Yorkshire and The Humber
+214,KIRKBURTON,-1.701087,53.608535,Dewsbury,Yorkshire and The Humber
+214,MELTHAM,-1.851332,53.592359,Colne Valley,Yorkshire and The Humber
+214,SADDLEWORTH,-1.9949813,53.557788,Oldham East and Saddleworth,North West
+214,SKELMANTHORPE,-1.6509,53.591923,Dewsbury,Yorkshire and The Humber
+214,SLAITHWAITE,-1.88121,53.618498,Colne Valley,Yorkshire and The Humber
+215,BENTHAM YORKS,-2.5090175,54.1180014,Skipton and Ripon,Yorkshire and The Humber
+215,BINGLEY,-1.833781,53.847389,Shipley,Yorkshire and The Humber
+215,DENHOLME,-1.895669,53.803435,Shipley,Yorkshire and The Humber
+215,KEIGHLEY,-1.912358,53.867795,Keighley,Yorkshire and The Humber
+215,SETTLE,-2.277655,54.068246,Skipton and Ripon,Yorkshire and The Humber
+215,SILSDEN,-1.9377286,53.911897,Keighley,Yorkshire and The Humber
+215,SKIPTON,-2.0162787,53.9628495,Skipton and Ripon,Yorkshire and The Humber
+216,Armley,-1.574603,53.797533,Leeds West,Yorkshire and The Humber
+216,HORSFORTH,-1.636099,53.842177,Pudsey,Yorkshire and The Humber
+216,LEEDS,-1.5490774,53.8007554,Leeds Central,Yorkshire and The Humber
+216,PUDSEY,-1.663,53.797,Pudsey,Yorkshire and The Humber
+216,STANNINGLEY,-1.6587396,53.808028,Leeds West,Yorkshire and The Humber
+217,Aireborough,NA,NA,NA,NA
+217,GUISELEY,-1.706645,53.877118,Pudsey,Yorkshire and The Humber
+217,ILKLEY,-1.822817,53.925486,Keighley,Yorkshire and The Humber
+217,OTLEY,-1.691786,53.905825,Leeds North West,Yorkshire and The Humber
+217,WHARFEDALE,NA,NA,NA,NA
+221,Barnsley,-1.479726,53.55263,Barnsley Central,Yorkshire and The Humber
+221,CUDWORTH,-1.415027,53.577872,Barnsley East,Yorkshire and The Humber
+221,DARFIELD,-1.376548,53.535136,Barnsley East,Yorkshire and The Humber
+221,DARTON,-1.525187,53.586869,Barnsley Central,Yorkshire and The Humber
+221,DODWORTH,-1.524437,53.540062,Penistone and Stocksbridge,Yorkshire and The Humber
+221,HEMSWORTH,-1.352693,53.615428,Hemsworth,Yorkshire and The Humber
+221,HOYLAND,-1.44056,53.498492,Barnsley East,Yorkshire and The Humber
+221,SOUTH KIRKBY,-1.322734,53.592424,Hemsworth,Yorkshire and The Humber
+221,WOMBWELL,-1.399319,53.521016,Barnsley East,Yorkshire and The Humber
+221,WORSBOROUGH,-1.461325,53.528409,Barnsley East,Yorkshire and The Humber
+222,CASTLEFORD,-1.345968,53.723466,"Normanton, Pontefract and Castleford",Yorkshire and The Humber
+222,FEATHERSTONE,-1.356949,53.674814,Hemsworth,Yorkshire and The Humber
+222,GARFORTH,-1.389877,53.792149,Elmet and Rothwell,Yorkshire and The Humber
+222,KNOTTINGLEY,-1.2437419,53.707105,"Normanton, Pontefract and Castleford",Yorkshire and The Humber
+222,NORMANTON,-1.417148,53.700876,"Normanton, Pontefract and Castleford",Yorkshire and The Humber
+222,OSGOLDCROSS,-1.332992,53.681381,"Normanton, Pontefract and Castleford",Yorkshire and The Humber
+222,PONTEFRACT,-1.308648,53.691688,"Normanton, Pontefract and Castleford",Yorkshire and The Humber
+223,Adwick-le-Street,-1.189055,53.5722088,Doncaster North,Yorkshire and The Humber
+223,Askern,-1.155753,53.617273,Doncaster North,Yorkshire and The Humber
+223,CONNISBROUGH,-1.2263372,53.4805944,Don Valley,Yorkshire and The Humber
+223,DEARNE,-1.4423921,53.5517378,Barnsley East,Yorkshire and The Humber
+223,DONCASTER,-1.128462,53.52282,Doncaster Central,Yorkshire and The Humber
+223,GOLDTHORPE,-1.307202,53.534601,Wentworth and Dearne,Yorkshire and The Humber
+223,MEXBOROUGH,-1.280452,53.493099,Doncaster North,Yorkshire and The Humber
+223,SWINTON YORKS,-1.317519,53.488529,Wentworth and Dearne,Yorkshire and The Humber
+223,THORNE,-0.9614398,53.6104213,Don Valley,Yorkshire and The Humber
+223,WATH UPON DEARNE,-1.339493,53.5029116,Wentworth and Dearne,Yorkshire and The Humber
+224,HORBURY,-1.552155,53.661066,Wakefield,Yorkshire and The Humber
+224,WAKEFIELD,-1.505924,53.683298,Wakefield,Yorkshire and The Humber
+231,CHAPELTOWN,-1.4658469,53.459821,Penistone and Stocksbridge,Yorkshire and The Humber
+231,PENISTONE,-1.6255329,53.526141,Penistone and Stocksbridge,Yorkshire and The Humber
+231,STOCKSBRIDGE,-1.593719,53.482769,Penistone and Stocksbridge,Yorkshire and The Humber
+231,WORTLEY,-1.5377701,53.490489,Penistone and Stocksbridge,Yorkshire and The Humber
+232,Barnoldswick,NA,NA,NA,NA
+232,DINNINGTON,-1.203068,53.372587,Rother Valley,Yorkshire and The Humber
+232,MALTBY,-1.201148,53.422615,Rother Valley,Yorkshire and The Humber
+232,RAWMARSH,-1.3442806,53.4616366,Wentworth and Dearne,Yorkshire and The Humber
+232,ROTHERHAM,-1.3635009,53.4326035,Rotherham,Yorkshire and The Humber
+232,TICKHILL,-1.1093635,53.4329349,Don Valley,Yorkshire and The Humber
+233,Attercliffe,-1.434197,53.394858,Sheffield South East,Yorkshire and The Humber
+233,SHEFFIELD,-1.470085,53.381129,Sheffield Central,Yorkshire and The Humber
+233,WOODHOUSE,NA,NA,NA,NA
+240,HUMBER HOWE,-0.3339036,53.6772398,Cleethorpes,Yorkshire and The Humber
+241,GOOLE,-0.876381,53.702941,Brigg and Goole,Yorkshire and The Humber
+241,HOWDEN,-0.868877,53.745894,Haltemprice and Howden,Yorkshire and The Humber
+241,SELBY,-1.067189,53.783524,Selby and Ainsty,Yorkshire and The Humber
+242,BEVERLEY,-0.435093,53.841963,Beverley and Holderness,Yorkshire and The Humber
+242,BROUGH,-0.573215,53.729988,Haltemprice and Howden,Yorkshire and The Humber
+242,COTTINGHAM,-0.413978,53.782081,Haltemprice and Howden,Yorkshire and The Humber
+242,HALTEMPRICE,-0.3822804,53.7384813,Kingston upon Hull West and Hessle,Yorkshire and The Humber
+242,HEDON,-0.1948,53.7395,Beverley and Holderness,Yorkshire and The Humber
+242,HESSLE,-0.434858,53.723805,Kingston upon Hull West and Hessle,Yorkshire and The Humber
+242,HOLDERNESS,-0.1166667,53.75,Beverley and Holderness,Yorkshire and The Humber
+242,HORNSEA,-0.173953,53.9104,Beverley and Holderness,Yorkshire and The Humber
+242,HULL,-0.3367413,53.7456709,Kingston upon Hull West and Hessle,Yorkshire and The Humber
+242,KINGSTON-ON-HULL,-0.301392,53.779691,Kingston upon Hull East,Yorkshire and The Humber
+242,NORTH FERRIBY,-0.506897,53.722777,Haltemprice and Howden,Yorkshire and The Humber
+242,WITHERNSEA,0.032889,53.731256,Beverley and Holderness,Yorkshire and The Humber
+251,BRIDLINGTON,-0.198802,54.08535,East Yorkshire,Yorkshire and The Humber
+251,DRIFFIELD,-0.443377,54.005996,East Yorkshire,Yorkshire and The Humber
+251,FILEY,-0.290594,54.210076,Thirsk and Malton,Yorkshire and The Humber
+252,HARROGATE,-1.541812,53.99212,Harrogate and Knaresborough,Yorkshire and The Humber
+252,KNARESBOROUGH,-1.47102,54.011022,Harrogate and Knaresborough,Yorkshire and The Humber
+252,NIDDERDALE,NA,NA,NA,NA
+252,PATELEY BRIDGE,-1.75522,54.08502,Skipton and Ripon,Yorkshire and The Humber
+252,RIPON,-1.527334,54.13564,Skipton and Ripon,Yorkshire and The Humber
+252,TADCASTER,-1.260889,53.883551,Selby and Ainsty,Yorkshire and The Humber
+252,WETHERBY,-1.384816,53.927056,Elmet and Rothwell,Yorkshire and The Humber
+253,DERWENT,NA,NA,NA,NA
+253,FLAXTON,-0.9633464,54.0521952,Thirsk and Malton,Yorkshire and The Humber
+253,POCKLINGTON,-0.7794059,53.9300565,East Yorkshire,Yorkshire and The Humber
+253,YORK,-1.0872979,53.9599651,York Central,Yorkshire and The Humber
+261,GAINSBOROUGH,-0.774465,53.400575,Gainsborough,East Midlands
+262,Barnetby,-0.403125,53.571456,Brigg and Goole,Yorkshire and The Humber
+262,BRIGG,-0.491887,53.55185,Brigg and Goole,Yorkshire and The Humber
+262,GLANFORD BRIGG,-0.4995018,53.5503189,Brigg and Goole,Yorkshire and The Humber
+262,ISLE OF AXHOLME,-0.8237314,53.5287752,Brigg and Goole,Yorkshire and The Humber
+262,SCUNTHORPE,-0.654413,53.588646,Scunthorpe,Yorkshire and The Humber
+263,LINCOLN,-0.540579,53.230688,Lincoln,East Midlands
+263,MARKET RASEN,-0.333285,53.387762,Gainsborough,East Midlands
+263,WELTON,-0.479467,53.3083219,Gainsborough,East Midlands
+266,Barrow-on-Humber,-0.3803828,53.6750784,Cleethorpes,Yorkshire and The Humber
+266,Barton-upon-Humber,-0.443368,53.686675,Cleethorpes,Yorkshire and The Humber
+266,BURTON-ON-HUMBER,NA,NA,NA,NA
+266,CAISTOR,-0.315393,53.497485,Gainsborough,East Midlands
+266,CLEETHORPES,-0.029435,53.557378,Cleethorpes,Yorkshire and The Humber
+266,GRIMSBY,-0.080784,53.567471,Great Grimsby,Yorkshire and The Humber
+266,HABROUGH,-0.264949,53.607852,Cleethorpes,Yorkshire and The Humber
+266,IMMINGHAM W.MIDLANDS,NA,NA,NA,NA
+266,ULCEBY,-0.330649,53.617983,Cleethorpes,Yorkshire and The Humber
+267,Alford (Lincolnchire),0.183359,53.263271,Louth and Horncastle,East Midlands
+267,LOUTH,-0.007711,53.365962,Louth and Horncastle,East Midlands
+267,MABLETHORPE,0.261071,53.340882,Louth and Horncastle,East Midlands
+267,SKEGNESS,0.337881,53.146403,Boston and Skegness,East Midlands
+267,SUTTON - LINCS,0.28132,53.312149,Louth and Horncastle,East Midlands
+268,SPILSBY,0.0914399,53.174675,Louth and Horncastle,East Midlands
+311,WORKSOP,-1.122745,53.309302,Bassetlaw,East Midlands
+312,BOLSOVER,-1.2897209,53.231044,Bolsover,East Midlands
+312,CHESTERFIELD,-1.421629,53.235048,Chesterfield,East Midlands
+312,CLAY CROSS,-1.414784,53.163795,North East Derbyshire,East Midlands
+312,CLOWNE,-1.2652699,53.27422,Bolsover,East Midlands
+312,DRONFIELD,-1.467959,53.302279,North East Derbyshire,East Midlands
+312,ECKINGTON,-1.357039,53.30756,North East Derbyshire,East Midlands
+312,STAVELEY,NA,NA,NA,NA
+313,BLACKWELL,-1.356961,53.1200029,Bolsover,East Midlands
+313,KIRBY IN ASHFIELD,-1.269612,53.100963,Ashfield,East Midlands
+313,MANSFIELD,-1.198674,53.147195,Mansfield,East Midlands
+313,MANSFIELD WOODHOUSE,-1.189765,53.166472,Mansfield,East Midlands
+313,SHIREBROOK,-1.217961,53.2019189,Bolsover,East Midlands
+313,SUTTON-IN-ASHFIELD,-1.262504,53.126933,Ashfield,East Midlands
+313,WARSOP,-1.1548923,53.2043315,Mansfield,East Midlands
+314,Alfreton,-1.382256,53.09745,Amber Valley,East Midlands
+314,EASTWOOD,-1.308544,53.018115,Ashfield,East Midlands
+314,HEANOR,-1.35377,53.013807,Amber Valley,East Midlands
+314,ILKESTON,-1.306978,52.970142,Erewash,East Midlands
+314,RIPLEY,-1.405792,53.052819,Amber Valley,East Midlands
+315,BELPHER,-1.477616,53.0243899,Mid Derbyshire,East Midlands
+315,CASTLE DONINGTON,-1.3373001,52.845016,North West Leicestershire,East Midlands
+315,DERBY,-1.4746186,52.9225301,Derby South,East Midlands
+315,SHARDLOW,-1.35992,52.8710133,South Derbyshire,East Midlands
+316,Arnold,-1.131863,53.000708,Gedling,East Midlands
+316,Basford,NA,NA,NA,NA
+316,BEESTON,-1.212394,52.92392,Broxtowe,East Midlands
+316,BINGHAM,-0.956144,52.951088,Newark,East Midlands
+316,CARLTON,-1.083383,52.966631,Gedling,East Midlands
+316,HUCKNAIL,-1.20289,53.034152,Sherwood,East Midlands
+316,LONG EATON,-1.269778,52.898446,Erewash,East Midlands
+316,NETHERFIELD,-1.074676,52.962732,Gedling,East Midlands
+316,NOTTINGHAM,-1.1581086,52.9547832,Nottingham South,East Midlands
+316,RUDDINGTON,-1.1515709,52.894929,Rushcliffe,East Midlands
+316,STAPLEFORD,-1.272719,52.9286389,Broxtowe,East Midlands
+316,WEST BRIDGEFORD,-1.134017,52.935673,Rushcliffe,East Midlands
+321,Ashby Woulds,-1.5370758,52.7410096,North West Leicestershire,East Midlands
+321,Ashby-de-la-Zouch,-1.468618,52.749212,North West Leicestershire,East Midlands
+321,COALVILLE,-1.3677109,52.724569,North West Leicestershire,East Midlands
+321,REPTON,-1.5494521,52.8387188,South Derbyshire,East Midlands
+321,SWADLINCOTE,-1.554997,52.771318,South Derbyshire,East Midlands
+322,HINCKLEY,-1.37667,52.5454549,Bosworth,East Midlands
+322,LUTTERWORTH,-1.199159,52.455995,South Leicestershire,East Midlands
+323,Barrow on Soar,-1.148755,52.7524019,Loughborough,East Midlands
+323,BILLESDON,-0.939956,52.618459,Rutland and Melton,East Midlands
+323,BLABY,-1.1656497,52.5707761,South Leicestershire,East Midlands
+323,DESFORD LEICS,-1.2943538,52.6258102,Bosworth,East Midlands
+323,LEICESTER,-1.1397592,52.6368778,Leicester West,East Midlands
+323,LOUGHBOROUGH,-1.206166,52.772099,Loughborough,East Midlands
+323,OADBY,-1.0783725,52.5991535,Harborough,East Midlands
+323,SHEPSHED,-1.292427,52.7701009,Loughborough,East Midlands
+323,SILEBY,-1.110268,52.729949,Loughborough,East Midlands
+323,WIGSTON,-1.1063539,52.5863179,Harborough,East Midlands
+331,Ashbourne,-1.732179,53.016626,Derbyshire Dales,East Midlands
+331,Bakewell,-1.676171,53.215207,Derbyshire Dales,East Midlands
+331,MATLOCK,-1.551774,53.137156,Derbyshire Dales,East Midlands
+331,WIRKSWORTH,-1.570677,53.082819,Derbyshire Dales,East Midlands
+332,Kiveton Park,-1.2678044,53.3412582,Rother Valley,Yorkshire and The Humber
+341,EAST RETFORD,-0.945503,53.321356,Bassetlaw,East Midlands
+341,RETFORD,-0.945503,53.321356,Bassetlaw,East Midlands
+343,NORTH KESTEVEN,-0.4489082,53.0880498,Sleaford and North Hykeham,East Midlands
+344,COLSTERWORTH,-0.620661,52.803453,Grantham and Stamford,East Midlands
+344,EAST KESTEVEN,-0.4751038,52.6544107,Grantham and Stamford,East Midlands
+344,GRANTHAM,-0.643582,52.912524,Grantham and Stamford,East Midlands
+344,SLEAFORD,-0.40965,53.0003079,Sleaford and North Hykeham,East Midlands
+344,WEST KESTEVEN,-0.3950057,52.7659948,Grantham and Stamford,East Midlands
+345,NEWARK,-0.81,53.0765,Newark,East Midlands
+345,SOUTHWELL,-0.959921,53.079044,Newark,East Midlands
+348,BOSTON,-0.026577,52.97894,Boston and Skegness,East Midlands
+348,EAST ELLOE,0.0108055,52.8061367,South Holland and The Deepings,East Midlands
+348,HOLBEACH,0.013434,52.803991,South Holland and The Deepings,East Midlands
+348,HORNCASTLE,-0.11245,53.207307,Louth and Horncastle,East Midlands
+348,SPALDING,-0.1537024,52.7901016,South Holland and The Deepings,East Midlands
+348,WOODHALL SPA,-0.218147,53.151585,Louth and Horncastle,East Midlands
+349,Barnack,-0.4120742,52.6316523,North West Cambridgeshire,East of England
+349,BELVOIR,-0.784915,52.894477,Rutland and Melton,East Midlands
+349,BOURNE,-0.378462,52.768599,Grantham and Stamford,East Midlands
+349,KETTON,-0.5528947,52.6281083,Rutland and Melton,East Midlands
+349,MELTON MOWBRAY,-0.887126,52.766404,Rutland and Melton,East Midlands
+349,OAKHAM,-0.726625,52.6695629,Rutland and Melton,East Midlands
+349,SOUTH KESTEVEN,-0.5440818,52.8300224,Grantham and Stamford,East Midlands
+349,STAMFORD,-0.480216,52.651282,Grantham and Stamford,East Midlands
+349,UPPINGHAM,-0.718484,52.591225,Rutland and Melton,East Midlands
+351,BRACKLEY,-1.143152,52.027411,South Northamptonshire,East Midlands
+351,DAVENTRY,-1.164947,52.257473,Daventry,East Midlands
+351,TOWCESTER,-0.989688,52.135107,South Northamptonshire,East Midlands
+352,BOSTON SPA,NA,NA,NA,NA
+352,HIGHAM FERRIES,-0.5928409,52.307374,Wellingborough,East Midlands
+352,IRTHLINGBOROUGH,-0.613059,52.3256,Corby,East Midlands
+352,RAUNDS,-0.541032,52.341695,Corby,East Midlands
+352,RUSHDEN,-0.600363,52.289125,Wellingborough,East Midlands
+352,WELLINGBOROUGH,-0.693964,52.302419,Wellingborough,East Midlands
+352,WOLLASTON,-0.667788,52.254748,Wellingborough,East Midlands
+353,BURTON LATIMER,-0.678208,52.365906,Kettering,East Midlands
+353,CORBY,-0.6842333,52.4922983,Corby,East Midlands
+353,DESBOROUGH,-0.822557,52.441465,Kettering,East Midlands
+353,KETTERING,-0.730249,52.396322,Kettering,East Midlands
+353,MARKET HARBOROUGH,-0.921517,52.475769,Harborough,East Midlands
+353,ROTHWELL - N'HANTS,-0.803219,52.422681,Kettering,East Midlands
+353,THRAPSTON,-0.535859,52.394588,Corby,East Midlands
+354,BRIXWORTH,-0.905283,52.33072,Daventry,East Midlands
+354,NORTHAMPTON,-0.902656,52.240477,Northampton South,East Midlands
+411,CHATTERIS,0.054012,52.456102,North East Cambridgeshire,East of England
+411,DOWNHAM - NORF,NA,NA,NA,NA
+411,DOWNHAM MARKET,0.385472,52.606612,South West Norfolk,East of England
+411,ELY,0.262363,52.399539,South East Cambridgeshire,East of England
+411,FREEBRIDGE LYNN,0.3823974,52.7503763,North West Norfolk,East of England
+411,KING'S LYNN,0.4022963,52.7516798,North West Norfolk,East of England
+411,MARCH,0.088622,52.551716,North East Cambridgeshire,East of England
+411,MARSHLAND,NA,NA,NA,NA
+411,NORTH WITCHFORD,0.210535,52.386073,South East Cambridgeshire,East of England
+411,WISBECH,0.158797,52.666317,North East Cambridgeshire,East of England
+412,CAMBRIDGE,0.121817,52.205337,Cambridge,East of England
+412,CHESTERTON - CAMBS,-0.33825,52.544154,North West Cambridgeshire,East of England
+412,COTTENHAM,0.124287,52.288837,South Cambridgeshire,East of England
+412,GODMANCHESTER,-0.175166,52.319427,Huntingdon,East of England
+412,HUNTINGDON,-0.182552,52.33146,Huntingdon,East of England
+412,NEWMARKET,0.407962,52.24488,West Suffolk,East of England
+412,RAMSEY,-0.1084655,52.4503619,North West Cambridgeshire,East of England
+412,SAFFRON WALDEN,0.239215,52.022593,Saffron Walden,East of England
+412,SAWSTON,0.169775,52.122665,South Cambridgeshire,East of England
+412,ST IVES HUNTS,-0.0763979,52.3325252,Huntingdon,East of England
+413,ST NEOTS,-0.265103,52.2300836,Huntingdon,East of England
+421,CROMER,1.301866,52.931448,North Norfolk,East of England
+421,DEREHAM,0.937827,52.681618,Mid Norfolk,East of England
+421,DOCKING,0.623673,52.900964,North West Norfolk,East of England
+421,EAST DEREHAM,0.937827,52.681618,Mid Norfolk,East of England
+421,ERPINGHAM,1.249843,52.840707,North Norfolk,East of England
+421,FAKENHAM,0.849324,52.831333,Broadland,East of England
+421,HUNSTANTON,0.491032,52.9389139,North West Norfolk,East of England
+421,LAUNDITCH,0.3788105,52.608694,South West Norfolk,East of England
+421,MELTON CONSTABLE,1.038239,52.857864,Broadland,East of England
+421,MITFORD,NA,NA,NA,NA
+421,NEW HUNSTANTON,0.4951159,52.9095634,North West Norfolk,East of England
+421,NORTH WALSHAM,1.3859729,52.822699,North Norfolk,East of England
+421,SANDRINGHAM,0.518587,52.826912,North West Norfolk,East of England
+421,SHERINGHAM,1.2109589,52.944421,North Norfolk,East of England
+421,SMALLBURGH,1.452884,52.768505,North Norfolk,East of England
+421,SWAFFHAM,0.687481,52.647466,South West Norfolk,East of England
+421,WALSINGHAM,0.8753991,52.8959389,Broadland,East of England
+421,WELLS-NEXT-THE-SEA,0.848927,52.954641,North Norfolk,East of England
+422,Acle,1.550643,52.638278,Broadland,East of England
+422,Aylsham,1.252352,52.796672,Broadland,East of England
+422,BUCKHURST HILL,0.034513,51.627572,Epping Forest,East of England
+422,CHIGWELL,0.080647,51.626281,Epping Forest,East of England
+422,FLEGG,0.47487,52.5847866,South West Norfolk,East of England
+422,FOREHOE,1.08637,52.606383,Mid Norfolk,East of England
+422,HENSTEAD,1.670832,52.413672,Suffolk Coastal,East of England
+422,LODDON,1.483164,52.532432,South Norfolk,East of England
+422,NORWICH,1.297355,52.6308859,Norwich South,East of England
+422,ST FAITHS,0.1228609,52.1894919,Cambridge,East of England
+422,WALTHAM ABBEY,0.002723,51.685034,Epping Forest,East of England
+422,WROXHAM,1.4073119,52.704308,Broadland,East of England
+423,BOREHAMWOOD,-0.272308,51.657728,Hertsmere,East of England
+423,CHESHUNT,-0.028486,51.699888,Broxbourne,East of England
+423,ELSTREE,-0.298193,51.644142,Hertsmere,East of England
+423,GREAT YARMOUTH,1.728047,52.598233,Great Yarmouth,East of England
+423,LOTHINGLAND,1.7205191,52.4960504,Waveney,East of England
+423,LOWESTOFT,1.753449,52.481138,Waveney,East of England
+423,POTTERS BAR,-0.175948,51.696636,Hertsmere,East of England
+424,Attleborough,1.015527,52.518064,Mid Norfolk,East of England
+424,BECCLES,1.566053,52.459333,Waveney,East of England
+424,BUNGAY,1.443976,52.455457,Waveney,East of England
+424,DISS,1.108394,52.376491,South Norfolk,East of England
+424,HALESWORTH,1.502642,52.343264,Suffolk Coastal,East of England
+424,HARLESTON,1.298286,52.402852,South Norfolk,East of England
+424,SOUTH NORFOLK,0.8864021,52.6139686,Mid Norfolk,East of England
+424,SOUTHWOLD,1.680181,52.325628,Suffolk Coastal,East of England
+424,WAINFORD,1.4562923,52.4596886,South Norfolk,East of England
+424,WAYLAND,NA,NA,NA,NA
+424,WYMONDHAM,1.115305,52.569354,Mid Norfolk,East of England
+425,BRANDON,0.622533,52.446542,West Suffolk,East of England
+425,BURY ST EDMUNDS,0.7104932,52.2429228,Bury St Edmunds,East of England
+425,HAVERHILL,0.440945,52.082766,West Suffolk,East of England
+425,LAVENHAM,0.7954572,52.1075894,South Suffolk,East of England
+425,MELFORD,NA,NA,NA,NA
+425,MILDENHALL,0.5156095,52.347568,West Suffolk,East of England
+425,SUDBURY,0.726706,52.041047,South Suffolk,East of England
+425,THEDWASTRE,0.9162257,52.2336351,Bury St Edmunds,East of England
+425,THETFORD,0.751657,52.412856,South West Norfolk,East of England
+425,THINGOE,0.6903966,52.2767533,Bury St Edmunds,East of England
+425,WALSHAM-LE-WILLOWS,0.938769,52.3032775,Bury St Edmunds,East of England
+426,Aldeburgh,1.600446,52.155357,Suffolk Coastal,East of England
+426,BLYTH - SUFF,NA,NA,NA,NA
+426,COSFORD,NA,NA,NA,NA
+426,DEBEN,NA,NA,NA,NA
+426,EYE,1.146209,52.319605,Central Suffolk and North Ipswich,East of England
+426,FELIXSTOWE,1.351255,51.961726,Suffolk Coastal,East of England
+426,FRAMLINGHAM,1.342105,52.222147,Central Suffolk and North Ipswich,East of England
+426,GIPPING,1.0646544,52.1339942,Central Suffolk and North Ipswich,East of England
+426,HADLEIGH,0.952647,52.0450779,South Suffolk,East of England
+426,HARTISMERE,NA,NA,NA,NA
+426,IPSWICH,1.14822,52.056736,Ipswich,East of England
+426,LEISTON CUM SIZEWELL,1.5797427,52.2062671,Suffolk Coastal,East of England
+426,SAMFORD,NA,NA,NA,NA
+426,SAXMUNDHAM,1.488056,52.215855,Suffolk Coastal,East of England
+426,SIZEWELL,1.621034,52.207955,Suffolk Coastal,East of England
+426,STOWMARKET,0.997712,52.188902,Bury St Edmunds,East of England
+426,WOODBRIDGE,1.312571,52.095481,Suffolk Coastal,East of England
+427,FRINTON,1.247224,51.830433,Clacton,East of England
+432,BUSHEY,-0.35842,51.647615,Hertsmere,East of England
+432,KING'S LANGLEY,-0.456157,51.716249,Hemel Hempstead,East of England
+432,RADLETT,-0.3173869,51.686808,Hertsmere,East of England
+432,RICKMANSWORTH,-0.474131,51.638763,South West Hertfordshire,East of England
+436,THURROCK,0.3529197,51.4934557,Thurrock,East of England
+437,BENFLEET,0.5792812,51.5661671,Castle Point,East of England
+437,BILLERICAY,0.418397,51.627903,Basildon and Billericay,East of England
+437,CORRINGHAM ESSEX,0.462047,51.522331,South Basildon and East Thurrock,East of England
+455,NORMAN CROSS,-0.285036,52.505915,North West Cambridgeshire,East of England
+455,OLD FLETTON,-0.237362,52.559629,North West Cambridgeshire,East of England
+455,OUNDLE,-0.4687516,52.4808407,Corby,East Midlands
+455,PETERBOROUGH,-0.2405299,52.5694985,Peterborough,East of England
+455,THORNEY,-0.1080679,52.6214197,Peterborough,East of England
+455,WHITTLESEY,-0.1300956,52.5581179,North East Cambridgeshire,East of England
+511,CITY OF LONDON,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,FINSBURY,-0.106886,51.527373,Islington South and Finsbury,Greater London Authority
+511,GREAT MARLBOROUGH STREET,-0.1394172,51.5142461,Cities of London and Westminster,Greater London Authority
+511,HOLBORN,-0.1184131,51.5172934,Holborn and St Pancras,Greater London Authority
+511,LONDON EC1,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON EC2,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON EC3,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON EC4,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON SW1,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON W1,NA,NA,NA,NA
+511,LONDON WC1,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,LONDON WC2,-0.1277583,51.5073509,Cities of London and Westminster,Greater London Authority
+511,WESTMINSTER,-0.1332326,51.5001754,Cities of London and Westminster,Greater London Authority
+512,BETHNAL GREEN,-0.0667204,51.5269736,Bethnal Green and Bow,Greater London Authority
+512,BROOK GREEN,-0.2188361,51.4955974,Hammersmith,Greater London Authority
+512,CAMDEN TOWN,-0.1425553,51.5390111,Holborn and St Pancras,Greater London Authority
+512,CHELSEA,-0.174936,51.485093,Chelsea and Fulham,Greater London Authority
+512,EDGWARE ROAD,-0.1685655,51.5189412,Cities of London and Westminster,Greater London Authority
+512,FULHAM,-0.2016817,51.4773433,Chelsea and Fulham,Greater London Authority
+512,HACKNEY,NA,NA,NA,NA
+512,HAMMERSMITH,-0.2237315,51.4911875,Hammersmith,Greater London Authority
+512,HAMPSTEAD,-0.1762025,51.5556715,Hampstead and Kilburn,Greater London Authority
+512,HOLLAND PARK,-0.2031855,51.5017573,Kensington,Greater London Authority
+512,HOLLOWAY,-0.115522,51.557017,Islington North,Greater London Authority
+512,ISLINGTON,-0.1058058,51.5465063,Islington South and Finsbury,Greater London Authority
+512,KENSINGTON,-0.1932794,51.5010095,Kensington,Greater London Authority
+512,KILBURN,NA,NA,NA,NA
+512,KING'S CROSS,-0.1225611,51.5309004,Holborn and St Pancras,Greater London Authority
+512,LONDON E1,-0.0557553,51.5176228,Bethnal Green and Bow,Greater London Authority
+512,LONDON E14,-0.017595,51.5097502,Poplar and Limehouse,Greater London Authority
+512,LONDON E2,-0.0616512,51.528134,Bethnal Green and Bow,Greater London Authority
+512,LONDON E3,-0.0293506,51.5307753,Bethnal Green and Bow,Greater London Authority
+512,LONDON E5,-0.0499585,51.559692,Hackney North and Stoke Newington,Greater London Authority
+512,LONDON E8,-0.0646194,51.5412774,Hackney South and Shoreditch,Greater London Authority
+512,LONDON E9,-0.0381773,51.5439183,Hackney South and Shoreditch,Greater London Authority
+512,LONDON N1,-0.0881388,51.5412621,Islington South and Finsbury,Greater London Authority
+512,LONDON N16,-0.0764353,51.5623078,Hackney North and Stoke Newington,Greater London Authority
+512,LONDON N19,-0.1323808,51.5648883,Islington North,Greater London Authority
+512,LONDON N4,-0.1000159,51.5728114,Tottenham,Greater London Authority
+512,LONDON N5,-0.0970072,51.5544028,Islington North,Greater London Authority
+512,LONDON N7,-0.1205535,51.554381,Islington South and Finsbury,Greater London Authority
+512,LONDON NW1,-0.146932,51.5306872,Holborn and St Pancras,Greater London Authority
+512,LONDON NW3,-0.1706111,51.5516894,Hampstead and Kilburn,Greater London Authority
+512,LONDON NW5,-0.1441111,51.5543545,Holborn and St Pancras,Greater London Authority
+512,LONDON NW6,-0.1970833,51.5437594,Hampstead and Kilburn,Greater London Authority
+512,LONDON NW8,-0.1734435,51.53328,Westminster North,Greater London Authority
+512,LONDON SW10,-0.1849112,51.4859582,Chelsea and Fulham,Greater London Authority
+512,LONDON SW3,-0.1672702,51.4859846,Chelsea and Fulham,Greater London Authority
+512,LONDON SW5,-0.1923088,51.4925144,Kensington,Greater London Authority
+512,LONDON SW7,-0.1790976,51.4964763,Kensington,Greater London Authority
+512,LONDON W10,-0.2146099,51.5226971,Kensington,Greater London Authority
+512,LONDON W11,-0.2086389,51.5121945,Kensington,Greater London Authority
+512,LONDON W12,-0.229236,51.5095281,Hammersmith,Greater London Authority
+512,LONDON W14,-0.2085211,51.4964278,Hammersmith,Greater London Authority
+512,LONDON W2,-0.1703541,51.5096281,Cities of London and Westminster,Greater London Authority
+512,LONDON W6,-0.2261411,51.4911405,Hammersmith,Greater London Authority
+512,LONDON W8,-0.1909008,51.501713,Kensington,Greater London Authority
+512,LONDON W9,-0.1925443,51.5266782,Westminster North,Greater London Authority
+512,MARYLEBONE,-0.1498955,51.5188746,Cities of London and Westminster,Greater London Authority
+512,PADDINGTON,-0.174943,51.5159734,Cities of London and Westminster,Greater London Authority
+512,POPLAR,-0.0087975,51.5123792,Poplar and Limehouse,Greater London Authority
+512,SHEPHERD'S BUSH,-0.22305,51.504746,Hammersmith,Greater London Authority
+512,SHOREDITCH,NA,NA,NA,NA
+512,SOUTH KENSINGTON,-0.1746853,51.4941501,Kensington,Greater London Authority
+512,ST MARYLEBONE,-0.1498955,51.5188746,Cities of London and Westminster,Greater London Authority
+512,ST PANCRAS,-0.126133,51.531427,Holborn and St Pancras,Greater London Authority
+512,STEPNEY,-0.0477249,51.515985,Bethnal Green and Bow,Greater London Authority
+513,Balham,-0.1526141,51.4428311,Tooting,Greater London Authority
+513,Battersea,-0.1677415,51.4639024,Battersea,Greater London Authority
+513,BERMONDSEY,-0.0691276,51.4985821,Bermondsey and Old Southwark,Greater London Authority
+513,BOROUGH,-0.0820877,51.4834479,Camberwell and Peckham,Greater London Authority
+513,BRIXTON,-0.1156148,51.4612794,Dulwich and West Norwood,Greater London Authority
+513,CAMBERWELL,-0.0930137,51.4740846,Camberwell and Peckham,Greater London Authority
+513,DEPTFORD,-0.0264139,51.4815584,"Lewisham, Deptford",Greater London Authority
+513,DOWNHAM - KENT,NA,NA,NA,NA
+513,ELTHAM,0.052639,51.451169,Eltham,Greater London Authority
+513,GREENWICH,-0.0076589,51.4825766,Greenwich and Woolwich,Greater London Authority
+513,LAMBETH,-0.1230681,51.4571477,Streatham,Greater London Authority
+513,LEWISHAM,-0.0117006,51.4414579,Lewisham East,Greater London Authority
+513,LONDON SE1,-0.0880061,51.4992073,Bermondsey and Old Southwark,Greater London Authority
+513,LONDON SE10,-0.002929,51.4808496,Greenwich and Woolwich,Greater London Authority
+513,LONDON SE11,-0.1144069,51.4913023,Vauxhall,Greater London Authority
+513,LONDON SE12,0.0175553,51.446708,Lewisham East,Greater London Authority
+513,LONDON SE13,-0.0058533,51.457212,Lewisham East,Greater London Authority
+513,LONDON SE14,-0.0439457,51.4755879,"Lewisham, Deptford",Greater London Authority
+513,LONDON SE15,-0.0615237,51.4703269,Camberwell and Peckham,Greater London Authority
+513,LONDON SE16,-0.0410495,51.4992331,Bermondsey and Old Southwark,Greater London Authority
+513,LONDON SE17,-0.0923715,51.4873809,Camberwell and Peckham,Greater London Authority
+513,LONDON SE18,0.0762053,51.4781982,Eltham,Greater London Authority
+513,LONDON SE21,-0.0848861,51.4388026,Dulwich and West Norwood,Greater London Authority
+513,LONDON SE22,-0.0732101,51.4545635,Dulwich and West Norwood,Greater London Authority
+513,LONDON SE23,-0.049752,51.4440733,"Lewisham, Deptford",Greater London Authority
+513,LONDON SE24,-0.1025253,51.4545416,Dulwich and West Norwood,Greater London Authority
+513,LONDON SE26,-0.0555772,51.4283202,Lewisham West and Penge,Greater London Authority
+513,LONDON SE27,-0.102429,51.4282887,Dulwich and West Norwood,Greater London Authority
+513,LONDON SE3,0.0175685,51.4677153,Greenwich and Woolwich,Greater London Authority
+513,LONDON SE4,-0.0322047,51.4598337,"Lewisham, Deptford",Greater London Authority
+513,LONDON SE5,-0.0908654,51.475561,Camberwell and Peckham,Greater London Authority
+513,LONDON SE6,-0.0175487,51.4362068,Lewisham East,Greater London Authority
+513,LONDON SE7,0.0293065,51.4887271,Greenwich and Woolwich,Greater London Authority
+513,LONDON SE8,-0.0263676,51.4808467,"Lewisham, Deptford",Greater London Authority
+513,LONDON SE9,0.0585316,51.4414439,Eltham,Greater London Authority
+513,LONDON SW11,-0.1700978,51.4675936,Battersea,Greater London Authority
+513,LONDON SW12,-0.1494105,51.4439889,Battersea,Greater London Authority
+513,LONDON SW15,-0.2405677,51.456966,Putney,Greater London Authority
+513,LONDON SW16,-0.1287668,51.420389,Streatham,Greater London Authority
+513,LONDON SW17,-0.1669558,51.4334645,Tooting,Greater London Authority
+513,LONDON SW18,-0.193461,51.4465501,Putney,Greater London Authority
+513,LONDON SW2,-0.1230218,51.4466449,Streatham,Greater London Authority
+513,LONDON SW4,-0.137753,51.4597574,Streatham,Greater London Authority
+513,LONDON SW6,-0.2024825,51.4754218,Chelsea and Fulham,Greater London Authority
+513,LONDON SW8,-0.1378307,51.4755154,Battersea,Greater London Authority
+513,LONDON SW9,-0.1143209,51.4702875,Vauxhall,Greater London Authority
+513,NORWOOD,NA,NA,NA,NA
+513,PECKHAM,-0.069137,51.474191,Camberwell and Peckham,Greater London Authority
+513,SOUTHWARK,-0.087738,51.502781,Bermondsey and Old Southwark,Greater London Authority
+513,STOCKWELL,-0.125439,51.468813,Vauxhall,Greater London Authority
+513,SYDENHAM,NA,NA,NA,NA
+513,TOOTING,-0.168075,51.420845,Tooting,Greater London Authority
+513,WALHAM GREEN,-0.18985,51.476868,Chelsea and Fulham,Greater London Authority
+513,WANDSWORTH,-0.1817824,51.4570716,Tooting,Greater London Authority
+513,WOOLWICH,0.0675883,51.4894752,Greenwich and Woolwich,Greater London Authority
+521,CANNING TOWN,0.01874,51.514105,West Ham,Greater London Authority
+521,EAST HAM,0.055472,51.528737,East Ham,Greater London Authority
+521,LONDON E13,0.0293506,51.5307753,West Ham,Greater London Authority
+521,LONDON E15,0.0058709,51.541295,West Ham,Greater London Authority
+521,LONDON E16,0.0293285,51.5097478,West Ham,Greater London Authority
+521,LONDON E6,0.0645707,51.5202466,East Ham,Greater London Authority
+521,PLAISTOW,0.012627,51.527552,West Ham,Greater London Authority
+521,STRATFORD,-0.00187,51.54327,West Ham,Greater London Authority
+521,WEST HAM,0.0042832,51.5278232,West Ham,Greater London Authority
+522,Barking,0.075766,51.536563,Barking,Greater London Authority
+522,BECONTREE,0.12704,51.54033,Barking,Greater London Authority
+522,CHINGFORD,0.001313,51.6311279,Chingford and Woodford Green,Greater London Authority
+522,DAGENHAM,0.14743,51.53889,Dagenham and Rainham,Greater London Authority
+522,HAINAULT,0.10079,51.608139,Ilford North,Greater London Authority
+522,ILFORD,0.076251,51.556619,Ilford South,Greater London Authority
+522,LEYTON,-0.013139,51.561948,Leyton and Wanstead,Greater London Authority
+522,LEYTONSTONE,0.0099831,51.5684629,Leyton and Wanstead,Greater London Authority
+522,LONDON E10,-0.0205688,51.564961,Leyton and Wanstead,Greater London Authority
+522,LONDON E11,0.0176348,51.5728525,Leyton and Wanstead,Greater London Authority
+522,LONDON E12,0.0528839,51.5518012,East Ham,Greater London Authority
+522,LONDON E17,-0.029406,51.5833731,Walthamstow,Greater London Authority
+522,LONDON E18,0.0264721,51.5912671,Chingford and Woodford Green,Greater London Authority
+522,LONDON E4,-0.0117803,51.6307499,Chingford and Woodford Green,Greater London Authority
+522,LONDON E7,0.0293728,51.5518094,West Ham,Greater London Authority
+522,RAINHAM ESSEX,0.194831,51.517732,Dagenham and Rainham,Greater London Authority
+522,WALTHAMSTOW,-0.0173437,51.5901769,Walthamstow,Greater London Authority
+522,WANSTEAD,0.021154,51.576451,Leyton and Wanstead,Greater London Authority
+522,WOODFORD,0.0325025,51.6041751,Chingford and Woodford Green,Greater London Authority
+522,WOODFORD GREEN,0.0405521,51.6092549,Ilford North,Greater London Authority
+523,Barnet,-0.1949252,51.6569225,Chipping Barnet,Greater London Authority
+523,BURNT OAK,-0.261644,51.605694,Hendon,Greater London Authority
+523,EAST BARNETT,-0.151271,51.631068,Chipping Barnet,Greater London Authority
+523,EDGWARE,-0.262034,51.615786,Hendon,Greater London Authority
+523,EDMONTON,NA,NA,NA,NA
+523,ENFIELD,-0.0807119,51.6522994,Enfield North,Greater London Authority
+523,FINCHLEY,-0.191554,51.6027854,Finchley and Golders Green,Greater London Authority
+523,FRIERN BARNET,-0.140317,51.616068,"Enfield, Southgate",Greater London Authority
+523,HARRINGAY,-0.09966,51.582426,Tottenham,Greater London Authority
+523,HENDON,-0.220009,51.5862459,Hendon,Greater London Authority
+523,HORNSEY,-0.1218884,51.5870447,Hornsey and Wood Green,Greater London Authority
+523,KENTISH TOWN,-0.142005,51.5473039,Holborn and St Pancras,Greater London Authority
+523,LONDON N10,-0.1443287,51.5964443,Hornsey and Wood Green,Greater London Authority
+523,LONDON N11,-0.147376,51.6148633,Chipping Barnet,Greater London Authority
+523,LONDON N12,-0.1798758,51.6174503,Finchley and Golders Green,Greater London Authority
+523,LONDON N13,-0.1031259,51.6175426,"Enfield, Southgate",Greater London Authority
+523,LONDON N14,-0.1356719,51.6359382,"Enfield, Southgate",Greater London Authority
+523,LONDON N15,-0.076493,51.5833519,Tottenham,Greater London Authority
+523,LONDON N17,-0.0676926,51.5965133,Tottenham,Greater London Authority
+523,LONDON N18,-0.0618375,51.6123071,Edmonton,Greater London Authority
+523,LONDON N2,-0.1708687,51.5937773,Finchley and Golders Green,Greater London Authority
+523,LONDON N20,-0.1918028,51.6332271,Chipping Barnet,Greater London Authority
+523,LONDON N21,-0.1002426,51.6359737,"Enfield, Southgate",Greater London Authority
+523,LONDON N22,-0.1148607,51.6017398,Hornsey and Wood Green,Greater London Authority
+523,LONDON N3,-0.1915857,51.60164,Finchley and Golders Green,Greater London Authority
+523,LONDON N6,-0.1501155,51.5753887,Hornsey and Wood Green,Greater London Authority
+523,LONDON N8,-0.1236257,51.5833118,Hornsey and Wood Green,Greater London Authority
+523,LONDON N9,-0.0648147,51.6254672,Edmonton,Greater London Authority
+523,LONDON NW11,-0.1944106,51.5832162,Finchley and Golders Green,Greater London Authority
+523,LONDON NW2,-0.2296683,51.5621085,Brent Central,Greater London Authority
+523,LONDON NW4,-0.2298416,51.5831523,Hendon,Greater London Authority
+523,LONDON NW7,-0.2419314,51.6147069,Hendon,Greater London Authority
+523,LONDON NW9,-0.2529809,51.5963128,Hendon,Greater London Authority
+523,NORTHWOOD,-0.428278,51.610289,"Ruislip, Northwood and Pinner",Greater London Authority
+523,PINNER,-0.378002,51.595172,"Ruislip, Northwood and Pinner",Greater London Authority
+523,SOUTHGATE,NA,NA,NA,NA
+523,STOKE NEWINGTON,-0.07937,51.5596758,Hackney North and Stoke Newington,Greater London Authority
+523,TOTTINGTON,NA,NA,NA,NA
+523,WALTHAM CROSS,-0.0330964,51.6858439,Broxbourne,East of England
+523,WOOD GREEN,-0.1149,51.5981,Hornsey and Wood Green,Greater London Authority
+524,Acton,-0.2745505,51.5084214,Ealing Central and Acton,Greater London Authority
+524,BRENTFORD,-0.3101169,51.486073,Brentford and Isleworth,Greater London Authority
+524,CHISWICK,-0.2671732,51.4876272,Brentford and Isleworth,Greater London Authority
+524,EALING,-0.3415002,51.5250257,Ealing North,Greater London Authority
+524,HARLESDEN,-0.247334,51.534933,Brent Central,Greater London Authority
+524,HARROW,-0.341995,51.580559,Harrow West,Greater London Authority
+524,LONDON NW10,-0.2530945,51.5410229,Brent Central,Greater London Authority
+524,LONDON W13,-0.3207339,51.5171987,Ealing Central and Acton,Greater London Authority
+524,LONDON W15,NA,NA,NA,NA
+524,LONDON W3,-0.2763927,51.5094267,Ealing Central and Acton,Greater London Authority
+524,LONDON W4,-0.2644,51.4884335,Brentford and Isleworth,Greater London Authority
+524,LONDON W5,-0.299988,51.5093689,Ealing Central and Acton,Greater London Authority
+524,LONDON W7,-0.3383866,51.5118928,Ealing North,Greater London Authority
+524,RUISLIP,-0.421236,51.5758719,"Ruislip, Northwood and Pinner",Greater London Authority
+524,WEMBLEY,-0.3048409,51.550501,Brent North,Greater London Authority
+524,WILLESDEN,-0.239096,51.548961,Brent Central,Greater London Authority
+525,Ashford (Middlesex),-0.447211,51.427543,Spelthorne,South East
+525,FELTHAM,-0.410772,51.444148,Feltham and Heston,Greater London Authority
+525,GREENFORD,-0.34622,51.531797,Ealing North,Greater London Authority
+525,HAMPTON MIDDSX,-0.3902414,51.4102877,Spelthorne,South East
+525,HARLINGTON,-0.434749,51.487296,Hayes and Harlington,Greater London Authority
+525,HAYES,-0.436786,51.516758,Hayes and Harlington,Greater London Authority
+525,HESTON,-0.3716149,51.485355,Feltham and Heston,Greater London Authority
+525,HOUNSLOW,-0.373149,51.4609218,Brentford and Isleworth,Greater London Authority
+525,ISLEWORTH,-0.329003,51.467121,Brentford and Isleworth,Greater London Authority
+525,OXBRIDGE,NA,NA,NA,NA
+525,SHEPPERTON,-0.452653,51.389617,Spelthorne,South East
+525,SOUTHALL,-0.377232,51.511073,"Ealing, Southall",Greater London Authority
+525,STAINES,-0.515525,51.43148,Runnymede and Weybridge,South East
+525,SUNBURY-ON-THAMES,-0.4191503,51.4191935,Spelthorne,South East
+525,TEDDINGTON,-0.331342,51.426799,Twickenham,Greater London Authority
+525,WEST DRAYTON,-0.46541,51.502985,Hayes and Harlington,Greater London Authority
+525,YIEWSLEY,-0.472012,51.511703,Uxbridge and South Ruislip,Greater London Authority
+526,Ashtead,-0.296968,51.310684,Epsom and Ewell,South East
+526,Banstead,-0.205046,51.3221909,Reigate,South East
+526,Barnes,NA,NA,NA,NA
+526,BEDDINGTON,-0.134218,51.368509,Carshalton and Wallington,Greater London Authority
+526,CARSHALTON,-0.164921,51.365018,Carshalton and Wallington,Greater London Authority
+526,CHEAM,-0.21897,51.3615179,Sutton and Cheam,Greater London Authority
+526,CHESSINGTON,-0.296254,51.363583,Kingston and Surbiton,Greater London Authority
+526,COBHAM,-0.410856,51.328783,Esher and Walton,South East
+526,COOMBE,NA,NA,NA,NA
+526,COULSDON,-0.141267,51.319941,Croydon South,Greater London Authority
+526,CROYDON,-0.098234,51.376165,Croydon Central,Greater London Authority
+526,DITTONS,NA,NA,NA,NA
+526,EAST MOLESEY,-0.3562949,51.400766,Esher and Walton,South East
+526,EPSOM,-0.267382,51.336036,Epsom and Ewell,South East
+526,ESHER,-0.365927,51.369487,Esher and Walton,South East
+526,EWELL,-0.250274,51.3514399,Epsom and Ewell,South East
+526,HAMPTON,-0.3345287,51.4454847,Twickenham,Greater London Authority
+526,KINGSTON-ON-THAMES,-0.4606759,51.4241159,Spelthorne,South East
+526,LONDON SE19,-0.0848223,51.4178045,Croydon North,Greater London Authority
+526,LONDON SE25,-0.0730589,51.396821,Croydon Central,Greater London Authority
+526,LONDON SW13,-0.2407488,51.4779764,Richmond Park,Greater London Authority
+526,LONDON SW14,-0.2671196,51.4647869,Richmond Park,Greater London Authority
+526,LONDON SW19,-0.2050566,51.4255297,Wimbledon,Greater London Authority
+526,LONDON SW20,-0.2402062,51.4149653,Wimbledon,Greater London Authority
+526,MALDEN,-0.2563515,51.3938885,Kingston and Surbiton,Greater London Authority
+526,MERTON,NA,NA,NA,NA
+526,MITCHAM,-0.166709,51.402869,Mitcham and Morden,Greater London Authority
+526,MOLESEY,-0.3634169,51.40202,Esher and Walton,South East
+526,MORDEN,-0.19446,51.394943,Mitcham and Morden,Greater London Authority
+526,NEW MALDEN,-0.259263,51.400663,Kingston and Surbiton,Greater London Authority
+526,PURLEY,-0.119711,51.339228,Croydon South,Greater London Authority
+526,RICHMOND SURREY,-0.303742,51.461311,Richmond Park,Greater London Authority
+526,SOUTH CROYDON,-0.098251,51.357428,Croydon South,Greater London Authority
+526,SURBITON,-0.302662,51.39401,Kingston and Surbiton,Greater London Authority
+526,SUTTON - SURREY,-0.193961,51.3614279,Sutton and Cheam,Greater London Authority
+526,THAMES DITTON,-0.339189,51.389686,Esher and Walton,South East
+526,THORNTON HEATH,-0.105523,51.396747,Croydon North,Greater London Authority
+526,TWICKENHAM,-0.335246,51.444581,Twickenham,Greater London Authority
+526,WALLINGTON,-0.151845,51.363978,Carshalton and Wallington,Greater London Authority
+526,WEST MOSELEY W.MIDS,NA,NA,NA,NA
+526,WHYTELEAFE,-0.079251,51.3017577,East Surrey,South East
+526,WIMBLEDON,-0.2206288,51.4183389,Wimbledon,Greater London Authority
+526,WORCESTER PARK,-0.24468,51.38029,Sutton and Cheam,Greater London Authority
+527,BECKENHAM,-0.025813,51.40817,Beckenham,Greater London Authority
+527,BELVEDERE,0.14827,51.485165,Erith and Thamesmead,Greater London Authority
+527,BEXLEY,0.154327,51.439933,Old Bexley and Sidcup,Greater London Authority
+527,BEXLEYHEATH,0.13822,51.453341,Bexleyheath and Crayford,Greater London Authority
+527,BROMLEY,0.013156,51.406025,Bromley and Chislehurst,Greater London Authority
+527,CHISLEHURST,0.077487,51.412626,Bromley and Chislehurst,Greater London Authority
+527,CRAYFORD,0.179097,51.453003,Bexleyheath and Crayford,Greater London Authority
+527,ERITH,0.174675,51.480818,Erith and Thamesmead,Greater London Authority
+527,FARNBOROUGH - KENT,0.071104,51.359348,Orpington,Greater London Authority
+527,KESTON,0.0303639,51.3622817,Beckenham,Greater London Authority
+527,LONDON SE20,-0.0613966,51.4125706,Lewisham West and Penge,Greater London Authority
+527,ORPINGTON,0.094214,51.374843,Orpington,Greater London Authority
+527,PENGE,-0.0517034,51.4138764,Lewisham West and Penge,Greater London Authority
+527,SIDCUP,0.1009392,51.4264863,Old Bexley and Sidcup,Greater London Authority
+527,ST MARY CRAY KENT,0.113061,51.385993,Orpington,Greater London Authority
+527,ST PAULS CRAY KENT,0.1029755,51.4044808,Bromley and Chislehurst,Greater London Authority
+527,WELLING,0.109744,51.4622529,Bexleyheath and Crayford,Greater London Authority
+527,WEST WICKHAM,-0.014861,51.375798,Beckenham,Greater London Authority
+531,Bagshot,-0.697894,51.360343,Surrey Heath,South East
+531,BYFLEET SURREY,-0.471357,51.340125,Woking,South East
+531,CAMBERLEY,-0.742856,51.3353899,Surrey Heath,South East
+531,CHERTSEY,-0.509456,51.386491,Runnymede and Weybridge,South East
+531,CRANLEIGH,-0.483985,51.141073,Guildford,South East
+531,EGHAM,-0.547876,51.428825,Runnymede and Weybridge,South East
+531,FARNHAM,-0.798802,51.214321,South West Surrey,South East
+531,FRIMLEY,-0.743239,51.316221,Surrey Heath,South East
+531,GODALMING,-0.612808,51.185732,South West Surrey,South East
+531,GUILDFORD,-0.570409,51.23622,Guildford,South East
+531,HAMBLEDON,-1.086495,50.931636,Meon Valley,South East
+531,HASLEMERE,-0.713373,51.090856,South West Surrey,South East
+531,HINDHEAD,-0.732073,51.113618,South West Surrey,South East
+531,LIGHTWATER,-0.6754845,51.3491744,Surrey Heath,South East
+531,VIRGINIA WATER,-0.578607,51.4060025,Runnymede and Weybridge,South East
+531,WALTON-ON-THAMES,-0.416969,51.38847,Esher and Walton,South East
+531,WEYBRIDGE,-0.457904,51.3716269,Runnymede and Weybridge,South East
+531,WINDLESHAM,-0.665847,51.364561,Surrey Heath,South East
+531,WOKING,-0.5600349,51.316774,Woking,South East
+532,BETCHWORTH,-0.267364,51.240523,Mole Valley,South East
+532,CATERHAM,-0.0816159,51.280296,East Surrey,South East
+532,CHARLWOOD SURREY,-0.226967,51.1571969,Mole Valley,South East
+532,DORKING,-0.332378,51.232202,Mole Valley,South East
+532,GODSTONE,-0.067578,51.247571,East Surrey,South East
+532,KENLEY,-0.102494,51.32633,Croydon South,Greater London Authority
+532,LEATHERHEAD,-0.33112,51.296407,Mole Valley,South East
+532,LINGFIELD,-0.014126,51.176981,East Surrey,South East
+532,MORLEY,NA,NA,NA,NA
+532,OXTED,-3.00E-06,51.255714,East Surrey,South East
+532,REDHILL,-0.16988,51.239208,Reigate,South East
+532,REIGATE,-0.205883,51.237276,Reigate,South East
+532,STANMORE,NA,NA,NA,NA
+532,TADWORTH,-0.2363114,51.2914048,Reigate,South East
+532,WARLINGHAM,-0.055901,51.3093239,East Surrey,South East
+533,DARTFORD,0.216872,51.44621,Dartford,South East
+533,EDENBRIDGE,0.065451,51.196259,Tonbridge and Malling,South East
+533,GRAVESEND,0.370759,51.441884,Gravesham,South East
+533,GREENHITHE,0.2823,51.4504,Dartford,South East
+533,NORTHFLEET,0.33694,51.441072,Gravesham,South East
+533,SEVENOAKS,0.190898,51.27241,Sevenoaks,South East
+533,SWANLEY,0.177326,51.396531,Sevenoaks,South East
+533,SWANSCOMBE,0.3031822,51.4452254,Dartford,South East
+533,WESTERHAM,0.071827,51.266969,Sevenoaks,South East
+535,HORNCHURCH,0.218605,51.562254,Hornchurch and Upminster,Greater London Authority
+535,UPMINSTER,0.248894,51.555914,Hornchurch and Upminster,Greater London Authority
+541,Aylesford,0.47806,51.304309,Chatham and Aylesford,South East
+541,BOROUGH GREEN,0.305187,51.2913349,Tonbridge and Malling,South East
+541,CHATHAM,0.52213,51.380952,Chatham and Aylesford,South East
+541,GILLINGHAM,0.551438,51.386322,Gillingham and Rainham,South East
+541,HAWKHURST,0.50947,51.046735,Tunbridge Wells,South East
+541,HOLLINGBOURNE,0.6362861,51.2630256,Faversham and Mid Kent,South East
+541,MAIDSTONE,0.522699,51.270363,Maidstone and The Weald,South East
+541,MAILING,NA,NA,NA,NA
+541,PADDOCK WOOD KENT,0.38477,51.1813239,Tunbridge Wells,South East
+541,ROCHESTER,0.506721,51.388,Rochester and Strood,South East
+541,SNODLAND,0.445068,51.3313,Chatham and Aylesford,South East
+541,SOUTHBOROUGH,0.2576326,51.1600204,Tunbridge Wells,South East
+541,STROOD,0.478,51.393,Rochester and Strood,South East
+541,TONBRIDGE,0.27568,51.195043,Tonbridge and Malling,South East
+541,TUNBRIDGE WELLS,0.263695,51.132377,Tunbridge Wells,South East
+542,BIRCHINGTON,1.306532,51.373347,North Thanet,South East
+542,BRIDGE BLEAN,1.0676133,51.3594758,Canterbury,South East
+542,BROADSTAIRS,1.432038,51.360163,South Thanet,South East
+542,CANTERBURY,1.0789089,51.280233,Canterbury,South East
+542,EASTRY,1.303401,51.245154,Dover,South East
+542,FAVERSHAM,0.889358,51.315994,Faversham and Mid Kent,South East
+542,HERNE BAY,1.127771,51.370922,North Thanet,South East
+542,MARGATE,1.3868339,51.389646,North Thanet,South East
+542,QUEENBOROUGH,0.7470207,51.4172853,Sittingbourne and Sheppey,South East
+542,RAMSGATE,1.419895,51.335545,South Thanet,South East
+542,SANDWICH,1.337427,51.274017,South Thanet,South East
+542,SHEERNESS,0.764158,51.44011,Sittingbourne and Sheppey,South East
+542,SHEPPEY,0.8365233,51.3964896,Sittingbourne and Sheppey,South East
+542,SITTINGBOURNE,0.731596,51.340402,Sittingbourne and Sheppey,South East
+542,SWALE,0.74716,51.38924,Sittingbourne and Sheppey,South East
+542,WESTGATE-ON-SEA,1.334003,51.382807,North Thanet,South East
+542,WHITSTABLE,1.024256,51.361047,Canterbury,South East
+543,Ashford (Kent),0.875019,51.1464659,Ashford,South East
+543,CRANBROOK,0.537639,51.095582,Maidstone and The Weald,South East
+543,DEAL,1.401661,51.222491,Dover,South East
+543,DOVER,1.3134027,51.1278758,Dover,South East
+543,EAST ASHFORD,0.875019,51.1464659,Ashford,South East
+543,ELHAM,1.1108433,51.1530395,Folkestone and Hythe,South East
+543,FOLKESTONE,1.169456,51.081397,Folkestone and Hythe,South East
+543,HYTHE - KENT,1.081937,51.071739,Folkestone and Hythe,South East
+543,LYDD,0.9065892,50.950945,Folkestone and Hythe,South East
+543,NEW ROMNEY,0.939473,50.985117,Folkestone and Hythe,South East
+543,ROMNEY MARSH,0.91883,51.001938,Folkestone and Hythe,South East
+543,TENTERDEN,0.689122,51.069358,Ashford,South East
+543,WEST ASHFORD,0.875019,51.1464659,Ashford,South East
+544,Battle,0.483679,50.917405,Bexhill and Battle,South East
+544,BEXHILL,0.47,50.85,Bexhill and Battle,South East
+544,CHAILEY,-0.018524,50.956954,Lewes,South East
+544,CROWBOROUGH,0.165894,51.060853,Wealden,South East
+544,EAST GRINSTEAD,-0.014468,51.128742,Mid Sussex,South East
+544,EASTBOURNE,0.290472,50.768035,Eastbourne,South East
+544,ETCHINGHAM,0.4389913,51.0090216,Bexhill and Battle,South East
+544,FOREST ROW,0.033222,51.097391,Wealden,South East
+544,HAILSHAM,0.255234,50.864612,Wealden,South East
+544,HARTFIELD,0.111502,51.102295,Wealden,South East
+544,HASTINGS,0.573453,50.854259,Hastings and Rye,South East
+544,HORAM,0.243262,50.93361,Wealden,South East
+544,LEWES,0.00878,50.873872,Lewes,South East
+544,MAYFIELD,0.262427,51.020641,Wealden,South East
+544,NEWHAVEN,0.045574,50.79307,Lewes,South East
+544,PEVENSEY,0.3397311,50.8209317,Bexhill and Battle,South East
+544,POLEGATE,0.243813,50.824012,Lewes,South East
+544,ROBERTSBRIDGE,0.472921,50.985538,Bexhill and Battle,South East
+544,RYE,0.73726,50.949708,Hastings and Rye,South East
+544,SEAFORD,0.101108,50.7734669,Lewes,South East
+544,ST LEONARDS-ON-SEA SUSSEX,0.5525772,50.8556382,Hastings and Rye,South East
+544,UCKFIELD,0.095913,50.966414,Wealden,South East
+544,WADHURST,0.33802,51.061756,Wealden,South East
+544,WINCHELSEA,0.7095541,50.9249721,Hastings and Rye,South East
+545,BOLNEY W.SUSSEX,-0.203378,50.995881,Mid Sussex,South East
+545,BRIGHTON,-0.137163,50.82253,"Brighton, Pavilion",South East
+545,BURGESS HILL,-0.128701,50.954469,Mid Sussex,South East
+545,CRAWLEY,-0.1872275,51.1091401,Crawley,South East
+545,CUCKFIELD,-0.143636,51.005813,Mid Sussex,South East
+545,HASSOCKS,-0.1460982,50.9246755,Arundel and South Downs,South East
+545,HAYWARDS HEATH,-0.106333,50.999041,Mid Sussex,South East
+545,HENFIELD,-0.269507,50.929798,Arundel and South Downs,South East
+545,HOVE,-0.168749,50.8279319,Hove,South East
+545,PORTSLADE,-0.21423,50.842729,Hove,South East
+546,Arundel,-0.555119,50.855171,Arundel and South Downs,South East
+546,BILLINGSHURST,-0.451462,51.022909,Horsham,South East
+546,BOGNOR REGIS,-0.673061,50.782998,Bognor Regis and Littlehampton,South East
+546,CHANCTONBURY,-0.389824,50.9304987,Arundel and South Downs,South East
+546,CHICHESTER,-0.774936,50.83761,Chichester,South East
+546,HORSHAM,-0.325858,51.062883,Horsham,South East
+546,LANCING W. SUSSEX,-0.328092,50.828179,East Worthing and Shoreham,South East
+546,LITTLEHAMPTON,-0.5386609,50.811057,Bognor Regis and Littlehampton,South East
+546,MIDHURST,-0.737274,50.9868979,Chichester,South East
+546,PETWORTH,-0.6107242,50.9867009,Arundel and South Downs,South East
+546,PULBOROUGH,-0.510671,50.957304,Arundel and South Downs,South East
+546,SELSEY SUSSEX,-0.793704,50.730991,Chichester,South East
+546,SHOREHAM,-0.2715558,50.8342086,East Worthing and Shoreham,South East
+546,SOUTH BERSTEAD SUSSEX,-0.6854674,50.8072181,Bognor Regis and Littlehampton,South East
+546,SOUTHWICK - SUSSEX,-0.238234,50.8353139,East Worthing and Shoreham,South East
+546,STEYNING,-0.326676,50.887403,Arundel and South Downs,South East
+546,WORTHING,-0.372882,50.81787,Worthing West,South East
+611,BLETCHLEY,-0.750137,52.002175,Milton Keynes South,South East
+611,BUCKINGHAM,-0.987645,51.999326,Buckingham,South East
+611,NEWPORT PAGNELL,-0.734583,52.084585,Milton Keynes North,South East
+611,OLNEY,-0.7013779,52.154738,Milton Keynes North,South East
+611,WINSLOW,-0.878737,51.944859,Buckingham,South East
+611,WOLVERTON,-0.816221,52.062458,Milton Keynes North,South East
+612,Aylesbury,-0.8084,51.815606,Aylesbury,South East
+613,Amersham,-0.607241,51.6755179,Chesham and Amersham,South East
+613,BEACONSFIELD,-0.6442409,51.602396,Beaconsfield,South East
+613,BOURNE END,-0.7100694,51.5765108,Beaconsfield,South East
+613,BUNHAM,-0.66,51.53,Beaconsfield,South East
+613,BURNHAM BUCKINGHAMSHIRE,-0.66,51.53,Beaconsfield,South East
+613,CHALFONT ST GILES,-0.577213,51.6297828,Chesham and Amersham,South East
+613,CHALFONT ST PETER BUCKS,-0.5561674,51.6123242,Chesham and Amersham,South East
+613,CHESHAM,-0.612333,51.709401,Chesham and Amersham,South East
+613,GERRARDS CROSS,-0.5575,51.582362,Beaconsfield,South East
+613,GREAT MISSENDEN,-0.70319,51.702655,Chesham and Amersham,South East
+613,HIGH WYCOMBE,-0.748229,51.628611,Wycombe,South East
+613,IVER,-0.509572,51.5201939,Beaconsfield,South East
+613,MARLOW,-0.7769422,51.5719443,Beaconsfield,South East
+613,WYCOMBE,-0.8078596,51.638511,Wycombe,South East
+614,COOKHAM,-0.707741,51.558437,Maidenhead,South East
+614,ETON,-0.607942,51.487402,Windsor,South East
+614,MAIDENHEAD,-0.7219,51.522414,Maidenhead,South East
+614,NEW WINDSOR,-0.6094918,51.4928529,Windsor,South East
+614,SLOUGH,-0.5950406,51.5105384,Slough,South East
+614,STOKE POGES,-0.5851327,51.5477849,Beaconsfield,South East
+614,WINDSOR,-0.613576,51.4817279,Windsor,South East
+621,Ascot,-0.6755624,51.4062365,Windsor,South East
+621,BRACKNELL,-0.75398,51.41604,Bracknell,South East
+621,BRADFIELD,-1.1309708,51.4492749,Newbury,South East
+621,CROWTHORNE,-0.795353,51.366901,Bracknell,South East
+621,EASTHAMPSTEAD,-0.75989,51.400556,Bracknell,South East
+621,HENLEY-ON-THAMES,-0.902894,51.535764,Henley,South East
+621,PANGBOURNE,-1.087386,51.4832554,Reading West,South East
+621,READING,-0.9781303,51.4542645,Reading East,South East
+621,WARGRAVE BERKS,-0.907457,51.5265095,Henley,South East
+621,WOKINGHAM,-0.833861,51.410457,Wokingham,South East
+622,Aldermaston,-1.1532939,51.3838496,Newbury,South East
+622,HUNGERFORD,-1.517995,51.412345,Newbury,South East
+622,LAMBOURNE BERKS+A1321,-0.7434657,51.5055216,Maidenhead,South East
+622,NEWBURY,-1.3231139,51.401409,Newbury,South East
+622,THATCHAM BERKS,-1.266468,51.405805,Newbury,South East
+623,Abingdon,-1.2879529,51.67078,Oxford West and Abingdon,South East
+623,DIDCOT,-1.24484,51.608044,Wantage,South East
+623,FARINGDON,-1.584679,51.658477,Wantage,South East
+623,WALLINGFORD,-1.1335613,51.5974177,Wantage,South East
+623,WANTAGE,-1.426453,51.588868,Wantage,South East
+624,OXFORD,-1.2577263,51.7520209,Oxford East,South East
+625,BICESTER,-1.1535899,51.899603,Banbury,South East
+625,BULLINGTON,NA,NA,NA,NA
+625,BURFORD OXON,-1.63679,51.807083,Witney,South East
+625,CHINNOR OXON,-0.908629,51.701181,Henley,South East
+625,CHIPPING NORTON,-1.542189,51.943544,Witney,South East
+625,PLOUGHLEY,-1.1220986,51.8673759,Banbury,South East
+625,WITNEY,-1.4850544,51.7859365,Witney,South East
+625,WOODSTOCK,-1.354091,51.847267,Witney,South East
+626,Banbury,-1.339775,52.0629009,Banbury,South East
+631,Aldershot,-0.7557509,51.248366,Aldershot,South East
+631,Alton,-0.973177,51.150719,East Hampshire,South East
+631,BORDON,-0.861611,51.115613,East Hampshire,South East
+631,FARNBOROUGH - HANTS,-0.752615,51.2868939,Aldershot,South East
+631,FLEET,-0.842655,51.277283,North East Hampshire,South East
+631,HARTLEY WINTNEY,-0.90406,51.305296,North East Hampshire,South East
+631,HOLYBOURNE HANTS,-0.950536,51.1625,East Hampshire,South East
+631,LIPHOOK,-0.801777,51.07661,East Hampshire,South East
+631,ODIHAM,-0.939525,51.254383,North East Hampshire,South East
+632,Andover,-1.4919233,51.2111975,North West Hampshire,South East
+632,Basingstoke,-1.0923964,51.26654,Basingstoke,South East
+632,HOOK HANTS,-0.963043,51.280906,North East Hampshire,South East
+632,KINGSCLERE,-1.241705,51.325073,North West Hampshire,South East
+632,WHITCHURCH - HANTS,-1.335304,51.22977,North West Hampshire,South East
+633,Alresford,-1.165786,51.090113,Winchester,South East
+633,BISHOPS WALTHAM,-1.2179669,50.9546872,Meon Valley,South East
+633,CHANDLERS FORD HANTS,-1.379259,50.983953,Winchester,South East
+633,DROXFORD,-1.1384976,50.959946,Meon Valley,South East
+633,LISS,-0.8917764,51.0427301,East Hampshire,South East
+633,MIDDLE WALLOP HANTS,-1.582694,51.140091,Romsey and Southampton North,South East
+633,PETERSFIELD,-0.93899,51.007591,East Hampshire,South East
+633,ROMSEY,-1.49658,50.98893,Romsey and Southampton North,South East
+633,STOCKBRIDGE,-1.484301,51.116603,Romsey and Southampton North,South East
+633,WINCHESTER,-1.310142,51.059771,Winchester,South East
+634,COSHAM HANTS,-1.066,50.8424,Portsmouth North,South East
+634,EMSWORTH,-0.937928,50.848132,Havant,South East
+634,FAREHAM,-1.1865868,50.8548464,Fareham,South East
+634,GOSPORT,-1.117547,50.794995,Gosport,South East
+634,HAVANT,-0.9847132,50.8518324,Havant,South East
+634,HAYLING ISLAND,-0.97819,50.829374,Havant,South East
+634,LEE ON THE SOLENT,-1.202352,50.8020939,Gosport,South East
+634,PORTCHESTER HANTS,-1.1381747,50.849505,Fareham,South East
+634,PORTSMOUTH,-1.083333,50.816667,Portsmouth North,South East
+634,ROWLANDS CASTLE,-0.959088,50.892059,Meon Valley,South East
+634,SOUTHSEA,-1.085559,50.783565,Portsmouth South,South East
+634,WATERLOO,NA,NA,NA,NA
+634,WATERLOOVILLE HANTS,-1.028751,50.890312,Meon Valley,South East
+634,WOOLSTON,NA,NA,NA,NA
+635,EASTLEIGH,-1.374688,50.967182,Eastleigh,South East
+635,HYTHE - HANTS,-1.3998939,50.8701657,New Forest East,South East
+635,SOUTHAMPTON,-1.4043509,50.9097004,"Southampton, Itchen",South East
+636,BEMBRIDGE,-1.0835189,50.685956,Isle of Wight,South East
+636,COWES,-1.300533,50.762785,Isle of Wight,South East
+636,EAST COWES,-1.285492,50.759108,Isle of Wight,South East
+636,FRESHWATER,-1.523164,50.680686,Isle of Wight,South East
+636,ISLE OF WIGHT,-1.3167103,50.6927176,Isle of Wight,South East
+636,NEWPORT - I.O.W.,-1.291633,50.700803,Isle of Wight,South East
+636,RYDE,-1.163282,50.729952,Isle of Wight,South East
+636,SANDOWN,-1.149397,50.659079,Isle of Wight,South East
+636,SEAVIEW,-1.11181,50.719848,Isle of Wight,South East
+636,SHANKLIN,-1.175199,50.634675,Isle of Wight,South East
+636,VENTNOR,-1.2061,50.595484,Isle of Wight,South East
+636,YARMOUTH I.O.W,-1.498938,50.705279,Isle of Wight,South East
+637,BROCKENHURST,-1.575726,50.818863,New Forest East,South East
+637,FORDINGBRIDGE,-1.792526,50.9258359,New Forest West,South East
+637,LYNDHURST,-1.5768,50.872559,New Forest East,South East
+637,NEW FOREST,-1.6327718,50.8758752,New Forest East,South East
+637,NEW MILTON,-1.6550806,50.7531235,New Forest West,South East
+637,RINGWOOD,-1.788817,50.844949,New Forest West,South East
+638,BOURNEMOUTH,-1.880769,50.719164,Bournemouth West,South West
+638,BROADSTONE,-1.992042,50.75711,Mid Dorset and North Poole,South West
+638,CHRISTCHURCH,-1.778586,50.735777,Christchurch,South West
+638,LYMINGTON,-1.5419099,50.758531,New Forest West,South East
+638,POOLE,-1.987248,50.71505,Poole,South West
+638,SWANAGE,-1.960769,50.608277,South Dorset,South West
+638,WAREHAM,-2.110981,50.687817,Mid Dorset and North Poole,South West
+710,BRISTOL,-2.58791,51.454513,Bristol West,South West
+711,Avonmouth,-2.698444,51.503457,Bristol North West,South West
+711,Badminton,-2.280872,51.541647,Thornbury and Yate,South West
+711,CHEW MAGNA,-2.612715,51.3670029,North East Somerset,South West
+711,CHIPPING SODBURY,-2.3909379,51.5351659,Thornbury and Yate,South West
+711,EASTVILLE,-2.557153,51.477797,Bristol East,South West
+711,FALFIELD,-2.459793,51.636471,Thornbury and Yate,South West
+711,KEYNSHAM,-2.502526,51.415059,North East Somerset,South West
+711,KINGSWOOD,-2.368647,51.626435,The Cotswolds,South West
+711,MANGOTSFIELD,-2.4881605,51.4823063,Kingswood,South West
+711,PORTISHEAD,-2.767948,51.485155,North Somerset,South West
+711,SODBURY,-2.3620187,51.5280944,Thornbury and Yate,South West
+711,THORNBURY,-2.525153,51.608306,Thornbury and Yate,South West
+711,WARMLEY,-2.474226,51.459527,Kingswood,South West
+711,WESTBURY-ON-TRYM,-2.619894,51.4923829,Bristol North West,South West
+712,Axbridge,-2.819352,51.28442,Wells,South West
+712,CHEDDAR,-2.7767019,51.280164,Wells,South West
+712,CLEVEDON,-2.856196,51.442108,North Somerset,South West
+712,LONG ASHTON,-2.647401,51.431876,North Somerset,South West
+712,WESTON-SUPER-MARE,-2.977255,51.347405,Weston-Super-Mare,South West
+712,WINSCOMBE,-2.847222,51.303663,Weston-Super-Mare,South West
+713,Bath,-2.3599039,51.375801,Bath,South West
+713,Bathavon,-2.5016844,51.4200929,North East Somerset,South West
+714,Clutton,-2.542086,51.330568,North East Somerset,South West
+714,MIDSOMER NORTON,-2.485936,51.285199,North East Somerset,South West
+714,NORTON RADSTOCK,-2.446092,51.292017,North East Somerset,South West
+721,CHARLTON KINGS,-2.039939,51.882693,Cheltenham,South West
+721,CHELTENHAM,-2.0782533,51.8993855,Cheltenham,South West
+721,DYMOCK,-2.43732,51.978689,Forest of Dean,South West
+721,Gloucester,-2.238156,51.8642449,Gloucester,South West
+721,NEWENT,-2.404578,51.929281,Forest of Dean,South West
+721,RAF QUEDGELEY GLOS,-2.277564,51.823669,Gloucester,South West
+721,TEWKESBURY,-2.15796,51.992265,Tewkesbury,South West
+721,WINCHCOMBE,-1.969204,51.957205,Tewkesbury,South West
+722,BERKELEY,-2.456816,51.690667,Stroud,South West
+722,DURSLEY,-2.350518,51.678768,Stroud,South West
+722,NAILSWORTH,-2.216293,51.693878,Stroud,South West
+722,SHARPNESS,-2.4674595,51.7236003,Stroud,South West
+722,STONEHOUSE - GLOS,-2.279028,51.743881,Stroud,South West
+722,STROUD,-2.217758,51.745734,Stroud,South West
+722,TETBURY,-2.15818,51.639295,The Cotswolds,South West
+722,WOTTON-UNDER-EDGE,-2.351248,51.638025,The Cotswolds,South West
+723,BLAKENEY,NA,NA,NA,NA
+723,CINDERFORD,-2.5009579,51.825303,Forest of Dean,South West
+723,COLEFORD,-2.6174728,51.7934409,Forest of Dean,South West
+723,DRYBROOK,-2.518649,51.855809,Forest of Dean,South West
+723,EAST DEAN,NA,NA,NA,NA
+723,FOREST OF DEAN,-2.552469,51.8068562,Forest of Dean,South West
+723,LONGHOPE,-2.454864,51.866547,Forest of Dean,South West
+723,LYDBROOK,-2.58102,51.839575,Forest of Dean,South West
+723,LYDNEY,-2.530504,51.72913,Forest of Dean,South West
+723,MITCHELDEAN,-2.489453,51.862693,Forest of Dean,South West
+723,NEWNHAM,-2.4516969,51.804963,Forest of Dean,South West
+723,RUARDEAN,-2.552145,51.855473,Forest of Dean,South West
+723,WEST DEAN,NA,NA,NA,NA
+724,CHIPPING CAMPDEN,-1.7832211,52.049655,The Cotswolds,South West
+724,CIRENCESTER,-1.968243,51.718495,The Cotswolds,South West
+724,LECHLADE,-1.6914523,51.6997759,The Cotswolds,South West
+724,MORETON-IN-MARSH,-1.7028526,51.9914181,The Cotswolds,South West
+724,NORTHLEACH,-1.837254,51.830777,The Cotswolds,South West
+724,RAF FAIRFORD GLOS,-1.770455,51.696682,The Cotswolds,South West
+725,CRICKLADE,-1.856351,51.6380709,North Wiltshire,South West
+725,HIGHWORTH,-1.710398,51.632861,North Swindon,South West
+725,SOUTH MARSTON,-1.7224861,51.5900809,North Swindon,South West
+725,SWINDON,-1.7797176,51.5557739,South Swindon,South West
+725,WOOTTON BASSETT,-1.902318,51.541395,North Wiltshire,South West
+726,CALNE,-2.003884,51.43933,North Wiltshire,South West
+726,CHIPPENHAM,-2.1195157,51.461514,Chippenham,South West
+726,CORSHAM,-2.189674,51.431443,Chippenham,South West
+726,HAWKTHORN,NA,NA,NA,NA
+726,MALMESBURY,-2.102834,51.586357,North Wiltshire,South West
+728,BRIDGWATER,-3.003632,51.127889,Bridgwater and West Somerset,South West
+731,BRADFORD-ON-AVON,-2.2525019,51.345178,Chippenham,South West
+731,DEVIZES,-1.994828,51.3489069,Devizes,South West
+731,MELKSHAM,-2.137629,51.370447,Chippenham,South West
+731,TROWBRIDGE,-2.208853,51.319664,South West Wiltshire,South West
+731,WARMINSTER,-2.181078,51.204629,South West Wiltshire,South West
+731,WESTBURY,-2.185772,51.256659,South West Wiltshire,South West
+732,MARLBOROUGH,-1.727062,51.420073,Devizes,South West
+732,PEWSEY,-1.76478,51.339277,Devizes,South West
+732,TIDWORTH,-1.6644823,51.2414489,Devizes,South West
+733,Amesbury,-1.7629783,51.1679201,Salisbury,South West
+733,DURRINGTON WILTS,-1.770831,51.1993,Devizes,South West
+733,MERE,-2.266995,51.090456,South West Wiltshire,South West
+733,SALISBURY,-1.794472,51.068785,Salisbury,South West
+733,TISBURY,-2.079703,51.063138,South West Wiltshire,South West
+733,WILTON,-1.862598,51.079018,Salisbury,South West
+734,BRUTON,-2.452895,51.113338,Somerton and Frome,South West
+734,CASTLE CARY,-2.5131009,51.088689,Somerton and Frome,South West
+734,FROME,-2.320096,51.230751,Somerton and Frome,South West
+734,GLASTONBURY,-2.718454,51.147427,Wells,South West
+734,SHEPTON MALLET,-2.547886,51.1909,Wells,South West
+734,SOMERTON,-2.733788,51.0551109,Somerton and Frome,South West
+734,STREET,-2.742919,51.124679,Wells,South West
+734,TEMPLECOMBE,-2.415668,50.9960639,Somerton and Frome,South West
+734,WEDMORE,-2.81108,51.228772,Wells,South West
+734,WELLS,-2.6445979,51.209347,Wells,South West
+734,WINCANTON,-2.416007,51.055688,Somerton and Frome,South West
+735,Axminster,-2.994937,50.782727,Tiverton and Honiton,South West
+735,CHARD,-2.963316,50.8697919,Yeovil,South West
+735,CREWKERNE,-2.795877,50.8830079,Yeovil,South West
+735,HINTON ST GEORGE,-2.8250995,50.9102339,Yeovil,South West
+735,ILMINSTER,-2.911062,50.928494,Yeovil,South West
+735,MARTOCK,-2.767086,50.975626,Somerton and Frome,South West
+735,MERRIOTT,-2.7959109,50.912859,Yeovil,South West
+735,MONTACUTE,-2.7131409,50.949438,Yeovil,South West
+735,SOUTH PETHERTON,-2.810525,50.948076,Yeovil,South West
+735,STOKE-SUB-HAMDON,-2.749254,50.954064,Yeovil,South West
+735,YEOVIL,-2.633308,50.942061,Yeovil,South West
+736,LANGPORT,-2.828719,51.038134,Somerton and Frome,South West
+736,TAUNTON,-3.106849,51.015344,Taunton Deane,South West
+736,WELLINGTON - SOMERSET,-3.2244989,50.978564,Taunton Deane,South West
+737,CULLOMPTON,-3.391701,50.855229,Tiverton and Honiton,South West
+737,TIVERTON,-3.491207,50.902049,Tiverton and Honiton,South West
+738,BURNHAM-ON-SEA,-2.993858,51.240139,Wells,South West
+738,HIGHBRIDGE,-2.9780325,51.2249769,Wells,South West
+741,MINEHEAD,-3.481152,51.20428,Bridgwater and West Somerset,South West
+741,WATCHET,-3.329177,51.181769,Bridgwater and West Somerset,South West
+741,WILLITON,-3.3207049,51.162194,Bridgwater and West Somerset,South West
+742,Barnstaple,-4.058338,51.0781599,North Devon,South West
+742,BIDEFORD,-4.206666,51.016684,Torridge and West Devon,South West
+742,BRAUNTON,-4.161014,51.108039,North Devon,South West
+742,CHULMLEIGH,-3.869415,50.913966,North Devon,South West
+742,DULVERTON,-3.549685,51.039649,Bridgwater and West Somerset,South West
+742,GREAT TORRINGTON,-4.135998,50.9546459,Torridge and West Devon,South West
+742,ILFRACOMBE,-4.126762,51.205163,North Devon,South West
+742,LYNMOUTH,-3.8291697,51.2295747,North Devon,South West
+742,LYNTON,-3.840102,51.2296539,North Devon,South West
+742,NORTHAM,-4.213152,51.039809,Torridge and West Devon,South West
+742,SOUTH MOLTON,-3.832119,51.016818,North Devon,South West
+742,TORRINGTON,-4.135729,50.9457976,Torridge and West Devon,South West
+742,UMBERLEIGH,-3.98498,50.996942,North Devon,South West
+742,WINKLEIGH,-3.946214,50.855879,Torridge and West Devon,South West
+742,WOOLACOMBE,-4.206596,51.17255,North Devon,South West
+743,BUDLEIGH SALTERTON,-3.320214,50.630998,East Devon,South West
+743,COLYTON,-3.070422,50.74063,Tiverton and Honiton,South West
+743,CREDITON,-3.651495,50.792592,Central Devon,South West
+743,DAWLISH,-3.464402,50.582285,Newton Abbot,South West
+743,EXETER,-3.533899,50.718412,Exeter,South West
+743,EXMOUTH,-3.413702,50.619957,East Devon,South West
+743,HONITON,-3.188683,50.799468,Tiverton and Honiton,South West
+743,OTTERY ST MARY,-3.279352,50.7511782,East Devon,South West
+743,SEATON DEVON,-3.0718734,50.7053134,Tiverton and Honiton,South West
+743,SIDMOUTH,-3.23756,50.67865,East Devon,South West
+743,ST THOMAS,-3.9310396,51.6247392,Swansea East,Wales
+743,TEIGNMOUTH,-3.496688,50.547033,Newton Abbot,South West
+744,Ashburton,-3.751395,50.515772,Central Devon,South West
+744,BOVEY TRACEY,-3.672587,50.593547,Central Devon,South West
+744,BRIXHAM,-3.513924,50.39514,Totnes,South West
+744,BUCKFASTLEIGH,-3.779342,50.481799,Central Devon,South West
+744,DARTMOUTH,-3.578807,50.352517,Totnes,South West
+744,IVYBRIDGE,-3.920431,50.390202,South West Devon,South West
+744,KINGSBRIDGE,-3.777493,50.283948,Totnes,South West
+744,NEWTON ABBOT,-3.60836,50.528905,Newton Abbot,South West
+744,PAIGNTON,-3.564235,50.43508,Torbay,South West
+744,SALCOMBE,-3.769791,50.23758,Totnes,South West
+744,SOUTH BRENT,-3.837397,50.429962,Totnes,South West
+744,TORQUAY,-3.525315,50.4619209,Torbay,South West
+744,TOTNES,-3.685797,50.433741,Totnes,South West
+745,DEVONPORT,-4.1762119,50.377009,"Plymouth, Sutton and Devonport",South West
+745,PLYMOUTH,-4.1426565,50.3754565,"Plymouth, Sutton and Devonport",South West
+745,PLYMPTON ST MARY,-4.0583411,50.3886302,South West Devon,South West
+745,SALTASH,-4.21643,50.40921,South East Cornwall,South West
+745,ST GERMANS,-4.3079291,50.3936011,South East Cornwall,South West
+745,TORPOINT,-4.194344,50.37529,South East Cornwall,South West
+746,BEAWORTHY,-4.184284,50.775016,Central Devon,South West
+746,GUNNISLAKE,-4.2135524,50.5243156,South East Cornwall,South West
+746,LIFTON,-4.282801,50.645627,Torridge and West Devon,South West
+746,NORTH TAWTON,-3.897245,50.800602,Central Devon,South West
+746,OKEHAMPTON,-4.004263,50.738308,Central Devon,South West
+746,TAVISTOCK,-4.141654,50.5511229,Torridge and West Devon,South West
+746,YELVERTON,-4.085603,50.493452,Torridge and West Devon,South West
+747,BOSCASTLE,-4.692832,50.686914,North Cornwall,South West
+747,BROADWOODWIDGER,-4.250117,50.679769,Torridge and West Devon,South West
+747,BUDE,-4.543678,50.826636,North Cornwall,South West
+747,CAMELFORD,-4.682364,50.622055,North Cornwall,South West
+747,DELABOLE,-4.734308,50.621546,North Cornwall,South West
+747,HOLSWORTHY,-4.353993,50.809215,Torridge and West Devon,South West
+747,LAUNCESTON,-4.358558,50.640134,North Cornwall,South West
+747,PORT ISAAC,-4.829978,50.59382,North Cornwall,South West
+747,STRATTON,-4.514386,50.8306929,North Cornwall,South West
+747,TINTAGEL,-4.75066,50.66301,North Cornwall,South West
+748,BODMIN,-4.715114,50.46863,North Cornwall,South West
+748,CALLINGTON,-4.315735,50.502332,South East Cornwall,South West
+748,CALSTOCK,-4.202055,50.497003,South East Cornwall,South West
+748,FOWEY,-4.636525,50.33499,St Austell and Newquay,South West
+748,LISKEARD,-4.464719,50.45552,South East Cornwall,South West
+748,LOOK,NA,NA,NA,NA
+748,LOSTWITHIEL,-4.6750679,50.406021,South East Cornwall,South West
+748,PADSTOW,-4.939017,50.542062,North Cornwall,South West
+748,PAR,-4.700201,50.3516137,St Austell and Newquay,South West
+748,ST AUSTELL,-4.795,50.338,St Austell and Newquay,South West
+748,ST COLUMB,-4.936208,50.395377,St Austell and Newquay,South West
+748,WADEBRIDGE,-4.836456,50.516654,North Cornwall,South West
+749,NEWQUAY,-5.073719,50.415497,St Austell and Newquay,South West
+749,PERRANPORTH,-5.154444,50.344434,Truro and Falmouth,South West
+749,ST AGNES - CORNWALL,-5.2036202,50.3125085,Truro and Falmouth,South West
+749,TRURO,-5.051041,50.263195,Truro and Falmouth,South West
+751,BRYHER,-6.3541084,49.9541408,St Ives,South West
+751,CAMBORNE,-5.2947749,50.21277,Camborne and Redruth,South West
+751,FALMOUTH,-5.06627,50.152571,Truro and Falmouth,South West
+751,HAYLE,-5.42091,50.185467,Camborne and Redruth,South West
+751,HELSTON,-5.274996,50.101593,St Ives,South West
+751,ISLE OF SCILLY,-6.3312273,49.9456345,St Ives,South West
+751,KERRIER,NA,NA,NA,NA
+751,MARAZION,-5.463955,50.125077,St Ives,South West
+751,PENRYN,-5.107088,50.169173,Truro and Falmouth,South West
+751,PENZANCE,-5.537592,50.118798,St Ives,South West
+751,PURBECK,NA,NA,NA,NA
+751,REDRUTH,-5.226666,50.233022,Camborne and Redruth,South West
+751,ST AGNES - SCILLY IS.,-6.3428064,49.892141,St Ives,South West
+751,ST IVES CORNWALL,-5.4908864,50.2083858,St Ives,South West
+751,ST JUST,-5.679195,50.124487,St Ives,South West
+751,ST MARYS,-6.2947696,49.9142398,St Ives,South West
+751,TRESCO,-6.337477,49.9562646,St Ives,South West
+752,BEAMINSTER,-2.743195,50.810208,West Dorset,South West
+752,BRIDPORT,-2.758301,50.7335769,West Dorset,South West
+752,LYME REGIS,-2.936639,50.725156,West Dorset,South West
+752,MELCOMBE REGIS,-2.45599,50.623666,South Dorset,South West
+752,PORTLAND,-2.446035,50.567189,South Dorset,South West
+752,WEYMOUTH,-2.457621,50.6144279,South Dorset,South West
+753,BLANDFORD FORUM,-2.165353,50.856908,North Dorset,South West
+753,CRANBORNE,-1.9211723,50.9193742,North Dorset,South West
+753,DORCHESTER,-2.441181,50.7111639,West Dorset,South West
+753,SHAFTESBURY,-2.198083,51.0046,North Dorset,South West
+753,SHERBORNE,-2.5144829,50.947822,West Dorset,South West
+753,STURMINSTER,NA,NA,NA,NA
+753,WIMBORNE,-1.9830004,50.8004646,Mid Dorset and North Poole,South West
+753,WIMBORNE MINSTER,-1.9830004,50.8004646,Mid Dorset and North Poole,South West
+811,PEMBROKE,-4.908637,51.674043,Carmarthen West and South Pembrokeshire,Wales
+811,PEMBROKE DOCK,-4.943763,51.691894,Carmarthen West and South Pembrokeshire,Wales
+812,Ammanford,-3.988459,51.792888,Carmarthen East and Dinefwr,Wales
+812,BURRY PORT,-4.2561,51.683466,Llanelli,Wales
+812,CWMAMMAM,-3.9077208,51.8191958,Carmarthen East and Dinefwr,Wales
+812,GARNANT,-3.904234,51.801469,Carmarthen East and Dinefwr,Wales
+812,KIDWELLY,-4.3074709,51.736261,Llanelli,Wales
+812,LLANELLI DYFED,NA,NA,NA,NA
+812,LLANELLY,NA,NA,NA,NA
+812,TUMBLE,-4.118683,51.788264,Llanelli,Wales
+813,CLYDACH,-3.898795,51.694293,Gower,Wales
+813,EBBW VALE,-3.206151,51.777532,Blaenau Gwent,Wales
+813,GORSEINON,-4.041545,51.669543,Gower,Wales
+813,GOWER,-4.1698781,51.5966706,Gower,Wales
+813,LLWCHWR,-4.0414628,51.6588466,Gower,Wales
+813,MORRISTON,-3.930297,51.662244,Swansea East,Wales
+813,PONTARDAWE,-3.853215,51.720435,Neath,Wales
+813,PONTARDULAIS,-4.037071,51.712266,Gower,Wales
+813,SWANSEA,-3.943646,51.62144,Swansea West,Wales
+813,YSTALYFERA,-3.791996,51.762364,Neath,Wales
+813,YSTRADGYNLAIS,-3.753603,51.779621,Brecon and Radnorshire,Wales
+814,BRIDGEND GLAMORGAN,-3.576945,51.504286,Bridgend,Wales
+814,CYMMER,-3.647563,51.651944,Aberavon,Wales
+814,GARW,-3.0052802,51.6611808,Monmouth,Wales
+814,GLYNCORRWG,-3.628325,51.677721,Aberavon,Wales
+814,KENFIG HILL,-3.678068,51.533262,Bridgend,Wales
+814,MAESTEG,-3.660466,51.608562,Ogmore,Wales
+814,NEATH,-3.805476,51.656991,Neath,Wales
+814,OGMORE,-3.608934,51.479396,Vale of Glamorgan,Wales
+814,PENYBONT,-3.296994,52.267114,Brecon and Radnorshire,Wales
+814,PONTYCYMMER,NA,NA,NA,NA
+814,PORT TALBOT,-3.784097,51.5946799,Aberavon,Wales
+814,PORTHCAWL,-3.705163,51.478968,Bridgend,Wales
+814,RESOLVEN,-3.693584,51.710349,Neath,Wales
+815,Abercynon,-3.3293529,51.647512,Cynon Valley,Wales
+815,Aberdare,-3.451816,51.716154,Cynon Valley,Wales
+815,CARDIFF VALLEYS,-3.2020536,51.5083832,Cardiff North,Wales
+815,DOWLAIS,-3.347789,51.761811,Merthyr Tydfil and Rhymney,Wales
+815,FERNDALE,-3.448638,51.662619,Rhondda,Wales
+815,LLANTRISANT,-3.3749525,51.5429188,Pontypridd,Wales
+815,LLANTWIT FARDRE,-3.329398,51.560532,Pontypridd,Wales
+815,MERTHYR TYDFIL,-3.381646,51.74873,Merthyr Tydfil and Rhymney,Wales
+815,MOUNTAIN ASH,-3.373141,51.681615,Cynon Valley,Wales
+815,PENDERYN,-3.530421,51.768396,Cynon Valley,Wales
+815,PONTYCLUN,-3.393295,51.521579,Pontypridd,Wales
+815,PONTYPRIDD,-3.342314,51.600774,Pontypridd,Wales
+815,PORTH,-3.407184,51.613554,Rhondda,Wales
+815,RHONDDA,-3.4250598,51.6160411,Rhondda,Wales
+815,TONYPANDY,-3.458067,51.624352,Rhondda,Wales
+815,TONYREFAIL,-3.428319,51.583768,Pontypridd,Wales
+815,TREFOREST GLAM,-3.2933725,51.4055025,Vale of Glamorgan,Wales
+815,TREHARRIS,-3.30586,51.664972,Merthyr Tydfil and Rhymney,Wales
+815,TREORCHY,-3.506101,51.659719,Rhondda,Wales
+815,VAYNOR,-3.382728,51.785516,Merthyr Tydfil and Rhymney,Wales
+816,Barry,NA,NA,NA,NA
+816,BUTE DOCKS,-3.1660843,51.465287,Cardiff South and Penarth,Wales
+816,CARDIFF,-3.17909,51.481581,Cardiff Central,Wales
+816,COWBRIDGE,-3.449581,51.46209,Vale of Glamorgan,Wales
+816,DINAS POWIS,-3.215782,51.433799,Vale of Glamorgan,Wales
+816,HENGOED,-3.23131,51.646519,Caerphilly,Wales
+816,LLANTWIT MAJOR,-3.485246,51.409259,Vale of Glamorgan,Wales
+816,PENARTH,-3.173507,51.438798,Cardiff South and Penarth,Wales
+817,Bargoed,-3.229699,51.684912,Caerphilly,Wales
+817,BEDWAS AND MACHEN,-3.199781,51.592822,Caerphilly,Wales
+817,CAERPHILLY,-3.218134,51.578829,Caerphilly,Wales
+817,GELLIGAER,-3.251143,51.664336,Caerphilly,Wales
+817,MACHEN,-3.134396,51.595305,Caerphilly,Wales
+817,NEW TREDEGAR,-3.24018,51.721527,Merthyr Tydfil and Rhymney,Wales
+817,PENGAM,-3.223154,51.669302,Islwyn,Wales
+817,PONTLOTTYN,-3.280835,51.746888,Merthyr Tydfil and Rhymney,Wales
+817,RHYMNEY VALLEY,-3.2333333,51.6166667,Caerphilly,Wales
+817,SENGHENYDD,-3.280356,51.615508,Caerphilly,Wales
+817,YSTRAD MYNACH,-3.235099,51.642387,Caerphilly,Wales
+818,Abercarn,-3.135657,51.646985,Islwyn,Wales
+818,Abersychan,-3.0629,51.724084,Torfaen,Wales
+818,Abertillery,-3.135369,51.732161,Blaenau Gwent,Wales
+818,BEDWELLTY,-3.207148,51.697354,Islwyn,Wales
+818,BLACKWOOD,-3.195787,51.668935,Islwyn,Wales
+818,BLAENAVON,-3.085896,51.772502,Torfaen,Wales
+818,BLAINA,-3.159627,51.766823,Blaenau Gwent,Wales
+818,BRYNMAWR,-3.175561,51.795089,Blaenau Gwent,Wales
+818,CRICKHOWELL,-3.13551,51.856479,Brecon and Radnorshire,Wales
+818,CRUMLIN GWENT,-3.140621,51.677688,Islwyn,Wales
+818,CWMBRAN,-3.021,51.653,Torfaen,Wales
+818,MYNYDDISLWYN,-3.165904,51.637594,Islwyn,Wales
+818,NANTYGLO,-3.167733,51.783157,Blaenau Gwent,Wales
+818,NEWBRIDGE,NA,NA,NA,NA
+818,PONTNEWYDD,-3.0244219,51.6682984,Torfaen,Wales
+818,PONTYPOOL,-3.045268,51.700369,Torfaen,Wales
+818,RISCA,-3.1018,51.611827,Islwyn,Wales
+818,TREDGAR,-3.246775,51.772619,Blaenau Gwent,Wales
+818,USK,-2.903404,51.703533,Monmouth,Wales
+819,CAERLEON,-2.9562689,51.610283,Newport West,Wales
+819,MAGOR,-2.829734,51.5815849,Newport East,Wales
+819,NEWPORT GWENT,-3.0305937,51.581186,Newport West,Wales
+819,NEWPORT MON,-2.997664,51.584151,Newport West,Wales
+819,ST MELLONS,-3.103261,51.526976,Cardiff South and Penarth,Wales
+821,CEIRIOG,-3.3116378,52.5102043,Montgomeryshire,Wales
+821,DENBIGH,-3.425002,53.183906,Vale of Clwyd,Wales
+821,LLANGOLLEN,-3.17166,52.969215,Clwyd South,Wales
+821,RUTHIN,-3.310874,53.114725,Clwyd West,Wales
+822,BRYMBO,-3.057591,53.075576,Clwyd South,Wales
+822,CEFN MAWR,-3.073175,52.974573,Clwyd South,Wales
+822,RHOSLLANERCHRUGOG,-3.057852,53.013057,Clwyd South,Wales
+822,WREXHAM,-2.992494,53.04304,Wrexham,Wales
+823,Bagillt,-3.174352,53.267912,Delyn,Wales
+823,BUCKLEY,-3.0814879,53.17005,Alyn and Deeside,Wales
+823,CONNAH'S QUAY,-3.0589149,53.2200604,Alyn and Deeside,Wales
+823,FLINT,-3.1599793,53.197787,Delyn,Wales
+823,HAWARDEN,-3.0298075,53.18569,Alyn and Deeside,Wales
+823,HOLYWELL,-3.225103,53.276009,Delyn,Wales
+823,MOLD,-3.141903,53.167203,Delyn,Wales
+823,OVERTON,NA,NA,NA,NA
+823,SHOTTON,-3.0380242,53.2115447,Alyn and Deeside,Wales
+823,ST ASAPH,-3.4418762,53.2577125,Vale of Clwyd,Wales
+824,Abergele,-3.581405,53.284355,Clwyd West,Wales
+824,Aled,NA,NA,NA,NA
+824,COLWYN BAY,-3.72764,53.293182,Clwyd West,Wales
+824,GLAN CONWAY,-3.7935,53.268083,Aberconwy,Wales
+824,LLANDUDNO,-3.827609,53.324061,Aberconwy,Wales
+824,PRESTATYN,-3.407613,53.336512,Vale of Clwyd,Wales
+824,RHYL,-3.491634,53.319141,Vale of Clwyd,Wales
+824,TALYCAFN,-3.816651,53.22779,Aberconwy,Wales
+831,Aethey,NA,NA,NA,NA
+831,Amlwch,-4.345693,53.410658,Ynys Mon,Wales
+831,Anglesey,-4.3212852,53.2692804,Ynys Mon,Wales
+831,BEAUMARIS,-4.09199,53.265865,Ynys Mon,Wales
+831,BODORGAN,-4.4166384,53.1788254,Ynys Mon,Wales
+831,BRYNTEG,NA,NA,NA,NA
+831,DULAS,-4.2911157,53.3807504,Ynys Mon,Wales
+831,GAERWEN,-4.281381,53.22199,Ynys Mon,Wales
+831,HOLYHEAD,-4.633038,53.309441,Ynys Mon,Wales
+831,LLANBEDRGOCH,-4.236241,53.300353,Ynys Mon,Wales
+831,LLANERCHYMEDD,-4.376968,53.33105,Ynys Mon,Wales
+831,LLANFAIR P. G.,-4.197995,53.2246219,Ynys Mon,Wales
+831,LLANGEFNI,-4.311402,53.255785,Ynys Mon,Wales
+831,MARIANGLAS,-4.2534448,53.333842,Ynys Mon,Wales
+831,MENAI BRIDGE,-4.165577,53.222607,Ynys Mon,Wales
+831,MOELFRE,-4.237343,53.352276,Ynys Mon,Wales
+831,PENTRAETH,-4.2162879,53.281821,Ynys Mon,Wales
+831,PENYSARN,-4.3169297,53.3893402,Ynys Mon,Wales
+831,RHOSGOCH,-4.390969,53.377121,Ynys Mon,Wales
+831,RHOSNEIGR,-4.519761,53.228996,Ynys Mon,Wales
+831,TWRCELYN,-4.329205,53.397546,Ynys Mon,Wales
+831,TYCROES,NA,NA,NA,NA
+831,TYNYGONGL,-4.232324,53.322169,Ynys Mon,Wales
+831,VALLEY,-4.559513,53.282866,Ynys Mon,Wales
+832,Aber,-4.024252,53.236641,Arfon,Wales
+832,Bangor,-4.129263,53.22739,Arfon,Wales
+832,BETHE,NA,NA,NA,NA
+832,BETTWS Y COED,-3.8010354,53.0930858,Aberconwy,Wales
+832,CAERNARVON,-4.273911,53.139551,Arfon,Wales
+832,CHWILOG,-4.330451,52.919911,Dwyfor Meirionnydd,Wales
+832,CRICCIETH,-4.233645,52.919565,Dwyfor Meirionnydd,Wales
+832,DOLWYDDELAN,-3.886577,53.053941,Aberconwy,Wales
+832,GARN DOLBENMAEN,-4.240343,52.973726,Dwyfor Meirionnydd,Wales
+832,GWYFRAI,-4.193172,53.0984467,Arfon,Wales
+832,HIRAETHOG,NA,NA,NA,NA
+832,LLANDUDNO JUNCTION,-3.807032,53.286781,Aberconwy,Wales
+832,LLANFAIRFECHAN,-3.975109,53.252813,Aberconwy,Wales
+832,LLANRWST,-3.795732,53.137033,Aberconwy,Wales
+832,LLEYN,-4.5,52.8666667,Dwyfor Meirionnydd,Wales
+832,NANT CONWAY,-3.8650723,53.2288513,Aberconwy,Wales
+832,OGWEN,NA,NA,NA,NA
+832,PENMAENMAWR,-3.92065,53.266577,Aberconwy,Wales
+832,PENYGROES,-4.283645,53.05459,Arfon,Wales
+832,PORT DINORWIC,-4.2681939,53.1393735,Arfon,Wales
+832,PORTHMADOC,-4.133384,52.927842,Dwyfor Meirionnydd,Wales
+832,PORTMADOC,-4.133384,52.927842,Dwyfor Meirionnydd,Wales
+832,PWLLHELI,-4.4176339,52.888816,Dwyfor Meirionnydd,Wales
+832,TREFRIY,-3.82576,53.150729,Aberconwy,Wales
+833,Aberaeron,-4.2581619,52.242793,Ceredigion,Wales
+833,Aberystwyth,-4.08292,52.415303,Ceredigion,Wales
+833,BORTH,-4.051229,52.488691,Ceredigion,Wales
+833,BOW STREET,-4.0281019,52.44217,Ceredigion,Wales
+833,CARDIGAN,-4.660864,52.083703,Ceredigion,Wales
+833,LAMPETER,-4.078509,52.112903,Ceredigion,Wales
+833,LLANARTH,-4.307419,52.194335,Ceredigion,Wales
+833,LLANDYSSUL,-4.309198,52.041675,Ceredigion,Wales
+833,LLANON,-4.1771996,52.2817522,Ceredigion,Wales
+833,LLANRHYSTYD,-4.144563,52.305416,Ceredigion,Wales
+833,NEW QUAY,-4.359081,52.215536,Ceredigion,Wales
+833,TALYBONT,NA,NA,NA,NA
+833,TREGARON,-3.934385,52.2199979,Ceredigion,Wales
+833,YSTRAD MEURIG,-3.902193,52.292611,Ceredigion,Wales
+834,BRECKNOCK,NA,NA,NA,NA
+834,BRECON,-3.391463,51.9489469,Brecon and Radnorshire,Wales
+834,CARMARTHEN,-4.312131,51.85762,Carmarthen West and South Pembrokeshire,Wales
+834,CONWY,NA,NA,NA,NA
+834,FERRYSIDE,-4.3688969,51.767649,Carmarthen East and Dinefwr,Wales
+834,HAY,-3.125908,52.075697,Brecon and Radnorshire,Wales
+834,LLANDEILO,-3.99143,51.88469,Carmarthen East and Dinefwr,Wales
+834,LLANDILO,-4.758198,51.908513,Preseli Pembrokeshire,Wales
+834,LLANDOVERY,-3.797508,51.997395,Carmarthen East and Dinefwr,Wales
+834,LLANGADOCK,-3.14729,51.847941,Brecon and Radnorshire,Wales
+834,LLANGAMMARCH WELLS,-3.555317,52.1124889,Brecon and Radnorshire,Wales
+834,LLANW,-4.0416679,51.7114159,Gower,Wales
+834,LLANWRTYD WELLS,-3.637427,52.107586,Brecon and Radnorshire,Wales
+834,LLANYBYTHER,-4.157826,52.074885,Carmarthen East and Dinefwr,Wales
+834,NEWCASTLE CARMARTHEN,-4.468711,52.037442,Carmarthen East and Dinefwr,Wales
+834,NEWCASTLE EMLYN,-4.468711,52.037442,Carmarthen East and Dinefwr,Wales
+834,PAINSCASTLE,-3.217394,52.108468,Brecon and Radnorshire,Wales
+834,PENCADER,-4.265751,52.001581,Carmarthen East and Dinefwr,Wales
+834,WHITLAND,-4.614613,51.819677,Carmarthen West and South Pembrokeshire,Wales
+835,Aberdovey,-4.046093,52.543963,Dwyfor Meirionnydd,Wales
+835,Arthog,-4.009899,52.711596,Dwyfor Meirionnydd,Wales
+835,Bala,-3.601584,52.909911,Dwyfor Meirionnydd,Wales
+835,Barmouth,-4.0560919,52.722873,Dwyfor Meirionnydd,Wales
+835,BLAENAU FFESTINIOG,-3.944894,52.998337,Dwyfor Meirionnydd,Wales
+835,CORWEN,-3.369242,52.980051,Clwyd South,Wales
+835,DEUDRAETH,-4.0672237,52.930657,Dwyfor Meirionnydd,Wales
+835,DOLGELLAU,-3.8844,52.74215,Dwyfor Meirionnydd,Wales
+835,DOLGELLEY,NA,NA,NA,NA
+835,DYFFRYN ARDUDWY,-4.0972289,52.78782,Dwyfor Meirionnydd,Wales
+835,FAIRBOURNE,-4.054346,52.696651,Dwyfor Meirionnydd,Wales
+835,FFESTINIOG,-3.933458,52.959065,Dwyfor Meirionnydd,Wales
+835,HARLECH,-4.107858,52.858894,Dwyfor Meirionnydd,Wales
+835,LLANDDERFEL,-3.515416,52.926403,Dwyfor Meirionnydd,Wales
+835,LLANDRILLO,-3.435752,52.92261,Clwyd South,Wales
+835,LLANUWCHLLYN,-3.6682978,52.8550757,Dwyfor Meirionnydd,Wales
+835,LLWYNGWRIL,-4.0843239,52.6662869,Dwyfor Meirionnydd,Wales
+835,MERIONETH,NA,NA,NA,NA
+835,PENLLYN,-3.479485,51.474035,Vale of Glamorgan,Wales
+835,PENNAL,-3.921579,52.58512,Dwyfor Meirionnydd,Wales
+835,PENRHYNDEUDRAETH,-4.067134,52.92924,Dwyfor Meirionnydd,Wales
+835,TALSARNAU,-4.062969,52.904127,Dwyfor Meirionnydd,Wales
+835,TOWYN,-3.539537,53.302171,Clwyd West,Wales
+836,Abergavenny,-3.019423,51.825366,Monmouth,Wales
+836,CHEPSTOW,-2.673804,51.641856,Monmouth,Wales
+836,MONMOUTH,-2.7163045,51.8116533,Monmouth,Wales
+836,RAGLAN,-2.852011,51.7647959,Monmouth,Wales
+837,BWLCH Y CIBAU,-3.216037,52.746804,Montgomeryshire,Wales
+837,CAERSWS,-3.4287484,52.5163888,Montgomeryshire,Wales
+837,FORDEN,-3.142806,52.6020169,Montgomeryshire,Wales
+837,HOLT,NA,NA,NA,NA
+837,LLANBRYNMAIR,-3.627605,52.6120696,Montgomeryshire,Wales
+837,LLANDINAM,-3.4368855,52.4850266,Montgomeryshire,Wales
+837,LLANFECHAIN,-3.210543,52.774516,Montgomeryshire,Wales
+837,LLANFYLLIN,-3.275786,52.766235,Montgomeryshire,Wales
+837,LLANIDLOES,-3.540195,52.447794,Montgomeryshire,Wales
+837,LLANLLWHCAIARN,-3.291535,52.524461,Montgomeryshire,Wales
+837,LLANSANTFFRAID,-3.1488938,52.7574262,Montgomeryshire,Wales
+837,LLANYMYNECH,-3.09031,52.7813159,Montgomeryshire,Wales
+837,MACHYNLLETH,-3.853485,52.590273,Montgomeryshire,Wales
+837,MEIFOD,-3.25309,52.710772,Montgomeryshire,Wales
+837,MONTGOMERY,-3.149331,52.56279,Montgomeryshire,Wales
+837,NEWTOWN MONTGOMERY,NA,NA,NA,NA
+837,WELSHPOOL,-3.146407,52.660348,Montgomeryshire,Wales
+838,BONCATH,-4.617351,52.014011,Preseli Pembrokeshire,Wales
+838,CEMAES,NA,NA,NA,NA
+838,CLARBESTON ROAD,-4.881337,51.851355,Preseli Pembrokeshire,Wales
+838,CLYNDEREWEN,-4.729586,51.841588,Preseli Pembrokeshire,Wales
+838,CRYMMYCH,-4.646704,51.974284,Preseli Pembrokeshire,Wales
+838,FISHGUARD,-4.975989,51.993927,Preseli Pembrokeshire,Wales
+838,Glogue,-4.598315,51.967684,Preseli Pembrokeshire,Wales
+838,GOODWICK,-4.996011,52.004502,Preseli Pembrokeshire,Wales
+838,HAVERFORDWEST,-4.971319,51.800475,Preseli Pembrokeshire,Wales
+838,KILGETTY,-4.717631,51.731792,Carmarthen West and South Pembrokeshire,Wales
+838,LLANFYRNACH,-4.591071,51.951374,Preseli Pembrokeshire,Wales
+838,MILFORD HAVEN,-5.042697,51.714306,Preseli Pembrokeshire,Wales
+838,NARBERTH,-4.744008,51.799763,Carmarthen West and South Pembrokeshire,Wales
+838,NEWPORT PEMBROKESHIRE,-4.834944,52.015656,Preseli Pembrokeshire,Wales
+838,NEYLAND,-4.948318,51.704948,Preseli Pembrokeshire,Wales
+838,SAUNDERSFOOT,-4.699726,51.709379,Carmarthen West and South Pembrokeshire,Wales
+838,TENBY,-4.703579,51.672738,Carmarthen West and South Pembrokeshire,Wales
+839,BUILTH,-3.402751,52.1449088,Brecon and Radnorshire,Wales
+839,BUILTH WELLS,-3.404592,52.150023,Brecon and Radnorshire,Wales
+839,COLWYN,-3.3075764,52.5118198,Montgomeryshire,Wales
+839,KNIGHTON RADNOR,-3.0564048,52.3447587,Brecon and Radnorshire,Wales
+839,LLANDRINDOD WELLS,-3.377742,52.2417,Brecon and Radnorshire,Wales
+839,NEW RADNOR,-3.1536909,52.241368,Brecon and Radnorshire,Wales
+839,PRESTEIGN,NA,NA,NA,NA
+839,RHAYADER,-3.510641,52.301537,Brecon and Radnorshire,Wales
+911,Atcham,-2.6794543,52.6784409,Shrewsbury and Atcham,West Midlands
+911,CHURCH STRETTON,-2.803484,52.540698,Ludlow,West Midlands
+911,DRAYTON,NA,NA,NA,NA
+911,ELLESMERE,-2.900338,52.906718,North Shropshire,West Midlands
+911,MARKET DRAYTON,-2.483485,52.903552,North Shropshire,West Midlands
+911,OSWESTRY,-3.056412,52.857148,North Shropshire,West Midlands
+911,SHREWSBURY,-2.7553268,52.7073029,Shrewsbury and Atcham,West Midlands
+911,WEM,-2.726712,52.853637,North Shropshire,West Midlands
+911,WHITCHURCH - SALOP,-2.682045,52.968716,North Shropshire,West Midlands
+912,BISHOPS CASTLE,-2.9984386,52.4900507,Ludlow,West Midlands
+912,BRIDGNORTH,-2.424549,52.534455,Ludlow,West Midlands
+912,BUCKNELL,-2.949593,52.359723,Ludlow,West Midlands
+912,CLEOBURY MORTIMER,-2.4834679,52.378434,Ludlow,West Midlands
+912,CLUN,-3.032585,52.419476,Ludlow,West Midlands
+912,CRAVEN ARMS,-2.8332799,52.440084,Ludlow,West Midlands
+912,LUDLOW,-2.7139129,52.367749,Ludlow,West Midlands
+912,LYDBURY NORTH,-2.9539369,52.467804,Ludlow,West Midlands
+913,BROSELEY,-2.4834109,52.611527,Ludlow,West Midlands
+913,COALBROOKDALE,-2.4907301,52.6354023,Telford,West Midlands
+913,DAWLEY,-2.461943,52.660656,Telford,West Midlands
+913,IRONBRIDGE,-2.481324,52.628385,Telford,West Midlands
+913,MUCH WENLOCK,-2.5592959,52.5971339,Ludlow,West Midlands
+913,NEWPORT - SALOP,-2.3755914,52.76854,The Wrekin,West Midlands
+913,OAKENGATES,-2.440785,52.696833,Telford,West Midlands
+913,SHIFNAL,-2.3745599,52.66792,The Wrekin,West Midlands
+913,WELLINGTON - SALOP,-2.518597,52.703034,The Wrekin,West Midlands
+913,WENLOCK,NA,NA,NA,NA
+914,BREDWARDLINE,-2.9782699,52.094755,Hereford and South Herefordshire,West Midlands
+914,BROMYARD,-2.50872,52.190713,North Herefordshire,West Midlands
+914,DORE,NA,NA,NA,NA
+914,HEREFORD,-2.715974,52.056398,Hereford and South Herefordshire,West Midlands
+914,KINGSTON,NA,NA,NA,NA
+914,KINGSTONE,-2.842652,52.017453,Hereford and South Herefordshire,West Midlands
+914,LEDBURY,-2.423574,52.033882,North Herefordshire,West Midlands
+914,LEOMINSTER,-2.742772,52.2257,North Herefordshire,West Midlands
+914,WEOBLEY,-2.8724958,52.1589421,North Herefordshire,West Midlands
+914,WIGMORE,-2.860828,52.317411,North Herefordshire,West Midlands
+915,BEWDLEY,-2.316973,52.375539,Wyre Forest,West Midlands
+915,KIDDERMINSTER,-2.2496839,52.388596,Wyre Forest,West Midlands
+915,STOURPORT-ON-SERVERN,-2.277593,52.3417839,Wyre Forest,West Midlands
+915,TENBURY,-2.5929056,52.2956961,West Worcestershire,West Midlands
+915,TENBURY WELLS,-2.596406,52.307662,West Worcestershire,West Midlands
+916,BROADWAY,-1.854492,52.035467,Mid Worcestershire,West Midlands
+916,DROITWICH,-2.1526355,52.2615914,Mid Worcestershire,West Midlands
+916,EVESHAM,-1.94677,52.092149,Mid Worcestershire,West Midlands
+916,GREAT MALVERN WORCS,-2.327182,52.112421,West Worcestershire,West Midlands
+916,MALVERN,-2.3199774,52.1366184,West Worcestershire,West Midlands
+916,MARTLEY,-2.365495,52.238319,West Worcestershire,West Midlands
+916,PERSHORE,-2.074814,52.109994,West Worcestershire,West Midlands
+916,UPTON-ON-SEVERN,-2.2391573,52.4020795,Wyre Forest,West Midlands
+916,WORCESTER,-2.221575,52.193636,Worcester,West Midlands
+917,Alcester,-1.867605,52.215311,Stratford-on-Avon,West Midlands
+917,BROMSGROVE,-2.061906,52.335589,Bromsgrove,West Midlands
+917,REDDITCH,-1.940936,52.30897,Redditch,West Midlands
+921,Alsager,-2.304657,53.095402,Congleton,North West
+921,Audley,-2.306407,53.054895,Newcastle-under-Lyme,West Midlands
+921,BIDDULPH,-2.171608,53.119197,Staffordshire Moorlands,West Midlands
+921,BURSLEM,-2.196734,53.045665,Stoke-on-Trent North,West Midlands
+921,CHESTERTON - STAFF,-2.2511715,53.0396457,Newcastle-under-Lyme,West Midlands
+921,KIDSGROVE,-2.240836,53.086191,Stoke-on-Trent North,West Midlands
+921,LONGTON,NA,NA,NA,NA
+921,MANLEY,NA,NA,NA,NA
+921,NEWCASTLE-UNDER-LYME,-2.2273002,53.013208,Newcastle-under-Lyme,West Midlands
+921,STOKE-ON-TRENT,-2.179404,53.002668,Stoke-on-Trent Central,West Midlands
+921,STONE,-2.144045,52.907932,Stone,West Midlands
+922,CHEADLE - STAFFS,-1.986503,52.984884,Stone,West Midlands
+922,LEEK,-2.023393,53.109152,Staffordshire Moorlands,West Midlands
+931,CANNOCK,-2.0218293,52.6999408,Cannock Chase,West Midlands
+931,STAFFORD,-2.12066,52.806693,Stafford,West Midlands
+931,WESTON STAFFS,-2.031622,52.842289,Stone,West Midlands
+932,BURTON-ON-TRENT,-1.6371359,52.8140281,Burton,West Midlands
+932,TUTBURY,-1.6882087,52.8543675,Burton,West Midlands
+932,UTTOXETER,-1.865801,52.898116,Burton,West Midlands
+933,BROWNHILLS,-1.931056,52.646054,Aldridge-Brownhills,West Midlands
+933,HEDNESFORD,-2.0003829,52.7115579,Cannock Chase,West Midlands
+933,LICHFIELD,-1.831672,52.681602,Lichfield,West Midlands
+933,RUGELEY,-1.935967,52.761515,Cannock Chase,West Midlands
+934,Atherstone,-1.543763,52.576614,North Warwickshire,West Midlands
+934,NUNEATON,-1.465382,52.520489,Nuneaton,West Midlands
+934,TAMWORTH,-1.691032,52.633584,Tamworth,West Midlands
+941,Aston,NA,NA,NA,NA
+941,BIRMINGHAM,-1.890401,52.486243,"Birmingham, Ladywood",West Midlands
+941,HANDSWORTH,-1.938412,52.5094179,"Birmingham, Perry Barr",West Midlands
+941,OLDBURY,-2.015907,52.504923,West Bromwich West,West Midlands
+941,SELLY OAK,-1.937655,52.442696,"Birmingham, Selly Oak",West Midlands
+941,SMALL HEATH,-1.855628,52.474151,"Birmingham, Ladywood",West Midlands
+941,SMETHWICK,-1.965207,52.492401,Warley,West Midlands
+941,SOLIHULL,-1.77761,52.411811,Solihull,West Midlands
+941,SUTTON COLDFIELD,-1.824042,52.570385,Sutton Coldfield,West Midlands
+941,WASHWOOD HEATH,-1.842671,52.497121,"Birmingham, Hodge Hill",West Midlands
+941,WEST BROMWICH,-1.995159,52.517664,West Bromwich East,West Midlands
+942,Amblecote,-2.150451,52.468251,Stourbridge,West Midlands
+942,BRIERLEY HILL,-2.120309,52.4821669,Dudley South,West Midlands
+942,CRADLEY HEATH,-2.082075,52.471815,Halesowen and Rowley Regis,West Midlands
+942,DUDLEY,-2.081112,52.512255,Dudley North,West Midlands
+942,HALESOWEN,-2.050526,52.449845,Halesowen and Rowley Regis,West Midlands
+942,KINGSWINFORD W.MIDLANDS,-2.169995,52.4981719,Dudley South,West Midlands
+942,OLD HILL,-2.067356,52.475132,Halesowen and Rowley Regis,West Midlands
+942,ROWLEY REGIS,-2.046085,52.488674,Halesowen and Rowley Regis,West Midlands
+942,SEDGLEY,-2.1217238,52.5428691,Dudley North,West Midlands
+942,STOURBRIDGE,-2.148731,52.456891,Stourbridge,West Midlands
+942,TIPTON,-2.066058,52.52625,West Bromwich West,West Midlands
+943,BILSTON,-2.074088,52.565595,Wolverhampton South East,West Midlands
+943,COSELEY,-2.074356,52.547913,Wolverhampton South East,West Midlands
+943,SEISDON,-2.243857,52.550288,South Staffordshire,West Midlands
+943,TETTENHALL,-2.160716,52.598272,Wolverhampton South West,West Midlands
+943,WEDNESFIELD,-2.08341,52.596257,Wolverhampton North East,West Midlands
+943,WOLVERHAMPTON,-2.12882,52.586973,Wolverhampton South West,West Midlands
+944,Aldridge,-1.9142056,52.6110324,Aldridge-Brownhills,West Midlands
+944,BLOXWICH,-2.0162,52.614,Walsall North,West Midlands
+944,DARLASTON,-2.032828,52.567544,Walsall South,West Midlands
+944,WALSALL,-1.982919,52.586214,Walsall South,West Midlands
+944,WEDNESBURY,-2.02208,52.552888,West Bromwich West,West Midlands
+944,WILLENHALL,-2.057635,52.585017,Walsall North,West Midlands
+951,BEDWORTH,-1.468869,52.481392,North Warwickshire,West Midlands
+951,COLESHILL,-1.706495,52.499599,North Warwickshire,West Midlands
+951,COVENTRY,-1.519693,52.406822,Coventry North West,West Midlands
+951,KENILWORTH,-1.58073,52.349557,Kenilworth and Southam,West Midlands
+951,LEAMINGTON SPA,-1.5200789,52.2851905,Warwick and Leamington,West Midlands
+951,MERIDEN,-1.647762,52.438655,Meriden,West Midlands
+951,SOUTHAM,-1.389719,52.2505049,Kenilworth and Southam,West Midlands
+951,STUDLEY,-1.893509,52.270696,Stratford-on-Avon,West Midlands
+951,WARWICK,-1.584927,52.282316,Warwick and Leamington,West Midlands
+952,SHIPSTON-ON-STOUR,-1.622814,52.0606549,Stratford-on-Avon,West Midlands
+952,STRATFORD-ON-AVON,-1.6091232,52.1378192,Stratford-on-Avon,West Midlands
+953,RUGBY,-1.265032,52.370878,Rugby,West Midlands
+1011,Alderley Edge,-2.237216,53.301554,Tatton,North West
+1011,Altrincham,-2.3488983,53.3869046,Altrincham and Sale West,North West
+1011,BOWDON,-2.363919,53.377084,Altrincham and Sale West,North West
+1011,BUCKLOW,-2.401005,53.2760762,Tatton,North West
+1011,HALE,-2.343509,53.37891,Altrincham and Sale West,North West
+1011,KNUTSFORD,-2.371833,53.3005939,Tatton,North West
+1011,MOBBERLEY CHESHIRE,-2.318855,53.312837,Tatton,North West
+1011,SALE,-2.323702,53.425561,Wythenshawe and Sale East,North West
+1011,WILMSLOW,-2.229409,53.328,Tatton,North West
+1012,BLACKROD,-2.57864,53.5873599,Bolton West,North West
+1012,BOLTON,-2.4282192,53.5768647,Bolton South East,North West
+1012,FARNWORTH,-2.40396,53.545838,Bolton South East,North West
+1012,HORWICH,-2.554762,53.598398,Bolton West,North West
+1012,KEARSLEY,-2.374366,53.539253,Bolton South East,North West
+1012,LITTLE LEVER,-2.377596,53.563988,Bolton South East,North West
+1012,TURTON,-2.400054,53.638057,Rossendale and Darwen,North West
+1013,BURY,-2.2966054,53.5933498,Bury North,North West
+1013,HEYWOOD,-2.22565,53.592628,Heywood and Middleton,North West
+1013,RADCLIFFE,-2.326769,53.561449,Bury South,North West
+1013,RAMSBOTTOM,-2.32049,53.648457,Bury North,North West
+1013,WHITEFIELD,-2.299201,53.552083,Bury South,North West
+1014,DENTON,-2.114613,53.455203,Denton and Reddish,North West
+1014,DROYLSDEN,-2.148716,53.480784,Ashton-under-Lyne,North West
+1014,ECCLES,-2.340598,53.482449,Worsley and Eccles South,North West
+1014,IRLAM,-2.42142,53.444266,Worsley and Eccles South,North West
+1014,LEVENSHULME,-2.192753,53.451102,"Manchester, Gorton",North West
+1014,MANCHESTER,-2.2426305,53.4807593,Manchester Central,North West
+1014,NEWTON HEATH,-2.184666,53.499558,Manchester Central,North West
+1014,OPENSHAW,-2.174643,53.476381,Manchester Central,North West
+1014,PENDLEBURY,-2.315434,53.50748,Salford and Eccles,North West
+1014,PRESTWICH,-2.28064,53.527039,Bury South,North West
+1014,SALFORD,-2.2901264,53.4875235,Salford and Eccles,North West
+1014,STRETFORD,-2.308713,53.446622,Stretford and Urmston,North West
+1014,SWINTON,-2.3462325,53.511443,Salford and Eccles,North West
+1014,URMSTON,-2.374697,53.448717,Stretford and Urmston,North West
+1014,WALKDEN,-2.3986825,53.5237032,Worsley and Eccles South,North West
+1014,WITHINGTON,-2.225543,53.430722,"Manchester, Withington",North West
+1014,WORSLEY,-2.391199,53.50754,Worsley and Eccles South,North West
+1015,CHADDERTON,-2.140409,53.544941,Oldham West and Royton,North West
+1015,CROMPTON,-2.0895769,53.582986,Oldham East and Saddleworth,North West
+1015,FAILSWORTH,-2.164444,53.508131,Ashton-under-Lyne,North West
+1015,LEES,-2.0727062,53.5388363,Oldham East and Saddleworth,North West
+1015,MIDDLETON,-2.2019479,53.545921,Heywood and Middleton,North West
+1015,OLDHAM,-2.1113659,53.5409298,Oldham West and Royton,North West
+1015,ROYTON,-2.12132,53.567124,Oldham West and Royton,North West
+1015,SHAW,-2.091421,53.580129,Oldham East and Saddleworth,North West
+1016,LITTLEBOROUGH,-2.093367,53.646141,Rochdale,North West
+1016,MILNROW,-2.11657,53.610711,Rochdale,North West
+1016,ROCHDALE,-2.1561,53.6097136,Rochdale,North West
+1016,WARDLE,-2.1361119,53.64777,Rochdale,North West
+1016,WHITWORTH,-2.172478,53.660416,Rossendale and Darwen,North West
+1017,Ashton under Lyne,-2.0961077,53.4876815,Ashton-under-Lyne,North West
+1017,Audenshaw,-2.125174,53.473615,Denton and Reddish,North West
+1017,DUKINFIELD,-2.094523,53.478764,Denton and Reddish,North West
+1017,Glossop,-1.948907,53.4433284,High Peak,East Midlands
+1017,HYDE,-2.082786,53.452977,Stalybridge and Hyde,North West
+1017,LIMEHURST,-2.104476,53.510305,Oldham West and Royton,North West
+1017,LONGDENDALE,-1.9333333,53.4666667,High Peak,East Midlands
+1017,MOSSLEY,-2.038679,53.514681,Stalybridge and Hyde,North West
+1017,STALYBRIDGE,-2.0500759,53.483806,Stalybridge and Hyde,North West
+1017,TINTWISTLE -,-1.968437,53.472204,High Peak,East Midlands
+1018,BRAMHALL,-2.164072,53.367647,Cheadle,North West
+1018,BREDBURY,-2.113764,53.423581,Hazel Grove,North West
+1018,CHEADLE -CHES,-2.214115,53.394361,Cheadle,North West
+1018,GATLEY,-2.2446419,53.39286,Cheadle,North West
+1018,HAZEL GROVE,-2.112004,53.376299,Hazel Grove,North West
+1018,MARPLE,-2.061683,53.397349,Hazel Grove,North West
+1018,REDDISH,-2.159698,53.442028,Denton and Reddish,North West
+1018,STOCKPORT,-2.1575332,53.4106316,Stockport,North West
+1021,Atherton,-2.49227,53.524011,Bolton West,North West
+1021,LEIGH,-2.518727,53.496115,Leigh,North West
+1021,TYLDESLEY,-2.464474,53.514508,Leigh,North West
+1022,BOOTLE,-2.998895,53.443255,Bootle,North West
+1022,CROSBY,-3.0462309,53.4892924,Sefton Central,North West
+1022,GARSTON,-0.391206,51.681598,Watford,East of England
+1022,HUYTON WITH ROBY,-2.8446413,53.413111,Knowsley,North West
+1022,KIRKBY,-2.891012,53.48121,Knowsley,North West
+1022,LITHERLAND,-2.9963154,53.4720649,Bootle,North West
+1022,LIVERPOOL,-2.9915726,53.4083714,"Liverpool, Riverside",North West
+1022,OLD SWAN,-2.907765,53.414194,"Liverpool, Wavertree",North West
+1022,PRESCOT,-2.804564,53.428674,St Helens South and Whiston,North West
+1022,WALTON - LANCS,NA,NA,NA,NA
+1022,WHISTON,-2.791738,53.418071,St Helens South and Whiston,North West
+1023,BEBINGTON,-3.0075315,53.3530146,Wirral South,North West
+1023,BIRKENHEAD,-3.023009,53.389991,Birkenhead,North West
+1023,WALLASEY,-3.066215,53.426521,Wallasey,North West
+1023,WIRRAL,-3.0833333,53.3333333,Wirral South,North West
+1024,ELLESMERE PORT,-2.897404,53.279812,Ellesmere Port and Neston,North West
+1024,HESWALL WIRRAL,-3.0987304,53.3284285,Wirral South,North West
+1024,HOYLAKE,-3.1762801,53.393238,Wirral West,North West
+1024,NESTON WIRRAL,-3.0497047,53.2761533,Ellesmere Port and Neston,North West
+1025,Ashton-in-Makerfield,-2.642566,53.4869569,Makerfield,North West
+1025,EARLESTOWN,-2.659147,53.452247,St Helens North,North West
+1025,GOLBORNE,-2.598247,53.475425,Leigh,North West
+1025,HAYDOCK,-2.6849601,53.4676162,St Helens North,North West
+1025,NEWTON LE WILLOWS,-2.63508,53.452889,St Helens North,North West
+1025,RAINFORD,-2.7883808,53.5023923,St Helens North,North West
+1025,ST HELENS,-2.737095,53.456307,St Helens South and Whiston,North West
+1026,Abram,-2.590927,53.507086,Makerfield,North West
+1026,Aspull,-2.588311,53.568213,Wigan,North West
+1026,BILLINGE AND WINSTANLEY,-2.6715941,53.5211133,Makerfield,North West
+1026,HINDLEY,-2.580635,53.532996,Makerfield,North West
+1026,INCE-IN-MAKERFIELD,-2.619493,53.536413,Wigan,North West
+1026,LANGTREE,NA,NA,NA,NA
+1026,ORRELL,-2.708842,53.540987,Makerfield,North West
+1026,STANDISH-WITH-LANGTREE,-2.6659639,53.586808,Wigan,North West
+1026,WESTHOUGHTON,-2.525881,53.54896,Bolton West,North West
+1026,WIGAN,-2.6325074,53.5450645,Wigan,North West
+1026,WINSTANLEY,-2.6715941,53.5211133,Makerfield,North West
+1027,FORMBY,-3.068743,53.558271,Sefton Central,North West
+1027,ORMSKIRK,-2.885057,53.568935,West Lancashire,North West
+1027,SKELMERSDALE,-2.77637,53.5503519,West Lancashire,North West
+1027,SOUTHPORT,-3.010113,53.645708,Southport,North West
+1028,LYMM,-2.480044,53.381724,Warrington South,North West
+1028,RUNCORN,-2.729673,53.342078,Halton,North West
+1028,WARRINGTON,-2.5969501,53.3900441,Warrington South,North West
+1028,WIDNES,-2.733637,53.361024,Halton,North West
+1031,Accrington,-2.37218,53.753609,Hyndburn,North West
+1031,BLACKBURN,-2.487529,53.748575,Blackburn,North West
+1031,BOWLAND,NA,NA,NA,NA
+1031,CHURCH,NA,NA,NA,NA
+1031,CLAYTON-LE-MOORS,-2.385428,53.778598,Hyndburn,North West
+1031,CLITHEROE,-2.393083,53.871098,Ribble Valley,North West
+1031,COLNE,-2.176991,53.85564,Pendle,North West
+1031,DARWEN,-2.46874,53.695451,Rossendale and Darwen,North West
+1031,GREAT HARWOOD,-2.400249,53.781914,Hyndburn,North West
+1031,OSWALDTWISTLE,-2.406538,53.742244,Hyndburn,North West
+1031,RISHTON,-2.42362,53.768509,Hyndburn,North West
+1032,Barrowford,-2.218286,53.852041,Pendle,North West
+1032,BRIERFIELD,-2.2367309,53.821604,Pendle,North West
+1032,BURNLEY,-2.2405035,53.7892877,Burnley,North West
+1032,EARBY,-2.144158,53.916286,Pendle,North West
+1032,NELSON,-2.219377,53.835187,Pendle,North West
+1032,PADIHAM,-2.315723,53.802132,Burnley,North West
+1032,TRAWDEN,-2.138032,53.843872,Pendle,North West
+1033,Adlington,-2.606365,53.611055,Chorley,North West
+1033,Bamber Bridge,-2.6606344,53.7282629,Ribble Valley,North West
+1033,CHORLEY,-2.632596,53.653511,Chorley,North West
+1033,CROSTON,-2.777085,53.662525,South Ribble,North West
+1033,FULWOOD,NA,NA,NA,NA
+1033,GARSTANG,-2.772196,53.903027,Wyre and Preston North,North West
+1033,LEYLAND,-2.695478,53.697931,South Ribble,North West
+1033,LONGRIDGE,-2.598802,53.831915,Ribble Valley,North West
+1033,PRESTON,-2.70309,53.763201,Preston,North West
+1033,WALTON-LE-DALE,-2.674108,53.749667,Ribble Valley,North West
+1033,WITHNELL,-2.555034,53.690716,Chorley,North West
+1034,Bacup,-2.201259,53.707167,Rossendale and Darwen,North West
+1034,HASLINGDEN,-2.328,53.705,Hyndburn,North West
+1034,RAWTENSTALL,-2.3014596,53.7004862,Rossendale and Darwen,North West
+1034,ROSSENDALE,-2.279366,53.706451,Rossendale and Darwen,North West
+1041,Askham in Furness,-3.203934,54.189047,Barrow and Furness,North West
+1041,Barrow-in-Furness,-3.218894,54.108967,Barrow and Furness,North West
+1041,BROUGHTON-IN-FURNESS,-3.21127,54.277654,Barrow and Furness,North West
+1041,CONISTON,-3.07587,54.369071,Westmorland and Lonsdale,North West
+1041,DALTON-IN-FURNESS,-3.1782,54.156887,Barrow and Furness,North West
+1041,FURNESS,NA,NA,NA,NA
+1041,GRANGE-OVER-SANDS,-2.910688,54.191009,Westmorland and Lonsdale,North West
+1041,KIRKBY-IN-FURNESS,-3.1809121,54.2319843,Barrow and Furness,North West
+1041,ULVERSTON,-3.09267,54.195138,Barrow and Furness,North West
+1042,BLACKPOOL,-3.0356748,53.8175053,Blackpool South,North West
+1042,FLEETWOOD,-3.035673,53.916661,Lancaster and Fleetwood,North West
+1042,FYLDE,-2.7128565,53.7647874,Preston,North West
+1042,KIRKHAM,-2.871765,53.782164,Fylde,North West
+1042,LYTHAM ST ANNES,-3.0213193,53.756629,Fylde,North West
+1042,POULTON-LE-FYLDE,-2.986281,53.843964,Wyre and Preston North,North West
+1042,PREESALL,-2.965968,53.917914,Lancaster and Fleetwood,North West
+1042,ST ANNES,-3.036776,53.753869,Fylde,North West
+1042,THORNTON,NA,NA,NA,NA
+1042,THORNTON CLEVELEYS,-3.0213709,53.873712,Blackpool North and Cleveleys,North West
+1043,CARNFORTH,-2.768112,54.127363,Morecambe and Lunesdale,North West
+1043,GALGATE,-2.7886,53.993935,Lancaster and Fleetwood,North West
+1043,HEYSHAM,-2.894475,54.04199,Morecambe and Lunesdale,North West
+1043,LANCASTER,-2.8007399,54.046575,Lancaster and Fleetwood,North West
+1043,LUNESDALE,NA,NA,NA,NA
+1043,MORECAMBE,-2.864968,54.074166,Morecambe and Lunesdale,North West
+1051,CHESTER,-2.893075,53.193392,City of Chester,North West
+1051,HOOLE,-2.8649651,53.2002449,City of Chester,North West
+1051,TARPORLEY,-2.669436,53.160142,Eddisbury,North West
+1051,TARVIN,-2.761987,53.196499,Eddisbury,North West
+1052,CREWE,-2.4438209,53.100405,Crewe and Nantwich,North West
+1052,MALPAS,-2.7673359,53.019049,Eddisbury,North West
+1052,NANTWICH,-2.524102,53.067185,Crewe and Nantwich,North West
+1052,SANDBACH,-2.367382,53.146561,Congleton,North West
+1053,BUXTON,-1.91483,53.259082,High Peak,East Midlands
+1053,CHAPEL EN LE FRITH,-1.9129233,53.323988,High Peak,East Midlands
+1053,DISLEY,-2.042044,53.35833,Macclesfield,North West
+1053,HIGH PEAK,-2.0030175,53.3246691,High Peak,East Midlands
+1053,NEW MILLS,-2.0047714,53.3678916,High Peak,East Midlands
+1053,WHALEY BRIDGE,-1.9841743,53.3298746,High Peak,East Midlands
+1054,BOLLINGTON,-2.096652,53.2967,Macclesfield,North West
+1054,CONGLETON,-2.218923,53.162856,Congleton,North West
+1054,Macclesfield,-2.119287,53.258663,Macclesfield,North West
+1055,MIDDLEWICH,-2.443833,53.192565,Congleton,North West
+1055,NORTHWICH,-2.5181321,53.2586803,Weaver Vale,North West
+1055,WINSFORD,-2.51967,53.194262,Eddisbury,North West
+1111,Airdrie,-3.962566,55.866267,Airdrie and Shotts,Scotland
+1111,Barrhead,-4.397714,55.796711,East Renfrewshire,Scotland
+1111,BELLSHILL,-4.026536,55.816761,"Coatbridge, Chryston and Bellshill",Scotland
+1111,BISHOPTON,-4.50452,55.908622,Paisley and Renfrewshire North,Scotland
+1111,BLANTYRE,-4.09492,55.793868,Rutherglen and Hamilton West,Scotland
+1111,BRIDGE OF WEIR,-4.577723,55.856554,Paisley and Renfrewshire North,Scotland
+1111,BRIDGETON,NA,NA,NA,NA
+1111,CAMBUSLANG,-4.164891,55.820982,Rutherglen and Hamilton West,Scotland
+1111,CARLUKE,-3.836552,55.735435,Lanark and Hamilton East,Scotland
+1111,CLYDEBANK,-4.404774,55.900099,West Dunbartonshire,Scotland
+1111,COATBRIDGE,-4.019337,55.862241,"Coatbridge, Chryston and Bellshill",Scotland
+1111,CUMBERNAULD,-3.992534,55.945668,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland
+1111,EAST KILBRIDE,-4.1769988,55.7643524,"East Kilbride, Strathaven and Lesmahagow",Scotland
+1111,FINNIESTON,-4.274211,55.862131,Glasgow Central,Scotland
+1111,GLASGOW,-4.251806,55.864237,Glasgow Central,Scotland
+1111,GOVAN,-4.3128871,55.8615833,Glasgow South West,Scotland
+1111,HAMILTON,-4.053679,55.777633,Lanark and Hamilton East,Scotland
+1111,HILLINGTON,-4.3659739,55.849758,Glasgow South West,Scotland
+1111,HOWWOOD,-4.554573,55.810615,Paisley and Renfrewshire South,Scotland
+1111,JOHNSTONE,-4.513915,55.837324,Paisley and Renfrewshire South,Scotland
+1111,KILBARCHAN,-4.554189,55.838112,Paisley and Renfrewshire South,Scotland
+1111,KILMACOLM,-4.626772,55.893756,Inverclyde,Scotland
+1111,KINNING PARK,-4.2784998,55.8489432,Glasgow Central,Scotland
+1111,KIRKINTILLOCH,-4.1561656,55.9392401,East Dunbartonshire,Scotland
+1111,LARKHALL LANARKS,-3.971699,55.737744,Lanark and Hamilton East,Scotland
+1111,LOCHWINNOCH,-4.6302458,55.7958077,Paisley and Renfrewshire South,Scotland
+1111,MARYHILL,-4.302859,55.898174,Glasgow North,Scotland
+1111,MILNGAVIE,-4.316987,55.943304,East Dunbartonshire,Scotland
+1111,MOTHERWELL,-3.9810968,55.7832092,Motherwell and Wishaw,Scotland
+1111,NEW KILPATRICK,NA,NA,NA,NA
+1111,PAISLEY,-4.440114,55.847258,Paisley and Renfrewshire South,Scotland
+1111,PARKHEAD,-4.194059,55.851573,Glasgow East,Scotland
+1111,PARTICK,-4.3080977,55.8710561,Glasgow North West,Scotland
+1111,RENFREW,-4.391542,55.875322,Paisley and Renfrewshire North,Scotland
+1111,RUTHARGLEN,-4.2242689,55.828972,Rutherglen and Hamilton West,Scotland
+1111,SPRINGBURN,-4.230802,55.887201,Glasgow North East,Scotland
+1111,UDDINGSTON,-4.079127,55.815735,Lanark and Hamilton East,Scotland
+1111,WISHAW,-3.919354,55.773543,Motherwell and Wishaw,Scotland
+1112,Abington,NA,NA,NA,NA
+1112,BIGGER,NA,NA,NA,NA
+1112,LANARK,-3.782138,55.673865,Lanark and Hamilton East,Scotland
+1112,LESMAHAGOW,-3.88657,55.637634,"East Kilbride, Strathaven and Lesmahagow",Scotland
+1112,STONEHOUSE - LANARK,-3.983908,55.698739,Lanark and Hamilton East,Scotland
+1112,STRATHAVEN,-4.064323,55.675627,"East Kilbride, Strathaven and Lesmahagow",Scotland
+1113,HARTHILL,NA,NA,NA,NA
+1113,SHOTTS,-3.8063955,55.8238816,Airdrie and Shotts,Scotland
+1114,SANQUHAR,-3.926828,55.368078,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1115,GOUROCK,-4.8168799,55.9591984,Inverclyde,Scotland
+1115,GREENOCK,-4.771983,55.956476,Inverclyde,Scotland
+1115,PORT GLASGOW,-4.679807,55.932291,Inverclyde,Scotland
+1116,Alexandria,-4.5789271,55.9887061,West Dunbartonshire,Scotland
+1116,Arrochar,-4.745479,56.200972,Argyll and Bute,Scotland
+1116,BOWLING,-4.4883832,55.9308719,West Dunbartonshire,Scotland
+1116,COVE,NA,NA,NA,NA
+1116,DUMBARTON,-4.564554,55.945287,West Dunbartonshire,Scotland
+1116,HELENSBURGH,-4.734014,56.002318,Argyll and Bute,Scotland
+1116,KILCREGGAN,-4.824147,55.985505,Argyll and Bute,Scotland
+1116,OLD KILPATRICK,-4.4558289,55.92534,West Dunbartonshire,Scotland
+1117,Ardrossan,-4.81182,55.643889,North Ayrshire and Arran,Scotland
+1117,Arran,-5.2108573,55.5806165,North Ayrshire and Arran,Scotland
+1117,BEITH,-4.631787,55.753797,North Ayrshire and Arran,Scotland
+1117,BRODICK,-5.1451992,55.575111,North Ayrshire and Arran,Scotland
+1117,DALRY,-4.723153,55.711116,North Ayrshire and Arran,Scotland
+1117,DARVEL,-4.286513,55.609843,Kilmarnock and Loudoun,Scotland
+1117,GLENGARNOCK,-4.6775653,55.7391539,North Ayrshire and Arran,Scotland
+1117,GREENHOLM,-4.3294603,55.6058174,Kilmarnock and Loudoun,Scotland
+1117,IRVINE,-4.6696364,55.6115669,Central Ayrshire,Scotland
+1117,KILBIRNIE,-4.685977,55.755363,North Ayrshire and Arran,Scotland
+1117,KILMARNOCK,-4.498792,55.614719,Kilmarnock and Loudoun,Scotland
+1117,KILWINNING,-4.703117,55.65592,North Ayrshire and Arran,Scotland
+1117,NEWMILNS,-4.338353,55.608353,Kilmarnock and Loudoun,Scotland
+1117,SALTCOATS,-4.7834899,55.637652,North Ayrshire and Arran,Scotland
+1117,SKELMORLE,-4.88983,55.868522,North Ayrshire and Arran,Scotland
+1117,STEVENSTON,-4.76041,55.641817,North Ayrshire and Arran,Scotland
+1117,STEWARTON,-4.513587,55.679957,Kilmarnock and Loudoun,Scotland
+1118,Armadale,-3.702162,55.897742,Linlithgow and East Falkirk,Scotland
+1118,Bathgate,-3.643118,55.9024,Linlithgow and East Falkirk,Scotland
+1118,BROXBURN,-3.467681,55.934161,Livingston,Scotland
+1118,EAST CALDER,-3.468143,55.891683,Livingston,Scotland
+1118,KIRKLISTON,-3.401411,55.956972,Edinburgh West,Scotland
+1118,KIRKNEWTON,-3.425237,55.886883,Livingston,Scotland
+1118,LINLITHGOW,-3.6025847,55.9716266,Linlithgow and East Falkirk,Scotland
+1118,LIVINGSTONE W.LOTHIAN,-3.518068,55.900708,Livingston,Scotland
+1118,MID-CALDER,-3.481626,55.889243,Livingston,Scotland
+1118,TORPICHEN,-3.6542949,55.9334661,Linlithgow and East Falkirk,Scotland
+1118,UPHALL,-3.506609,55.929632,Livingston,Scotland
+1118,WEST CALDER,-3.566167,55.852154,Livingston,Scotland
+1118,WHITBURN,-3.682519,55.867674,Linlithgow and East Falkirk,Scotland
+1118,WINCHBURGH,-3.464285,55.959518,Livingston,Scotland
+1121,Annan,-3.259773,54.990246,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,CANONBIE,-2.954845,55.079195,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,DUMFRIES,-3.60512,55.070859,Dumfries and Galloway,Scotland
+1121,GRETNA,-3.067108,54.994997,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,LANGHOLM,-2.998913,55.153062,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,LOCHMABEN,-3.441824,55.129134,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,LOCKERBIE,-3.349008,55.122245,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,MOFFAT,-3.440337,55.335208,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1121,THORNHILL,-3.769113,55.245949,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1122,CASTLE DOUGLAS,-3.931414,54.940415,Dumfries and Galloway,Scotland
+1122,CREETOWN,-4.379552,54.901504,Dumfries and Galloway,Scotland
+1122,DALBEATTIE,-3.822527,54.934219,Dumfries and Galloway,Scotland
+1122,GATEHOUSE OF FLEET,-4.184215,54.882438,Dumfries and Galloway,Scotland
+1122,KIRKCUDBRIGHT,-4.04878,54.837569,Dumfries and Galloway,Scotland
+1122,NEW GALLOWAY,-4.141362,55.076387,Dumfries and Galloway,Scotland
+1122,NEWTON STEWART,-4.483164,54.960299,Dumfries and Galloway,Scotland
+1122,STRANRAER,-5.024055,54.903367,Dumfries and Galloway,Scotland
+1122,WHITHORN,-4.414893,54.734836,Dumfries and Galloway,Scotland
+1122,WIGTOWN,-4.444234,54.867159,Dumfries and Galloway,Scotland
+1123,BUTE,-5.0758634,55.8090147,Argyll and Bute,Scotland
+1123,FAIRLIE,-4.853477,55.757375,North Ayrshire and Arran,Scotland
+1123,ISLE OF BUTE,-5.0758634,55.8090147,Argyll and Bute,Scotland
+1123,ISLE OF CUMBRAE,-4.9256282,55.7649659,North Ayrshire and Arran,Scotland
+1123,LARGS,-4.867278,55.793335,North Ayrshire and Arran,Scotland
+1123,LATHERON,-3.366858,58.283276,"Caithness, Sutherland and Easter Ross",Scotland
+1123,LYBSTER,-3.285232,58.304216,"Caithness, Sutherland and Easter Ross",Scotland
+1123,MID-CLYTH,-3.212853,58.323884,"Caithness, Sutherland and Easter Ross",Scotland
+1123,MILLPORT,-4.9286167,55.7535865,North Ayrshire and Arran,Scotland
+1123,OCCUMSTER,-3.2567179,58.307347,"Caithness, Sutherland and Easter Ross",Scotland
+1123,ROTHESAY,-5.055793,55.835963,Argyll and Bute,Scotland
+1123,SCOTSCALDER,-3.55206,58.48298,"Caithness, Sutherland and Easter Ross",Scotland
+1123,THRUMSTER,-3.136007,58.389897,"Caithness, Sutherland and Easter Ross",Scotland
+1123,ULBSTER,-3.157041,58.352254,"Caithness, Sutherland and Easter Ross",Scotland
+1123,WEST KILBRIDE,-4.857158,55.695149,North Ayrshire and Arran,Scotland
+1124,Ayr,-4.629179,55.458564,"Ayr, Carrick and Cumnock",Scotland
+1124,DALMELLINGTON,-4.399468,55.323941,"Ayr, Carrick and Cumnock",Scotland
+1124,GIRVAN,-4.854218,55.240164,"Ayr, Carrick and Cumnock",Scotland
+1124,MAYBOLE,-4.679055,55.35302,"Ayr, Carrick and Cumnock",Scotland
+1124,PRESTWICK,-4.6142139,55.495587,Central Ayrshire,Scotland
+1124,TROON,-4.659948,55.541332,Central Ayrshire,Scotland
+1125,CATRINE,-4.329763,55.504446,Kilmarnock and Loudoun,Scotland
+1125,CUMNOCK,-4.265829,55.453552,"Ayr, Carrick and Cumnock",Scotland
+1125,HOLMHEAD,NA,NA,NA,NA
+1125,MAUCHLINE,-4.3777549,55.515888,Kilmarnock and Loudoun,Scotland
+1131,COCKBURNSPATH,-2.360664,55.932112,"Berwickshire, Roxburgh and Selkirk",Scotland
+1131,COLDSTREAM,-2.253399,55.65132,"Berwickshire, Roxburgh and Selkirk",Scotland
+1131,DUNS,-2.343461,55.777794,"Berwickshire, Roxburgh and Selkirk",Scotland
+1131,EYEMOUTH,-2.091068,55.869058,"Berwickshire, Roxburgh and Selkirk",Scotland
+1131,GREENLAW,-2.463809,55.706534,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,EARLSTON,-2.678481,55.639736,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,GALASHIELS,-2.814449,55.623728,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,GORDON,-2.562334,55.680488,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,HAWICK,-2.780914,55.42706,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,JEDBURGH,-2.5549369,55.477721,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,KELSO,-2.432207,55.600029,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,LAUDER,-2.756614,55.722936,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,MELROSE,-2.72191,55.598676,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,NEWCASTLETON,-2.813325,55.179364,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,NEWTON ST BOSWELLS,-2.6745359,55.577436,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,SELKIRK,-2.838524,55.550658,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,ST BOSWELLS,-2.6475399,55.570844,"Berwickshire, Roxburgh and Selkirk",Scotland
+1132,STOW,NA,NA,NA,NA
+1133,INNERLEITHEN,-3.064912,55.624015,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1133,PEEBLES,-3.193642,55.653071,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1133,WALKERBURN,-3.015892,55.625474,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1133,WEST LINTON,-3.356984,55.754795,"Dumfriesshire, Clydesdale and Tweeddale",Scotland
+1141,Balerno,-3.342351,55.885715,Edinburgh South West,Scotland
+1141,BONNYRIGG AND LASSWADE,-3.0845592,55.8857754,Midlothian,Scotland
+1141,COCKENZIE AND PORT SETON,-2.9626269,55.9693996,East Lothian,Scotland
+1141,CURRIE -,-3.311021,55.898864,Edinburgh South West,Scotland
+1141,DALKEITH,-3.066606,55.893118,Midlothian,Scotland
+1141,DUNBAR,-2.516737,56.002087,East Lothian,Scotland
+1141,E. LOTHIAN,-2.7704464,55.9493383,East Lothian,Scotland
+1141,EAST LINTON,-2.6592539,55.988747,East Lothian,Scotland
+1141,EDINBURGH,-3.188267,55.953252,Edinburgh East,Scotland
+1141,FORD,NA,NA,NA,NA
+1141,GALA WATER,-2.8811952,55.6938637,"Berwickshire, Roxburgh and Selkirk",Scotland
+1141,GOREBRIDGE,-3.046099,55.836732,Midlothian,Scotland
+1141,GULLANE,-2.827051,56.036342,East Lothian,Scotland
+1141,HADDINGTON,-2.774864,55.958674,East Lothian,Scotland
+1141,HERIOT,-2.9703189,55.7639416,"Berwickshire, Roxburgh and Selkirk",Scotland
+1141,HUMBIE,-2.864846,55.855093,East Lothian,Scotland
+1141,JUNIPER GREEN,-3.286457,55.905355,Edinburgh South West,Scotland
+1141,LASSWADE,-3.114017,55.88198,Midlothian,Scotland
+1141,LEITH,-3.166243,55.975117,Edinburgh North and Leith,Scotland
+1141,LOANHEAD,-3.149354,55.876406,Midlothian,Scotland
+1141,LONGNIDDRY,-2.896881,55.973847,East Lothian,Scotland
+1141,MUSSELBURGH,-3.053918,55.941941,East Lothian,Scotland
+1141,NEWBATTLE,-3.0742099,55.8798738,Midlothian,Scotland
+1141,NORTH BERWICK,-2.719646,56.058363,East Lothian,Scotland
+1141,ORMISTON,-2.942105,55.911827,East Lothian,Scotland
+1141,PENCAITLAND,-2.894661,55.9101,East Lothian,Scotland
+1141,PENICUIK,-3.224533,55.830932,Midlothian,Scotland
+1141,PORT SETON,-2.9455236,55.9703078,East Lothian,Scotland
+1141,PORTOBELLO,-3.113962,55.952872,Edinburgh East,Scotland
+1141,PRESTONPANS,-2.984467,55.959538,East Lothian,Scotland
+1141,ROSEWELL,-3.136254,55.851044,Midlothian,Scotland
+1141,ROSLIN,-3.164189,55.85587,Midlothian,Scotland
+1141,TRANENT,-2.954526,55.94451,East Lothian,Scotland
+1141,TYNEHEAD,-2.967949,55.823997,Midlothian,Scotland
+1142,BO'NESS,-3.6035314,56.0130357,Linlithgow and East Falkirk,Scotland
+1142,BONNYBRIDGE,-3.887711,56.003212,Falkirk,Scotland
+1142,BORROWSTOUNESS,-3.6035314,56.0130357,Linlithgow and East Falkirk,Scotland
+1142,DENNY,-3.90685,56.021427,Falkirk,Scotland
+1142,DUNIPACE,-3.917745,56.02819,Falkirk,Scotland
+1142,FALKIRK,-3.7839131,56.0018775,Falkirk,Scotland
+1142,GRANGEMOUTH,-3.7227698,56.0097152,Linlithgow and East Falkirk,Scotland
+1142,KILSYTH,-4.056933,55.979788,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland
+1142,LARBERT,-3.8360606,56.0196754,Falkirk,Scotland
+1142,QUEENSFERRY,-3.399045,55.990003,Edinburgh West,Scotland
+1142,SOUTH QUEENSFERRY,-3.399045,55.990003,Edinburgh West,Scotland
+1143,Alloa,-3.791896,56.114073,Ochil and South Perthshire,Scotland
+1143,Alva,-3.799375,56.152958,Ochil and South Perthshire,Scotland
+1143,BRIDGE OF ALLEN,-3.942208,56.153149,Stirling,Scotland
+1143,CALLANDER,-4.211663,56.245059,Stirling,Scotland
+1143,CLACKMANNONSHIRE,-3.758379,56.1241394,Ochil and South Perthshire,Scotland
+1143,CRAINLARICH,-4.6190155,56.3931388,Stirling,Scotland
+1143,DOLLAR,-3.677553,56.163937,Ochil and South Perthshire,Scotland
+1143,DOUNE,-4.055376,56.191486,Stirling,Scotland
+1143,DUNBLANE,-3.967449,56.183877,Stirling,Scotland
+1143,KILLIN,-4.319211,56.469346,Stirling,Scotland
+1143,LOCHEARNHEAD,-4.286113,56.388758,Stirling,Scotland
+1143,LUIB,NA,NA,NA,NA
+1143,MENSTRIE,-3.854674,56.151116,Ochil and South Perthshire,Scotland
+1143,RANNOCH STATION,-4.5770333,56.6858661,Perth and North Perthshire,Scotland
+1143,STIRLING,-3.9369029,56.1165227,Stirling,Scotland
+1143,STRATHYRE,-4.324699,56.325628,Stirling,Scotland
+1143,TILLICOULTRY,-3.740211,56.153916,Ochil and South Perthshire,Scotland
+1144,Anstruther,-2.700539,56.22298,North East Fife,Scotland
+1144,Auchtermuchty,-3.236092,56.292291,North East Fife,Scotland
+1144,CRAIL,-2.6275909,56.260551,North East Fife,Scotland
+1144,CUPAR,-3.010137,56.320235,North East Fife,Scotland
+1144,EARLSFERRY,-2.8341409,56.18963,North East Fife,Scotland
+1144,ELIE,-2.822051,56.190472,North East Fife,Scotland
+1144,FALKLAND,-3.206429,56.256285,North East Fife,Scotland
+1144,FIFE,-3.1495175,56.2082078,Glenrothes,Scotland
+1144,GUARDBRIDGE,-2.892685,56.364235,North East Fife,Scotland
+1144,KILRENNY,-2.689126,56.233741,North East Fife,Scotland
+1144,LADYBANK,-3.12671,56.280831,North East Fife,Scotland
+1144,LARGOWARD,-2.858759,56.259351,North East Fife,Scotland
+1144,LEUCHARS,-2.882275,56.380807,North East Fife,Scotland
+1144,LOWER LARGO,-2.9395272,56.213667,North East Fife,Scotland
+1144,NEWBURGH,-3.241471,56.350582,North East Fife,Scotland
+1144,NEWPORT FIFE,-2.940732,56.440473,North East Fife,Scotland
+1144,PITTENWEEM,-2.732285,56.214,North East Fife,Scotland
+1144,ST ANDREWS,-2.8063431,56.335054,North East Fife,Scotland
+1144,STRATHMILGO,-3.267681,56.278023,North East Fife,Scotland
+1144,TAYPORT,-2.880912,56.447996,North East Fife,Scotland
+1145,BUCKHAVEN AND METHIL,-3.0223949,56.1881963,Glenrothes,Scotland
+1145,CULROSS,-3.6298127,56.0551806,Dunfermline and West Fife,Scotland
+1145,FREUCHIE -,-3.15708,56.246793,North East Fife,Scotland
+1145,GLENROTHES,-3.15986,56.200842,Glenrothes,Scotland
+1145,KILCONQUHAR,-2.827716,56.208698,North East Fife,Scotland
+1145,KIRKCALDY,-3.158137,56.1168249,Kirkcaldy and Cowdenbeath,Scotland
+1145,LESLIE,-3.214391,56.200481,Glenrothes,Scotland
+1145,LEVEN,-2.996578,56.19632,North East Fife,Scotland
+1145,LOCHGELLY,-3.306033,56.130163,Kirkcaldy and Cowdenbeath,Scotland
+1145,MARKINCH,-3.1317689,56.203595,Glenrothes,Scotland
+1145,METHIL,-3.0164019,56.184843,Glenrothes,Scotland
+1145,WEMYSS,NA,NA,NA,NA
+1146,Aberdour,-3.30273,56.054679,Kirkcaldy and Cowdenbeath,Scotland
+1146,BURNTISLAND,-3.233915,56.058809,Kirkcaldy and Cowdenbeath,Scotland
+1146,CARDENDEN,-3.2558919,56.145247,Glenrothes,Scotland
+1146,COWDENBEATH,-3.341848,56.114407,Kirkcaldy and Cowdenbeath,Scotland
+1146,DUNFERMLINE,-3.452151,56.071741,Dunfermline and West Fife,Scotland
+1146,DYSART,-3.122933,56.127911,Kirkcaldy and Cowdenbeath,Scotland
+1146,INVERKEITHING,-3.398795,56.030043,Dunfermline and West Fife,Scotland
+1146,KELTY,-3.377893,56.13311,Kirkcaldy and Cowdenbeath,Scotland
+1146,KINGHORN,-3.174329,56.071231,Kirkcaldy and Cowdenbeath,Scotland
+1146,KINROSS,-3.4229,56.206132,Ochil and South Perthshire,Scotland
+1146,SOUTH FIFE,-3.1495175,56.2082078,Glenrothes,Scotland
+1151,BROUGHTY FERRY,-2.8665281,56.4742525,Dundee East,Scotland
+1151,DUNDEE,-2.970721,56.462018,Dundee West,Scotland
+1151,INCHTURE,-3.166953,56.445134,Perth and North Perthshire,Scotland
+1151,MONIFIETH,-2.819282,56.480177,Dundee East,Scotland
+1152,BRECHIN,-2.6552889,56.733342,Angus,Scotland
+1152,FORFAR,-2.889062,56.643558,Angus,Scotland
+1152,INVERBERVIE,-2.279823,56.84495,West Aberdeenshire and Kincardine,Scotland
+1152,KINCARDINE,-3.716692,56.068958,Dunfermline and West Fife,Scotland
+1152,KIRRIEMUIR,-3.003501,56.675117,Angus,Scotland
+1152,MONTROSE,-2.466115,56.706922,Angus,Scotland
+1152,NEWTYLE,-3.1476799,56.561857,Angus,Scotland
+1152,ST CYRUS,-2.415526,56.775035,West Aberdeenshire and Kincardine,Scotland
+1153,Arbroath,-2.591543,56.559107,Angus,Scotland
+1153,CARNOUSTIE,-2.70325,56.502565,Dundee East,Scotland
+1154,Aberfeldy,-3.866969,56.621752,Perth and North Perthshire,Scotland
+1154,Abernethy,-3.313714,56.332014,Ochil and South Perthshire,Scotland
+1154,Alyth,-3.226867,56.62578,Perth and North Perthshire,Scotland
+1154,Auchterarder,-3.700041,56.300621,Ochil and South Perthshire,Scotland
+1154,Ballinluig,-3.658386,56.655424,Perth and North Perthshire,Scotland
+1154,BLACKFORD,-3.778368,56.262381,Ochil and South Perthshire,Scotland
+1154,BLAIR ATHOLL,-3.843385,56.768184,Perth and North Perthshire,Scotland
+1154,BLAIRGOWRIE,-3.345894,56.588823,Perth and North Perthshire,Scotland
+1154,CALSTOCK,NA,NA,NA,NA
+1154,COMRIE,-3.995171,56.377967,Ochil and South Perthshire,Scotland
+1154,COUPAR ANGUS,-3.265548,56.547918,Perth and North Perthshire,Scotland
+1154,CRIEFF,-3.841994,56.37655,Ochil and South Perthshire,Scotland
+1154,DUNKELD,-3.5862204,56.5676532,Perth and North Perthshire,Scotland
+1154,FILLANS ST,NA,NA,NA,NA
+1154,MEIGLE,-3.1624279,56.586793,Perth and North Perthshire,Scotland
+1154,MUTHILL,-3.832889,56.330785,Ochil and South Perthshire,Scotland
+1154,PERTH,-3.430838,56.394994,Perth and North Perthshire,Scotland
+1154,PITLOCHRY,-3.729711,56.704361,Perth and North Perthshire,Scotland
+1154,RATTRAY,NA,NA,NA,NA
+1154,ST MONACE,NA,NA,NA,NA
+1154,STRATHTAY,-3.775986,56.663494,Perth and North Perthshire,Scotland
+1161,Aberdeen,-2.094278,57.149717,Aberdeen North,Scotland
+1161,Aboyne,-2.780312,57.076668,West Aberdeenshire and Kincardine,Scotland
+1161,Alford (Aberdeen),-2.704753,57.233323,West Aberdeenshire and Kincardine,Scotland
+1161,Ballater,-3.036649,57.05003,West Aberdeenshire and Kincardine,Scotland
+1161,Balmedie,-2.05753,57.252797,Gordon,Scotland
+1161,Banchory,-2.49096,57.053856,West Aberdeenshire and Kincardine,Scotland
+1161,BRAEMAR,-3.3979439,57.0064696,West Aberdeenshire and Kincardine,Scotland
+1161,CRATHES,-2.416892,57.06165,West Aberdeenshire and Kincardine,Scotland
+1161,DEESIDE,NA,NA,NA,NA
+1161,DESS,-2.72013,57.087576,West Aberdeenshire and Kincardine,Scotland
+1161,DINNET,-2.8930476,57.0766873,West Aberdeenshire and Kincardine,Scotland
+1161,DRUMOAK,-2.345878,57.08149,West Aberdeenshire and Kincardine,Scotland
+1161,DUNECHT,-2.410321,57.172136,West Aberdeenshire and Kincardine,Scotland
+1161,ECHT,-2.435379,57.141262,West Aberdeenshire and Kincardine,Scotland
+1161,ELLON,-2.072972,57.364597,Gordon,Scotland
+1161,FYVIE,-2.3889999,57.429806,Banff and Buchan,Scotland
+1161,GARIOCH,-2.7194167,57.1621429,West Aberdeenshire and Kincardine,Scotland
+1161,GLASSEL,-2.564424,57.085278,West Aberdeenshire and Kincardine,Scotland
+1161,GLENKINDIE,-2.936651,57.214441,West Aberdeenshire and Kincardine,Scotland
+1161,HUNTLY,-2.7878059,57.445936,Gordon,Scotland
+1161,INSCH,-2.611882,57.341405,Gordon,Scotland
+1161,INVERURIR,-2.373995,57.283474,Gordon,Scotland
+1161,KINELLAR,-2.317492,57.209263,West Aberdeenshire and Kincardine,Scotland
+1161,KINTORE,-2.346088,57.233247,Gordon,Scotland
+1161,LAURENCEKIRK,-2.472517,56.831345,West Aberdeenshire and Kincardine,Scotland
+1161,LOWER DEESIDE,NA,NA,NA,NA
+1161,LUMPHANAN,-2.686782,57.128223,West Aberdeenshire and Kincardine,Scotland
+1161,MEIKLE WARTLE,-2.465971,57.367164,Gordon,Scotland
+1161,METHLICK,-2.241669,57.425211,Banff and Buchan,Scotland
+1161,NEWMACHAR,-2.190301,57.266414,Gordon,Scotland
+1161,OLD MELDRUM,-2.321806,57.335138,Gordon,Scotland
+1161,PETERCULTER,-2.265216,57.097569,Aberdeen South,Scotland
+1161,PORTLETHEN,-2.129468,57.061681,West Aberdeenshire and Kincardine,Scotland
+1161,ROTHIE-NORMAN,-2.46576,57.413193,Banff and Buchan,Scotland
+1161,SAUCHEN,-2.499154,57.186934,West Aberdeenshire and Kincardine,Scotland
+1161,SKENE,-2.2947516,57.1528129,West Aberdeenshire and Kincardine,Scotland
+1161,ST KATHERINES,-2.3618929,57.402131,Banff and Buchan,Scotland
+1161,STONEHAVEN,-2.209288,56.963661,West Aberdeenshire and Kincardine,Scotland
+1161,STRATHDON,-3.07456,57.199078,West Aberdeenshire and Kincardine,Scotland
+1161,TARLAND,-2.854981,57.128262,West Aberdeenshire and Kincardine,Scotland
+1161,TARVES,-2.22094,57.370765,Gordon,Scotland
+1161,TORPHINS,-2.622312,57.104876,West Aberdeenshire and Kincardine,Scotland
+1161,TURRIFF,-2.4623,57.538932,Banff and Buchan,Scotland
+1161,UDNY,-2.1512577,57.3238477,Gordon,Scotland
+1161,WHITECAIRNS,-2.132127,57.254986,Gordon,Scotland
+1161,WYTHANBANK,-2.1603441,57.3977973,Gordon,Scotland
+1162,Aberchirder,-2.6295829,57.558592,Banff and Buchan,Scotland
+1162,Auchnagatt,-2.117029,57.465984,Banff and Buchan,Scotland
+1162,Banff,-2.524038,57.666505,Banff and Buchan,Scotland
+1162,BUCKIE,-2.967311,57.677392,Moray,Scotland
+1162,CRUDEN BAY,-1.850846,57.418095,Banff and Buchan,Scotland
+1162,CULLEN,-2.821937,57.691635,Moray,Scotland
+1162,DEER,NA,NA,NA,NA
+1162,FINDOCHTY -,-2.902275,57.697877,Moray,Scotland
+1162,FRASERBURGH,-2.007631,57.693352,Banff and Buchan,Scotland
+1162,HATTON,NA,NA,NA,NA
+1162,LONGSIDE,-1.940524,57.516025,Banff and Buchan,Scotland
+1162,LONMAY,-1.980369,57.61707,Banff and Buchan,Scotland
+1162,MACDUFF,-2.497849,57.67059,Banff and Buchan,Scotland
+1162,MAUD,-2.129582,57.522735,Banff and Buchan,Scotland
+1162,MINTLAW STATION,-2.0140908,57.5253361,Banff and Buchan,Scotland
+1162,NEW DEER,-2.189595,57.511809,Banff and Buchan,Scotland
+1162,NEWPITSLIGO,-2.199272,57.59194,Banff and Buchan,Scotland
+1162,PETERHEAD,-1.784066,57.508123,Banff and Buchan,Scotland
+1162,PORTKNOCKIE,-2.859311,57.703032,Moray,Scotland
+1162,PORTSOY,-2.688412,57.681023,Banff and Buchan,Scotland
+1162,ROSEHEARTY,-2.118062,57.695531,Banff and Buchan,Scotland
+1162,STRICHEN,-2.096076,57.589764,Banff and Buchan,Scotland
+1163,Aberlour,-3.216983,57.474911,Moray,Scotland
+1163,Ballindalloch,-3.35851,57.411359,Moray,Scotland
+1163,BRANDERBURGH,-3.291378,57.722608,Moray,Scotland
+1163,BURGHEAD,-3.489213,57.700232,Moray,Scotland
+1163,CARRON,NA,NA,NA,NA
+1163,CHARLESTOWN OF ABERLOUR,-3.216983,57.474911,Moray,Scotland
+1163,CRAGELLACHIE,-3.189215,57.491008,Moray,Scotland
+1163,DUFFTOWN,-3.12838,57.443623,Moray,Scotland
+1163,DUNPHAIL,-3.651795,57.515908,Moray,Scotland
+1163,ELGIN,-3.318485,57.649454,Moray,Scotland
+1163,FOCHABERS,-3.0975138,57.6142474,Moray,Scotland
+1163,FORRES,-3.61998,57.609791,Moray,Scotland
+1163,GRANTOWN ON SPEY,-3.609628,57.33041,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1163,KEITH,-2.951526,57.543094,Moray,Scotland
+1163,KNOCKANDO,-3.348407,57.456881,Moray,Scotland
+1163,LOSSIEMOUTH,-3.280325,57.721579,Moray,Scotland
+1163,MORAY,-3.2483773,57.511548,Moray,Scotland
+1163,MULBEN,-3.083016,57.541297,Moray,Scotland
+1163,NAIRN,-3.868475,57.586422,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1163,ROTHES,-3.207355,57.527809,Moray,Scotland
+1171,LERWICK,-1.1492932,60.1529871,Orkney and Shetland,Scotland
+1171,SHETLAND ISLANDS,-1.2659408,60.5296507,Orkney and Shetland,Scotland
+1171,ZETLAND,-1.3843217,60.5400848,Orkney and Shetland,Scotland
+1172,KIRKWALL,-2.962249,58.984674,Orkney and Shetland,Scotland
+1172,ORKNEY ISLANDS,-3.1542155,59.0429125,Orkney and Shetland,Scotland
+1172,STROMNESS,-3.296495,58.966194,Orkney and Shetland,Scotland
+1173,HARRIS,-6.801872,57.899286,Na h-Eileanan an Iar,Scotland
+1173,LEVERBURGH,-7.008351,57.769452,Na h-Eileanan an Iar,Scotland
+1173,LEWIS,-6.6615925,58.2415753,Na h-Eileanan an Iar,Scotland
+1173,NORTH LORN,NA,NA,NA,NA
+1173,STORNOWAY,-6.3848692,58.209435,Na h-Eileanan an Iar,Scotland
+1174,Altnabreac,-3.687284,58.373134,"Caithness, Sutherland and Easter Ross",Scotland
+1174,BERRIEDALE,-3.5009468,58.1842806,"Caithness, Sutherland and Easter Ross",Scotland
+1174,BRORA,-3.852548,58.012157,"Caithness, Sutherland and Easter Ross",Scotland
+1174,CAITHNESS,-3.779,58.277,"Caithness, Sutherland and Easter Ross",Scotland
+1174,DORNOCH,-4.028026,57.87907,"Caithness, Sutherland and Easter Ross",Scotland
+1174,DUNBEATH,-3.433149,58.250685,"Caithness, Sutherland and Easter Ross",Scotland
+1174,FORSINARD,-3.8954912,58.36679,"Caithness, Sutherland and Easter Ross",Scotland
+1174,GOLSPIE,-3.976086,57.973406,"Caithness, Sutherland and Easter Ross",Scotland
+1174,HALKIRK,-3.491715,58.514172,"Caithness, Sutherland and Easter Ross",Scotland
+1174,HELMSDALE,-3.653533,58.117261,"Caithness, Sutherland and Easter Ross",Scotland
+1174,INVERSHIN,-4.400766,57.929987,"Caithness, Sutherland and Easter Ross",Scotland
+1174,KILDONAN,NA,NA,NA,NA
+1174,KINBRACE,-3.94104,58.2583,"Caithness, Sutherland and Easter Ross",Scotland
+1174,LAIRG,-4.402414,58.022058,"Caithness, Sutherland and Easter Ross",Scotland
+1174,LOTH,NA,NA,NA,NA
+1174,ROGART,-4.139955,58.0047258,"Caithness, Sutherland and Easter Ross",Scotland
+1174,SUTHERLAND,NA,NA,NA,NA
+1174,THE MOUND,NA,NA,NA,NA
+1174,THURSO,-3.52208,58.593566,"Caithness, Sutherland and Easter Ross",Scotland
+1174,WICK,-3.093716,58.438936,"Caithness, Sutherland and Easter Ross",Scotland
+1175,Alness,-4.256825,57.695955,"Caithness, Sutherland and Easter Ross",Scotland
+1175,Ardgay,-4.363214,57.881213,"Caithness, Sutherland and Easter Ross",Scotland
+1175,Avoch,-4.174667,57.566687,"Ross, Skye and Lochaber",Scotland
+1175,BEAULY,-4.460351,57.483411,"Ross, Skye and Lochaber",Scotland
+1175,BUNCHREW,-4.305231,57.480636,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1175,CONON BRIDGE,-4.4364169,57.565426,"Ross, Skye and Lochaber",Scotland
+1175,CROMARTY,-4.034678,57.680609,"Ross, Skye and Lochaber",Scotland
+1175,DAVIOT,NA,NA,NA,NA
+1175,DELNY,-4.129367,57.720208,"Caithness, Sutherland and Easter Ross",Scotland
+1175,DINGWALL,-4.428411,57.595347,"Ross, Skye and Lochaber",Scotland
+1175,EDDERTON,-4.175704,57.832788,"Caithness, Sutherland and Easter Ross",Scotland
+1175,EVANTON,-4.33728,57.662875,"Caithness, Sutherland and Easter Ross",Scotland
+1175,FEARN,-3.952938,57.772191,"Caithness, Sutherland and Easter Ross",Scotland
+1175,FORTROSE,-4.130675,57.581558,"Ross, Skye and Lochaber",Scotland
+1175,GARVE,-4.68839,57.61302,"Ross, Skye and Lochaber",Scotland
+1175,GOLLANFIELD,-3.988998,57.554423,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1175,INVERGORDON,-4.172882,57.688106,"Caithness, Sutherland and Easter Ross",Scotland
+1175,INVERNESS,-4.224721,57.477773,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1175,KILDARY,-4.073627,57.747111,"Caithness, Sutherland and Easter Ross",Scotland
+1175,KILLEARNAN,-4.2287227,57.5229575,"Ross, Skye and Lochaber",Scotland
+1175,KIRKHILL,-4.413941,57.475843,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1175,LENTRAN,-4.3616849,57.475835,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1175,LOCHLUICHART,-4.80959,57.62117,"Ross, Skye and Lochaber",Scotland
+1175,MUIR-OF-ORD,-4.461075,57.518417,"Ross, Skye and Lochaber",Scotland
+1175,MUNLOCHY,-4.26259,57.549071,"Ross, Skye and Lochaber",Scotland
+1175,NIGG STATION,-4.020322,57.692589,"Caithness, Sutherland and Easter Ross",Scotland
+1175,ROSS - PERTH,NA,NA,NA,NA
+1175,STRATHPEFFER,-4.539684,57.585059,"Ross, Skye and Lochaber",Scotland
+1175,TAIN,NA,NA,NA,NA
+1175,TORE,-4.32851,57.540599,"Ross, Skye and Lochaber",Scotland
+1176,Achanalt,-4.90993,57.611952,"Ross, Skye and Lochaber",Scotland
+1176,Acharacle,-5.79764,56.744487,"Ross, Skye and Lochaber",Scotland
+1176,Achnasheen,-5.0787658,57.5785922,"Ross, Skye and Lochaber",Scotland
+1176,Achnashellach,-5.33305,57.48205,"Ross, Skye and Lochaber",Scotland
+1176,Ardersier,-4.036627,57.568133,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,Ardnamurchan,-6,56.7166667,"Ross, Skye and Lochaber",Scotland
+1176,Ardvasar,-5.906472,57.059332,"Ross, Skye and Lochaber",Scotland
+1176,Argyll,-5.238366,56.429411,Argyll and Bute,Scotland
+1176,Arisaig,-5.8427246,56.910099,"Ross, Skye and Lochaber",Scotland
+1176,Aviemore,-3.823812,57.19449,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,Badenoch,-4.0522795,57.0802589,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,BOAT-OF-GARTEN,-3.7533221,57.248664,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,BREAKISH,-5.8439084,57.2439753,"Ross, Skye and Lochaber",Scotland
+1176,BROADFORD,-5.9096591,57.2413917,"Ross, Skye and Lochaber",Scotland
+1176,CARBOST,-6.354373,57.30158,"Ross, Skye and Lochaber",Scotland
+1176,CARR BRIDGE,NA,NA,NA,NA
+1176,CORROUR FERSIT,-4.6721437,56.8732733,"Ross, Skye and Lochaber",Scotland
+1176,CULLODEN MOOR,-4.0707274,57.4846801,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,DALWHINNIE,-4.242783,56.936604,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,DUNVEGAN,-6.581628,57.436294,"Ross, Skye and Lochaber",Scotland
+1176,FORT AUGUSTUS,-4.6805166,57.1448064,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,FORT WILLIAM,-5.105218,56.819817,"Ross, Skye and Lochaber",Scotland
+1176,GAIRLOCH,-5.693912,57.72822,"Ross, Skye and Lochaber",Scotland
+1176,GLENBRITTLE,-6.2901809,57.209901,"Ross, Skye and Lochaber",Scotland
+1176,GLENFINNAN,-5.4383094,56.8714325,"Ross, Skye and Lochaber",Scotland
+1176,INVERGARRY,-4.800261,57.070951,"Ross, Skye and Lochaber",Scotland
+1176,ISLE OF CANNA,-6.53144,57.063035,"Ross, Skye and Lochaber",Scotland
+1176,ISLE OF EIGG,-6.141612,56.899527,"Ross, Skye and Lochaber",Scotland
+1176,ISLE OF ORNSAY,-5.807938,57.146292,"Ross, Skye and Lochaber",Scotland
+1176,ISLE OF RHUM,-6.3238695,57.0094736,"Ross, Skye and Lochaber",Scotland
+1176,ISLE OF SCALPAY,-5.936167,57.284089,"Ross, Skye and Lochaber",Scotland
+1176,KINGUSSIE,-4.054468,57.081409,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,KYLE OF LOCHALSH,-5.7143293,57.2826065,"Ross, Skye and Lochaber",Scotland
+1176,KYLEAKIN,-5.728813,57.272469,"Ross, Skye and Lochaber",Scotland
+1176,LOCHAILORT,-5.665676,56.878871,"Ross, Skye and Lochaber",Scotland
+1176,LOCHBROOM,-5.0688599,57.808878,"Ross, Skye and Lochaber",Scotland
+1176,LOCHCARRON,-5.5030789,57.397704,"Ross, Skye and Lochaber",Scotland
+1176,MALLAIG,-5.827173,57.003813,"Ross, Skye and Lochaber",Scotland
+1176,MORAR,-5.822576,56.970228,"Ross, Skye and Lochaber",Scotland
+1176,NETHY BRIDGE,-3.654089,57.263644,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,NEWTONMORE,-4.121542,57.066379,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,PLOCKTON,-5.6490887,57.3406167,"Ross, Skye and Lochaber",Scotland
+1176,PORTNALONG,-6.402561,57.327313,"Ross, Skye and Lochaber",Scotland
+1176,PORTREE .,-6.196023,57.412474,"Ross, Skye and Lochaber",Scotland
+1176,ROY BRIDGE,-4.7122843,56.9676361,"Ross, Skye and Lochaber",Scotland
+1176,SCONSER,-6.115865,57.311956,"Ross, Skye and Lochaber",Scotland
+1176,SKYE,-6.2262725,57.5359261,"Ross, Skye and Lochaber",Scotland
+1176,SLIGACHAN,-6.174257,57.289698,"Ross, Skye and Lochaber",Scotland
+1176,SPEAN BRIDGE,-4.915134,56.895695,"Ross, Skye and Lochaber",Scotland
+1176,STRATHCARRON,-5.428393,57.424497,"Ross, Skye and Lochaber",Scotland
+1176,STROME FERRY,-5.5530724,57.3290603,"Ross, Skye and Lochaber",Scotland
+1176,TARSKAVAIG,-5.985938,57.114592,"Ross, Skye and Lochaber",Scotland
+1176,TEANGUE,-5.854125,57.111526,"Ross, Skye and Lochaber",Scotland
+1176,TOMATIN,-3.992198,57.335757,"Inverness, Nairn, Badenoch and Strathspey",Scotland
+1176,TULLOCH,-4.348704,57.900977,"Caithness, Sutherland and Easter Ross",Scotland
+1177,Appin,-5.3587619,56.561684,Argyll and Bute,Scotland
+1177,Aros,-5.9427495,56.5196474,Argyll and Bute,Scotland
+1177,Auchnacraig,-5.6695014,56.4089832,Argyll and Bute,Scotland
+1177,Ballachulish,-5.13372,56.673927,"Ross, Skye and Lochaber",Scotland
+1177,Barra,-7.4567959,56.9808838,Na h-Eileanan an Iar,Scotland
+1177,BRIDGE OF ORCHY,-4.766082,56.514058,Argyll and Bute,Scotland
+1177,BUNESSAN,-6.235297,56.315101,Argyll and Bute,Scotland
+1177,CARSAIG,-5.980485,56.32473,Argyll and Bute,Scotland
+1177,CASTLEBAY,-7.486566,56.954527,Na h-Eileanan an Iar,Scotland
+1177,COLL,-6.5618783,56.6246136,Argyll and Bute,Scotland
+1177,CONNEL,-5.3896309,56.45409,Argyll and Bute,Scotland
+1177,CRAIGNURE,-5.6981216,56.4683152,Argyll and Bute,Scotland
+1177,CROGGAN,-5.715848,56.381866,Argyll and Bute,Scotland
+1177,DALMALLY,-4.972179,56.40234,Argyll and Bute,Scotland
+1177,FIONNPHORT,-6.369892,56.324882,Argyll and Bute,Scotland
+1177,GALSTON,-4.382581,55.601592,Kilmarnock and Loudoun,Scotland
+1177,GRULINE,-5.989897,56.489708,Argyll and Bute,Scotland
+1177,ISLE OF IONA,-6.4041001,56.3347303,Argyll and Bute,Scotland
+1177,ISLE OF MULL,-5.771666,56.446865,Argyll and Bute,Scotland
+1177,KINLOCHLEVEN,-4.963824,56.713145,"Ross, Skye and Lochaber",Scotland
+1177,LOCHBOISDALE,-7.308006,57.153218,Na h-Eileanan an Iar,Scotland
+1177,LOCHBUIE,-5.858964,56.355292,Argyll and Bute,Scotland
+1177,LOCHMADDY,-7.1622117,57.6045975,Na h-Eileanan an Iar,Scotland
+1177,LORN AND ISLAND,-5.4750063,56.4002761,Argyll and Bute,Scotland
+1177,NORTH UIST,-7.3200484,57.5909041,Na h-Eileanan an Iar,Scotland
+1177,OBAN,-5.471047,56.415157,Argyll and Bute,Scotland
+1177,PENNYGHAEL,-6.019933,56.363832,Argyll and Bute,Scotland
+1177,SCARINISH,-6.808511,56.503802,Argyll and Bute,Scotland
+1177,SOUTH LORN,-4.5717553,56.0378686,West Dunbartonshire,Scotland
+1177,SOUTH UIST,-7.3476718,57.2254371,Na h-Eileanan an Iar,Scotland
+1177,TAYNUILT,-5.239309,56.429137,Argyll and Bute,Scotland
+1177,TIREE,-6.879138,56.49849,Argyll and Bute,Scotland
+1177,TIRORAN,-6.088553,56.377329,Argyll and Bute,Scotland
+1177,TOBERMORY,-6.0723004,56.6227813,Argyll and Bute,Scotland
+1177,TORLOISK,-6.2124463,56.5320029,Argyll and Bute,Scotland
+1177,UIST,-7.32,57.446,Na h-Eileanan an Iar,Scotland
+1177,ULVAFERRY,-6.1647124,56.4797497,Argyll and Bute,Scotland
+1178,COLINTRAIVE,-5.145398,55.921863,Argyll and Bute,Scotland
+1178,COWAL,-4.3011806,55.8939141,Glasgow North,Scotland
+1178,DUNOON,-4.926214,55.950973,Argyll and Bute,Scotland
+1178,INNELLAN,-4.966692,55.889329,Argyll and Bute,Scotland
+1179,Ardrishaig,-5.450042,56.010917,Argyll and Bute,Scotland
+1179,Ballygrant,-6.160956,55.818195,Argyll and Bute,Scotland
+1179,BOWMORE,-6.2873101,55.7561259,Argyll and Bute,Scotland
+1179,BRIDGEND ARGYLL,-6.250006,55.781524,Argyll and Bute,Scotland
+1179,BRUICHLADDICH,-6.3619999,55.7656877,Argyll and Bute,Scotland
+1179,CAIRNDOW,-4.937012,56.255885,Argyll and Bute,Scotland
+1179,CAMPBELTOWN,-5.605374,55.424117,Argyll and Bute,Scotland
+1179,COLONSAY,-6.183788,56.090927,Argyll and Bute,Scotland
+1179,CRAIGHOUSE,-5.95385,55.833684,Argyll and Bute,Scotland
+1179,INVERARAY,-5.0771018,56.2309517,Argyll and Bute,Scotland
+1179,ISLAY,-6.177067,55.7362535,Argyll and Bute,Scotland
+1179,ISLE OF GIGHA,-5.7490938,55.68459,Argyll and Bute,Scotland
+1179,JURA,-5.9414209,55.9041798,Argyll and Bute,Scotland
+1179,KINTYRE AND ISLANDS,NA,NA,NA,NA
+1179,LOCHGILPHEAD,-5.432345,56.038292,Argyll and Bute,Scotland
+1179,LOCHGOILHEAD,-4.900365,56.170641,Argyll and Bute,Scotland
+1179,MACHRIHANISH SCOTLAND,-5.73507,55.422457,Argyll and Bute,Scotland
+1179,MULL,-6.000887,56.4391984,Argyll and Bute,Scotland
+1179,PORT CHARLOTTE,-6.3786232,55.7387868,Argyll and Bute,Scotland
+1179,PORT ELLEN,-6.1874153,55.6301806,Argyll and Bute,Scotland
+1179,PORTASKAIG,-6.106316,55.847773,Argyll and Bute,Scotland
+1179,PORTNAHAVEN,-6.507585,55.681117,Argyll and Bute,Scotland
+1179,ST CATHERINES,-5.030084,56.221654,Argyll and Bute,Scotland
+1179,STRACHUR,-5.0675944,56.1674125,Argyll and Bute,Scotland
+1179,TARBERT LOCH FYNE,-5.4156047,55.8623832,Argyll and Bute,Scotland
+1179,TIGNABRUAICH,-5.2329104,55.9069394,Argyll and Bute,Scotland
+1300,CHANNEL ISLES,-2.541628,49.483539,NA,NA
+1400,ISLE OF MAN,-4.544785,54.25494,NA,NA
+9413,Ampthill,-0.4951417,52.0272503,Mid Bedfordshire,East of England
+9413,Arlesey,-0.26326,52.015347,North East Bedfordshire,East of England
+9413,BEDFORD,-0.4666546,52.1359729,Bedford,East of England
+9413,BIGGLESWADE,-0.26422,52.086938,North East Bedfordshire,East of England
+9413,HENLOW,-0.285839,52.029845,North East Bedfordshire,East of England
+9413,KEMPSTON,-0.4967915,52.1179148,Bedford,East of England
+9413,KEMPSTON HARDWICK BEDS,-0.494995,52.087739,Bedford,East of England
+9413,SANDY,-0.286788,52.128118,North East Bedfordshire,East of England
+9413,SHEFFORD,-0.333947,52.038699,Mid Bedfordshire,East of England
+9427,BRIGHTLINGSEA,1.021399,51.816142,Harwich and North Essex,East of England
+9427,BURES,0.777277,51.973881,South Suffolk,East of England
+9427,CLACTON-ON-SEA,1.153035,51.789534,Clacton,East of England
+9427,COGGESHALL,0.692681,51.870799,Witham,East of England
+9427,COLCHESTER,0.891874,51.895927,Colchester,East of England
+9427,HALSTEAD,0.639032,51.945073,Braintree,East of England
+9427,HARWICH,1.260297,51.934731,Harwich and North Essex,East of England
+9427,LEXDEN,0.861194,51.882729,Colchester,East of England
+9427,MANNINGTREE,1.062086,51.945407,Harwich and North Essex,East of England
+9427,TENDRING,1.1145037,51.8748081,Harwich and North Essex,East of England
+9427,TOLLESBURY,0.837317,51.757987,Witham,East of England
+9427,WALTON - ESSEX,1.267736,51.848186,Clacton,East of England
+9427,WEST MERSEA,0.928821,51.777645,Harwich and North Essex,East of England
+9427,WINSTREE,NA,NA,NA,NA
+9427,WIVENHOE,0.965274,51.857997,Harwich and North Essex,East of England
+9428,BOCKING,0.558859,51.8840549,Braintree,East of England
+9428,BRAINTREE,0.5509269,51.880087,Braintree,East of England
+9428,BURNHAM-ON-CROUCH,0.814539,51.628347,Maldon,East of England
+9428,CHELMSFORD,0.4685497,51.7355868,Chelmsford,East of England
+9428,DUNMOW,0.361321,51.867506,Saffron Walden,East of England
+9428,GREAT DUNMOW ESSEX,0.35792,51.873148,Saffron Walden,East of England
+9428,INGATESTONE,0.3899059,51.673794,Brentwood and Ongar,East of England
+9428,MALDON,0.671448,51.731805,Maldon,East of England
+9428,SOUTHMINSTER,0.8300689,51.662231,Maldon,East of England
+9428,STANSTED,0.19691,51.905225,Saffron Walden,East of England
+9428,THAXTED ESSEX,0.3446183,51.9532618,Saffron Walden,East of England
+9428,WITHAM,0.6372179,51.7978049,Witham,East of England
+9431,DUNSTABLE,-0.52039,51.885644,South West Bedfordshire,East of England
+9431,LEIGHTON BUZZARD,-0.660657,51.9196839,South West Bedfordshire,East of England
+9431,LINSLADE,-0.673847,51.918248,South West Bedfordshire,East of England
+9431,LUTON,-0.4200255,51.8786707,Luton South,East of England
+9431,MARKYATE HERTS,-0.4605389,51.8359878,Hemel Hempstead,East of England
+9431,WING,-0.7178314,51.898003,Buckingham,South East
+9432,BERKHAMPSTEAD,-0.5678569,51.759766,South West Hertfordshire,East of England
+9432,CHORLEYWOOD,-0.5161829,51.655632,South West Hertfordshire,East of England
+9432,HARPENDEN,-0.358953,51.81846,Hitchin and Harpenden,East of England
+9432,HATFIELD,-0.22309,51.763366,Welwyn Hatfield,East of England
+9432,HEMEL HEMPSTEAD,-0.448632,51.753241,Hemel Hempstead,East of England
+9432,LEAVESDEN,-0.4183,51.6888999,Watford,East of England
+9432,ST ALBANS,-0.339436,51.752725,St Albans,East of England
+9432,TRING,-0.655879,51.796078,South West Hertfordshire,East of England
+9432,WATFORD,-0.39032,51.656489,Watford,East of England
+9432,WELWYN,-0.212348,51.832802,Welwyn Hatfield,East of England
+9432,WELWYN GARDEN CITY,-0.208661,51.8031689,Welwyn Hatfield,East of England
+9432,WHEATHAMPSTEAD HERTS,-0.2938223,51.8114109,Hitchin and Harpenden,East of England
+9433,Baldock,-0.189128,51.9895039,North East Hertfordshire,East of England
+9433,BUNTINGFORD,-0.018547,51.946217,North East Hertfordshire,East of England
+9433,HITCHIN,-0.283414,51.94921,Hitchin and Harpenden,East of England
+9433,KNEBWORTH,-0.182981,51.8655339,Stevenage,East of England
+9433,LETCHWORTH,-0.226624,51.979074,North East Hertfordshire,East of England
+9433,ROYSTON - HERTS,-0.024066,52.048142,North East Hertfordshire,East of England
+9433,STEVENAGE,-0.196612,51.903761,Stevenage,East of England
+9434,BISHOPS STORTFORD,0.1536502,51.8721635,Hertford and Stortford,East of England
+9434,BRAUGHING,0.0327857,51.9084535,North East Hertfordshire,East of England
+9434,BROXBOURNE,-0.021151,51.743473,Broxbourne,East of England
+9434,EPPING,0.108655,51.700328,Epping Forest,East of England
+9434,HERTFORD,-0.081157,51.795756,Hertford and Stortford,East of England
+9434,HODDESDON,-0.015042,51.760007,Broxbourne,East of England
+9434,MARLOW,NA,NA,NA,NA
+9434,MUCH HADHAM,0.071866,51.856054,Hertford and Stortford,East of England
+9434,SAWBRIDGEWORTH,0.14721,51.81554,Hertford and Stortford,East of England
+9434,WARE,-0.028177,51.810437,Hertford and Stortford,East of England
+9435,BRENTWOOD,0.3071749,51.620475,Brentwood and Ongar,East of England
+9435,LOUGHTON,0.068161,51.655942,Epping Forest,East of England
+9435,ONGAR,0.252139,51.706726,Brentwood and Ongar,East of England
+9435,ROMFORD,0.178319,51.577076,Romford,Greater London Authority
+9436,GRAYS,0.3230151,51.4784037,Thurrock,East of England
+9436,PURFLEET,0.2433122,51.4867106,Thurrock,East of England
+9436,STANFORD-LE-HOPE,0.42854,51.514121,South Basildon and East Thurrock,East of England
+9436,TILBURY,0.360498,51.463024,Thurrock,East of England
+9437,Basildon,0.488736,51.576084,Basildon and Billericay,East of England
+9437,CANVEY ISLAND,0.578411,51.517083,Castle Point,East of England
+9437,HOCKLEY,0.6547012,51.6014204,Rayleigh and Wickford,East of England
+9437,LAINDON,0.418074,51.573935,Basildon and Billericay,East of England
+9437,LEIGH ON SEA,0.6472769,51.5474028,Southend West,East of England
+9437,PITSEA,0.505078,51.56491,South Basildon and East Thurrock,East of England
+9437,RAYLEIGH,0.604871,51.586385,Rayleigh and Wickford,East of England
+9437,ROCHFORD,0.706515,51.582071,Rochford and Southend East,East of England
+9437,SHOEBURYNESS ESSEX,0.797853,51.531522,Rochford and Southend East,East of England
+9437,SOUTHEND-ON-SEA,0.7077123,51.5459269,Rochford and Southend East,East of England
+9437,THUNDERSLEY,0.595944,51.568747,Castle Point,East of England
+9437,WESTCLIFFE-ON-SEA,0.696966,51.535879,Rochford and Southend East,East of England
+9437,WICKFORD,0.52068,51.611309,Rayleigh and Wickford,East of England
